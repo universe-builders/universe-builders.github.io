@@ -6,11 +6,11 @@ url: https://just-the-docs.github.io
 search_enabled: true
 
 mermaid:
-  version: "9.1.3"
+  version: "10.1.0"
 
 footer_content: "Copyright &copy; 2023 Universe Builders PTY LTD. ACN: 667284504"
 
-#color_scheme: dark
+color_scheme: dark
 
 plugins:
   - jekyll-redirect-from

@@ -2,274 +2,302 @@
     "doc": "Accessibility Plan",
     "title": "Testing",
     "content": " ",
-    "url": "/dungeon-survivors/accessibility-plan.html#testing",
+    "url": "/void-survivors/accessibility-plan.html#testing",
     
-    "relUrl": "/dungeon-survivors/accessibility-plan.html#testing"
+    "relUrl": "/void-survivors/accessibility-plan.html#testing"
   },"1": {
     "doc": "Accessibility Plan",
     "title": "Accessibility Plan",
     "content": " ",
-    "url": "/dungeon-survivors/accessibility-plan.html",
+    "url": "/void-survivors/accessibility-plan.html",
     
-    "relUrl": "/dungeon-survivors/accessibility-plan.html"
+    "relUrl": "/void-survivors/accessibility-plan.html"
   },"2": {
     "doc": "Art Direction",
     "title": "To Do",
     "content": ". | Concept Art | . ",
-    "url": "/dungeon-survivors/art-direction.html#to-do",
+    "url": "/void-survivors/art-direction.html#to-do",
     
-    "relUrl": "/dungeon-survivors/art-direction.html#to-do"
+    "relUrl": "/void-survivors/art-direction.html#to-do"
   },"3": {
     "doc": "Art Direction",
     "title": "Art Direction",
     "content": " ",
-    "url": "/dungeon-survivors/art-direction.html",
+    "url": "/void-survivors/art-direction.html",
     
-    "relUrl": "/dungeon-survivors/art-direction.html"
+    "relUrl": "/void-survivors/art-direction.html"
   },"4": {
     "doc": "Design Direction",
     "title": "To Do",
-    "content": ". | Design Pillars | Gameplay Loop | Level up faster than enemies get stronger (graphs) | FTUE | . ",
-    "url": "/dungeon-survivors/design-direction.html#to-do",
+    "content": ". | Design Pillars | FTUE | . ",
+    "url": "/void-survivors/design-direction.html#to-do",
     
-    "relUrl": "/dungeon-survivors/design-direction.html#to-do"
+    "relUrl": "/void-survivors/design-direction.html#to-do"
   },"5": {
     "doc": "Design Direction",
-    "title": "Player Motivations",
-    "content": "🤝 Cooperation . Players will have lots of ways to cooperate directly with other players and are highly motivated to seek each other out and team up. 🏆 Competition . Teams will have metrics and achievements based on personal performance of individuals within their team. 🔥 Destruction . Players will be able to cause destruction to the environment and enemies in an over-the-top fireworks-display comical manner. 💪 Progression . Players will feel stronger in a single session during gameplay and upgrade their characters during the meta gameplay. 🔎 Discovery . Players will be able to discover different environments, characters, and enemies over their sessions. ",
-    "url": "/dungeon-survivors/design-direction.html#player-motivations",
+    "title": "🪜 Design Pillars 🪜",
+    "content": "Hyper Accessibility . Community engager . | make leader feel important and be recognizable | . Shareable . Multi-taskable . Short Sessions . Leave anytime, join anytime . Positive reinforcement . ",
+    "url": "/void-survivors/design-direction.html#-design-pillars-",
     
-    "relUrl": "/dungeon-survivors/design-direction.html#player-motivations"
+    "relUrl": "/void-survivors/design-direction.html#-design-pillars-"
   },"6": {
     "doc": "Design Direction",
-    "title": "🌀 Gameplay Loop 🌀",
-    "content": "* Icons on the right of each state indicate the player motivation. stateDiagram-v2 state \"🧙 Explore 🔎\" as EXPLORE state \"👹 Find Enemies 🔎\" as FIND_E state \"🧙 Find Players 🤝🏆\" as FIND_P state \"👹 Defeat Enemies 🔥\" as DEFEAT_E state \"🪙 Gain Gold 💪\" as GET_GLD state \"⭐ Gain Experience 💪\" as GET_EXP state \"⬆️ Level Up 💪\" as P_LVL state \"💀 Defeated 💀\" as DEFEATED note right of GET_GLD Metagame progression end note EXPLORE --&gt; FIND_E EXPLORE --&gt; FIND_P FIND_E --&gt; DEFEATED: 🖤🖤🖤 FIND_E --&gt; DEFEAT_E: 💖🖤🖤 FIND_P --&gt; DEFEAT_E DEFEAT_E --&gt; GET_GLD GET_GLD --&gt; GET_EXP GET_EXP --&gt; P_LVL P_LVL --&gt; EXPLORE . stateDiagram-v2 state \"⏱️ Time Passed\" as TIMER state \"👹 Enemies level up 🔎\" as E_LVL state \"👹 Enemies spawn quicker\" as E_QUICK state \"💀 Difficulty increased 💀\" as DIFFICULTY TIMER --&gt; E_LVL TIMER --&gt; TIMER: ⏱️ 1 minute TIMER --&gt; E_QUICK E_LVL --&gt; DIFFICULTY E_QUICK --&gt; DIFFICULTY . ",
-    "url": "/dungeon-survivors/design-direction.html#-gameplay-loop-",
+    "title": "🏃 Player Motivations 🏃",
+    "content": "🤝 Cooperation . Players are highly motivated to seek each other out and team up. Players progress faster in groups, are able to help each other out directly using their character abilities. 🏆 Competition . Teams will have statistics of individual performance (damage, healing, …) displayed at all times which will motivate players to top the team leaderboard. 🔥 Destruction . The combat will cause destruction to the environment and enemies in an over-the-top fireworks-display comical manner. 💪 Progression . In a short 15 minute session players will progress rapidly in their character and be reset at the end of the session. In the metagame players can empower their characters by expending currecny. 🔎 Discovery . Players will be able to discover a variety of unique and different environments, characters, and enemies over their sessions. ",
+    "url": "/void-survivors/design-direction.html#-player-motivations-",
     
-    "relUrl": "/dungeon-survivors/design-direction.html#-gameplay-loop-"
+    "relUrl": "/void-survivors/design-direction.html#-player-motivations-"
   },"7": {
     "doc": "Design Direction",
-    "title": "🎯 Players Goal 🎯",
-    "content": "The players🧙 goal is to gain as much gold🪙 as possible, allowing for upgrades💪 in the metagame. The longer the player stays alive the more gold🪙 is gained. Players are able to last longer by: . | Leveling up faster💪 than enemies👹. | Finding players🧙 to group up with. | Starting stronger💪 (metagame). | . ",
-    "url": "/dungeon-survivors/design-direction.html#-players-goal-",
+    "title": "🌀 Gameplay Loop 🌀",
+    "content": "%%{init: {'theme':'dark'}}%% stateDiagram-v2 direction TB accTitle: Gameloop state \"Explore the void 🧙\" as EXPLORE state \"Find players 🧝🧞\" as FIND_P state \"Invite players 🔗\" as INVITE_P state \"Grow Sanctuary 🌱\" as GROW_S state \"Gain Life Essence 🌿\" as GAIN_LE state \"Level Up ⬆️\" as LVL_P state \"Defend Sanctuary 🛡️🌱\" as DEFND_S state \"Defeat Void Invaders 👹🐸🧌\" as DEFEAT_E state \"💀 Defeated 💀\" as DEFEATED state \"More players find and join the sanctuary 🧝🧞\" as FIND_S state \"Invaders get stronger 💪👹\" as LVL_I classDef def fill:black,color:white,font-weight:bold,stroke:purple classDef team fill:black,color:white,font-weight:bold,stroke:blue classDef sanct fill:black,color:white,font-weight:bold,stroke:green classDef invader fill:black,color:white,font-weight:bold,stroke:red classDef loss fill:black,color:white,font-weight:bold,stroke:red,stroke-width:3 class EXPLORE def class FIND_P,INVITE_P,FIND_S team class GROW_S,GAIN_LE,DEFND_S,LVL_P sanct class DEFEAT_E,LVL_I invader class DEFEATED loss note left of GAIN_LE Also used for metagame progression end note [*] --&gt; EXPLORE EXPLORE --&gt; FIND_P EXPLORE --&gt; INVITE_P FIND_P --&gt; GROW_S INVITE_P --&gt; GROW_S: join.me/Pewdiepie GROW_S --&gt; GAIN_LE GAIN_LE --&gt; LVL_P: Life essence🌿 acts as experience points LVL_P --&gt; DEFND_S DEFND_S --&gt; DEFEATED: 🖤🖤🖤 DEFND_S --&gt; DEFEAT_E: 💖🖤🖤 DEFEAT_E --&gt; LVL_I: The larger the 🌱 the stronger invaders LVL_I --&gt; FIND_S FIND_S --&gt; GROW_S: The larger the 🌱 the easier to find . ",
+    "url": "/void-survivors/design-direction.html#-gameplay-loop-",
     
-    "relUrl": "/dungeon-survivors/design-direction.html#-players-goal-"
+    "relUrl": "/void-survivors/design-direction.html#-gameplay-loop-"
   },"8": {
     "doc": "Design Direction",
-    "title": "Meta Game Loop",
-    "content": "stateDiagram-v2 state \"📱🎮⌨️ Play\" as PLAY state \"🪙 Gain Gold\" as GET_GLD state \"💀 Defeated\" as DEFEATED state \"🏆 Achievements\" as ACHIEVE state \"💪 Upgrade\" as UPGRADE PLAY --&gt; GET_GLD GET_GLD --&gt; DEFEATED DEFEATED --&gt; ACHIEVE DEFEATED --&gt; UPGRADE: 🪙 Spend Gold UPGRADE --&gt; PLAY: 💪 allows lasting longer . ",
-    "url": "/dungeon-survivors/design-direction.html#meta-game-loop",
+    "title": "🎯 Players Goal 🎯",
+    "content": "The players🧙 goal is to gain as much life essence🌿 as possible. Life essence is used to upgrade characters💪 in the metagame. The longer the player is able to defend the sanctuary🌱, the more life essence is gained. Players are able to last longer by: . | Finding players🧙 to team up with by inviting them via a link🔗 or finding them in the void, which adds more defenders🛡️ to the sanctuary🌱. | Gathering life essence🌿 from the sanctuary efficently by avoiding taking damage💖 from enemies👹. | Starting stronger💪 by upgrading characters in the metagame using life essence🌿. | . ",
+    "url": "/void-survivors/design-direction.html#-players-goal-",
     
-    "relUrl": "/dungeon-survivors/design-direction.html#meta-game-loop"
+    "relUrl": "/void-survivors/design-direction.html#-players-goal-"
   },"9": {
+    "doc": "Design Direction",
+    "title": "💪 Meta Game Loop 💪",
+    "content": "%%{init: {'theme':'dark'}}%% stateDiagram-v2 direction TB accTitle: Metagame loop state \"📱🎮⌨️ Play\" as PLAY state \"🌿 Gain Life Essence\" as GET_LE state \"💀 Defeated 💀\" as DEFEATED state \"🏆 Unlock achievements\" as ACHIEVE state \"💪 Upgrade characters by spending 🌿 life essence\" as UPGRADE classDef def fill:black,color:white,font-weight:bold,stroke:purple classDef upgrade fill:black,color:white,font-weight:bold,stroke:gold classDef sanct fill:black,color:white,font-weight:bold,stroke:green classDef loss fill:black,color:white,font-weight:bold,stroke:red class PLAY def class GET_LE sanct class ACHIEVE upgrade class UPGRADE upgrade class DEFEATED loss PLAY --&gt; GET_LE GET_LE --&gt; DEFEATED DEFEATED --&gt; ACHIEVE: Based on personal performance ACHIEVE --&gt; UPGRADE: Spend life essence🌿 UPGRADE --&gt; PLAY: Allows lasting longer💪 . ",
+    "url": "/void-survivors/design-direction.html#-meta-game-loop-",
+    
+    "relUrl": "/void-survivors/design-direction.html#-meta-game-loop-"
+  },"10": {
+    "doc": "Design Direction",
+    "title": "🧝🧞🧙 Characters 🧙🧞🧝",
+    "content": ". ",
+    "url": "/void-survivors/design-direction.html#-characters-",
+    
+    "relUrl": "/void-survivors/design-direction.html#-characters-"
+  },"11": {
+    "doc": "Design Direction",
+    "title": "🛠️ Mechanics 🛠️",
+    "content": ". ",
+    "url": "/void-survivors/design-direction.html#%EF%B8%8F-mechanics-%EF%B8%8F",
+    
+    "relUrl": "/void-survivors/design-direction.html#️-mechanics-️"
+  },"12": {
     "doc": "Design Direction",
     "title": "Design Direction",
     "content": " ",
-    "url": "/dungeon-survivors/design-direction.html",
+    "url": "/void-survivors/design-direction.html",
     
-    "relUrl": "/dungeon-survivors/design-direction.html"
-  },"10": {
+    "relUrl": "/void-survivors/design-direction.html"
+  },"13": {
     "doc": "Development Plan",
     "title": "To Do",
     "content": ". | schedule | milestones | roadmap | showing clear tasks and milestones for the pre-production stage | showing outcomes from the stage and next steps to take the game to release / completion | . ",
-    "url": "/dungeon-survivors/development-plan.html#to-do",
+    "url": "/void-survivors/development-plan.html#to-do",
     
-    "relUrl": "/dungeon-survivors/development-plan.html#to-do"
-  },"11": {
+    "relUrl": "/void-survivors/development-plan.html#to-do"
+  },"14": {
     "doc": "Development Plan",
     "title": "Development Plan",
     "content": " ",
-    "url": "/dungeon-survivors/development-plan.html",
+    "url": "/void-survivors/development-plan.html",
     
-    "relUrl": "/dungeon-survivors/development-plan.html"
-  },"12": {
+    "relUrl": "/void-survivors/development-plan.html"
+  },"15": {
     "doc": "Diversity Equity Inclusion Plan",
     "title": "Testing",
     "content": " ",
-    "url": "/dungeon-survivors/diversity-equity-inclusion-plan.html#testing",
+    "url": "/void-survivors/diversity-equity-inclusion-plan.html#testing",
     
-    "relUrl": "/dungeon-survivors/diversity-equity-inclusion-plan.html#testing"
-  },"13": {
+    "relUrl": "/void-survivors/diversity-equity-inclusion-plan.html#testing"
+  },"16": {
     "doc": "Diversity Equity Inclusion Plan",
     "title": "Diversity Equity Inclusion Plan",
     "content": " ",
-    "url": "/dungeon-survivors/diversity-equity-inclusion-plan.html",
+    "url": "/void-survivors/diversity-equity-inclusion-plan.html",
     
-    "relUrl": "/dungeon-survivors/diversity-equity-inclusion-plan.html"
-  },"14": {
+    "relUrl": "/void-survivors/diversity-equity-inclusion-plan.html"
+  },"17": {
     "doc": "Finance Plan",
     "title": "To Do",
     "content": ". | Budget to completion and release . 📖 Screen Australia Template . | . ",
-    "url": "/dungeon-survivors/finance-plan.html#to-do",
+    "url": "/void-survivors/finance-plan.html#to-do",
     
-    "relUrl": "/dungeon-survivors/finance-plan.html#to-do"
-  },"15": {
+    "relUrl": "/void-survivors/finance-plan.html#to-do"
+  },"18": {
     "doc": "Finance Plan",
     "title": "Finance Plan",
     "content": " ",
-    "url": "/dungeon-survivors/finance-plan.html",
+    "url": "/void-survivors/finance-plan.html",
     
-    "relUrl": "/dungeon-survivors/finance-plan.html"
-  },"16": {
+    "relUrl": "/void-survivors/finance-plan.html"
+  },"19": {
     "doc": "Gameplay Video",
     "title": "Testing",
     "content": " ",
-    "url": "/dungeon-survivors/gameplay-video.html#testing",
+    "url": "/void-survivors/gameplay-video.html#testing",
     
-    "relUrl": "/dungeon-survivors/gameplay-video.html#testing"
-  },"17": {
+    "relUrl": "/void-survivors/gameplay-video.html#testing"
+  },"20": {
     "doc": "Gameplay Video",
     "title": "Gameplay Video",
     "content": " ",
-    "url": "/dungeon-survivors/gameplay-video.html",
+    "url": "/void-survivors/gameplay-video.html",
     
-    "relUrl": "/dungeon-survivors/gameplay-video.html"
-  },"18": {
-    "doc": "Dungeon Survivors",
+    "relUrl": "/void-survivors/gameplay-video.html"
+  },"21": {
+    "doc": "Void Survivors",
     "title": "Overview",
-    "content": "Dungeon Survivors* is a bullet-heaven dungeon crawling multiplayer game where hundreds of players group together to survive for as long as possible against incresingly difficult waves of whimsical fantasy monsters. * Working title . The game is currently under development and Universe Builders are seeking funding to be able to complete Pre-Production. 🎨 Art Style . 2.5D, fixed camera, isometric, fantasy, voxels . 🛠️ Mechanics . | Combat | Telegraphed attacks | Roles (Tank, Healer, DPS, Crowd Control, …) | . 🕹️ Player Motivations . Cooperation, Competition, Destruction, Progression, Discovery . 💪 Player Fantasies . | Playing an impactful role in a group | Playing with large groups (100+) to overcome challenges | Playing with popular streamers | . ⌛ Session Length . 15 minutes . 👪 Target Market . 📺 Target Platforms . | Web (Chrome, Edge, Safari, Firefox, …) | Mobile (Android, iPhone) | MacOSX | Windows 10, 11 | Linux | . 📺 Controls . ⌨️   WASD or Arrows 🎮   Joystick 📱   One touch controls . 📇 Tags . MMO, Multiplayer, Cooperative, Touch screen support, Full controller support, In-App Purchases, RPG, Achievements. 💭 Gameplay Inspirations . | Vampire Survivors | Soulstone Survivors | World of Warcraft - Raids | . ",
-    "url": "/dungeon-survivors/#overview",
+    "content": "Void Survivors* is an atmospheric free-to-play social dungeon crawling multiplayer game where hundreds of players group together to survive for as long as possible against incresingly difficult waves of whimsical fantasy monsters. * Working title . The game is currently under development and Universe Builders are seeking funding to be able to complete Pre-Production. 🎨 Art Style . 2.5D, fixed camera, isometric, fantasy, voxels . 🛠️ Mechanics . | Movement in 2D | Auto-target combat | Telegraphed attacks | Roles (Tank, Healer, DPS, Crowd Control, …) | . 🕹️ Player Motivations . 🤝   Cooperation 🏆   Competition 🔥   Destruction 💪   Progression 🔎   Discovery . 💭 Player Fantasies . | Playing and interacting with large groups of players (100+) to overcome challenges | Playing an impactful role in a group | Playing with friends and existing communities | Playing with popular streamers | . ⌛ Session Length . 15 minutes . 👪 Target Market . 📺 Target Platforms . 🌐 Web Browsers     Chrome for Linux, Windows, MacOSX, Android, iPhone, Smart TV’s     Firefox for Linux, Windows, MacOSX, Android     Safari for MacOSX, iPhone . 📺 Controls . ⌨️   WASD or Arrows 🎮   Joystick 📱   One touch controls . 📇 Tags . MMO, Multiplayer, Cooperative, Touch screen support, Full controller support, In-App Purchases, RPG, Achievements. 👉 Gameplay Inspirations . | Vampire Survivors | Soulstone Survivors | World of Warcraft - Raids | . ",
+    "url": "/void-survivors/#overview",
     
-    "relUrl": "/dungeon-survivors/#overview"
-  },"19": {
-    "doc": "Dungeon Survivors",
-    "title": "Dungeon Survivors",
+    "relUrl": "/void-survivors/#overview"
+  },"22": {
+    "doc": "Void Survivors",
+    "title": "Void Survivors",
     "content": " ",
-    "url": "/dungeon-survivors/",
+    "url": "/void-survivors/",
     
-    "relUrl": "/dungeon-survivors/"
-  },"20": {
+    "relUrl": "/void-survivors/"
+  },"23": {
     "doc": "Home",
     "title": "Home",
     "content": "Universe Builders is a game development studio located in Melbourne Australia focusing on the development of highly accessibile massively multiplayer games for the Web, Mobile, Windows, Linux, and PC. ",
     "url": "/",
     
     "relUrl": "/"
-  },"21": {
+  },"24": {
     "doc": "Marketing Plan",
     "title": "Testing",
     "content": " ",
-    "url": "/dungeon-survivors/marketing-plan.html#testing",
+    "url": "/void-survivors/marketing-plan.html#testing",
     
-    "relUrl": "/dungeon-survivors/marketing-plan.html#testing"
-  },"22": {
+    "relUrl": "/void-survivors/marketing-plan.html#testing"
+  },"25": {
     "doc": "Marketing Plan",
     "title": "Marketing Plan",
     "content": " ",
-    "url": "/dungeon-survivors/marketing-plan.html",
+    "url": "/void-survivors/marketing-plan.html",
     
-    "relUrl": "/dungeon-survivors/marketing-plan.html"
-  },"23": {
-    "doc": "Narrative Direction",
+    "relUrl": "/void-survivors/marketing-plan.html"
+  },"26": {
+    "doc": "Monetization Plan",
     "title": "Testing",
     "content": " ",
-    "url": "/dungeon-survivors/narrative-direction.html#testing",
+    "url": "/void-survivors/monetization-plan.html#testing",
     
-    "relUrl": "/dungeon-survivors/narrative-direction.html#testing"
-  },"24": {
+    "relUrl": "/void-survivors/monetization-plan.html#testing"
+  },"27": {
+    "doc": "Monetization Plan",
+    "title": "Monetization Plan",
+    "content": " ",
+    "url": "/void-survivors/monetization-plan.html",
+    
+    "relUrl": "/void-survivors/monetization-plan.html"
+  },"28": {
     "doc": "Narrative Direction",
     "title": "Narrative Direction",
-    "content": " ",
-    "url": "/dungeon-survivors/narrative-direction.html",
+    "content": ". | Players play in a void and spawn life around them. The longer they stay in one spot the more lush the life becomes, the larger it becomes, but the more it attracts the void to lash back against it. | All about cooperation, and banding together . | Inspiration: The void in Shadow and Bone. | . It begs to question, with enough players spreading bringing into the void life would the void be quenched entirely? . ",
+    "url": "/void-survivors/narrative-direction.html",
     
-    "relUrl": "/dungeon-survivors/narrative-direction.html"
-  },"25": {
+    "relUrl": "/void-survivors/narrative-direction.html"
+  },"29": {
     "doc": "Pitch Deck",
     "title": "To Do",
     "content": ". | Vision for project | Intended audience | Why project will hook audience | Impact of funding on applicant | What makes the project compelling and distinctive including its mechanics, narrative, visual style, use of technology or other key creative elements? | How well the project contributes to the long-term sustainability and commercial goals of the developer, including investment triggered, employment and commercial relationships. | Skills match. | use reveal.js | . ",
-    "url": "/dungeon-survivors/pitch-deck.html#to-do",
+    "url": "/void-survivors/pitch-deck.html#to-do",
     
-    "relUrl": "/dungeon-survivors/pitch-deck.html#to-do"
-  },"26": {
+    "relUrl": "/void-survivors/pitch-deck.html#to-do"
+  },"30": {
     "doc": "Pitch Deck",
     "title": "Pitch Deck",
     "content": " ",
-    "url": "/dungeon-survivors/pitch-deck.html",
+    "url": "/void-survivors/pitch-deck.html",
     
-    "relUrl": "/dungeon-survivors/pitch-deck.html"
-  },"27": {
+    "relUrl": "/void-survivors/pitch-deck.html"
+  },"31": {
     "doc": "Pitch Video",
     "title": "To Do",
     "content": ". | 3 minutes | . ",
-    "url": "/dungeon-survivors/pitch-video.html#to-do",
+    "url": "/void-survivors/pitch-video.html#to-do",
     
-    "relUrl": "/dungeon-survivors/pitch-video.html#to-do"
-  },"28": {
+    "relUrl": "/void-survivors/pitch-video.html#to-do"
+  },"32": {
     "doc": "Pitch Video",
     "title": "Pitch Video",
     "content": " ",
-    "url": "/dungeon-survivors/pitch-video.html",
+    "url": "/void-survivors/pitch-video.html",
     
-    "relUrl": "/dungeon-survivors/pitch-video.html"
-  },"29": {
+    "relUrl": "/void-survivors/pitch-video.html"
+  },"33": {
     "doc": "Prototype",
     "title": "To Do",
     "content": ". | hardware requirements | step-by-step instructions to get prototype running | controls | intended experience | . ",
-    "url": "/dungeon-survivors/prototype.html#to-do",
+    "url": "/void-survivors/prototype.html#to-do",
     
-    "relUrl": "/dungeon-survivors/prototype.html#to-do"
-  },"30": {
+    "relUrl": "/void-survivors/prototype.html#to-do"
+  },"34": {
     "doc": "Prototype",
     "title": "Prototype",
     "content": " ",
-    "url": "/dungeon-survivors/prototype.html",
+    "url": "/void-survivors/prototype.html",
     
-    "relUrl": "/dungeon-survivors/prototype.html"
-  },"31": {
+    "relUrl": "/void-survivors/prototype.html"
+  },"35": {
     "doc": "Team",
     "title": "To Do",
     "content": ". | Image | . ",
-    "url": "/dungeon-survivors/team.html#to-do",
+    "url": "/void-survivors/team.html#to-do",
     
-    "relUrl": "/dungeon-survivors/team.html#to-do"
-  },"32": {
+    "relUrl": "/void-survivors/team.html#to-do"
+  },"36": {
     "doc": "Team",
     "title": "James Knight",
     "content": "🏠 Melbourne, Australia. 📧 jk@universe.builders . 📞 0450215144 . LinkedIn . ",
-    "url": "/dungeon-survivors/team.html#james-knight",
+    "url": "/void-survivors/team.html#james-knight",
     
-    "relUrl": "/dungeon-survivors/team.html#james-knight"
-  },"33": {
+    "relUrl": "/void-survivors/team.html#james-knight"
+  },"37": {
     "doc": "Team",
     "title": "Professional Game Credits",
     "content": ". | Fortnite | Nightingale | World of Tanks | Tomorrow Falls | World of Tanks: Blitz | World of Warships | Avatar - The Last Airbender | . ",
-    "url": "/dungeon-survivors/team.html#professional-game-credits",
+    "url": "/void-survivors/team.html#professional-game-credits",
     
-    "relUrl": "/dungeon-survivors/team.html#professional-game-credits"
-  },"34": {
+    "relUrl": "/void-survivors/team.html#professional-game-credits"
+  },"38": {
     "doc": "Team",
     "title": "Technology Credits",
     "content": ". | Unreal Engine 4 | SpatialOS | BigWorld Technology | . ",
-    "url": "/dungeon-survivors/team.html#technology-credits",
+    "url": "/void-survivors/team.html#technology-credits",
     
-    "relUrl": "/dungeon-survivors/team.html#technology-credits"
-  },"35": {
+    "relUrl": "/void-survivors/team.html#technology-credits"
+  },"39": {
     "doc": "Team",
     "title": "Personal Game Credits (student/personal projects)",
     "content": ". | Karas Canvas | Enchanted Scrolls | Avoision | Scrapped | Eternal Templar | Space Junk | . ",
-    "url": "/dungeon-survivors/team.html#personal-game-credits-studentpersonal-projects",
+    "url": "/void-survivors/team.html#personal-game-credits-studentpersonal-projects",
     
-    "relUrl": "/dungeon-survivors/team.html#personal-game-credits-studentpersonal-projects"
-  },"36": {
+    "relUrl": "/void-survivors/team.html#personal-game-credits-studentpersonal-projects"
+  },"40": {
     "doc": "Team",
     "title": "Professional Experience",
     "content": ". | Lecturer (Games) - Torrens University - 3 years | Lead Educator (Web) - Academy of Information Technology - 2 years | Tech Product Manager - Improbable - 1 year | Tech Project Manager - DPS Games - 1 year | Server Tech Expert - DPS Games - 1 year | Software Engineer - Wargaming - 2.5 years | Software Engineer - Epic Games - 1 year | Quality Assurance - THQ - 1 year | . ",
-    "url": "/dungeon-survivors/team.html#professional-experience",
+    "url": "/void-survivors/team.html#professional-experience",
     
-    "relUrl": "/dungeon-survivors/team.html#professional-experience"
-  },"37": {
+    "relUrl": "/void-survivors/team.html#professional-experience"
+  },"41": {
     "doc": "Team",
     "title": "Education",
     "content": ". | Scaled Professional Scrum - Scrum.org | Bachelor, Computer Science in Real-time simulation - DigiPen Institute of Technology | Bachelor, Interactive Entertainment and Game Design - Queensland University of Technology | . See LinkedIn for more information. ",
-    "url": "/dungeon-survivors/team.html#education",
+    "url": "/void-survivors/team.html#education",
     
-    "relUrl": "/dungeon-survivors/team.html#education"
-  },"38": {
+    "relUrl": "/void-survivors/team.html#education"
+  },"42": {
     "doc": "Team",
     "title": "Team",
     "content": " ",
-    "url": "/dungeon-survivors/team.html",
+    "url": "/void-survivors/team.html",
     
-    "relUrl": "/dungeon-survivors/team.html"
+    "relUrl": "/void-survivors/team.html"
   }
 }

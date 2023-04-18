@@ -1,5 +1,5 @@
 ---
-title: Diversity Equity Inclusion Plan
+title: 🫂 Inclusion Plan
 parent: Void Survivors
 layout: default
 nav_order: 36
@@ -7,3 +7,4 @@ nav_order: 36
 
 # Testing
 
+Diversity Equity 

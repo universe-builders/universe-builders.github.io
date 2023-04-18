@@ -1,5 +1,5 @@
 ---
-title: Pitch Deck
+title: 🎤 Pitch Deck
 parent: Void Survivors
 layout: default
 nav_order: 11

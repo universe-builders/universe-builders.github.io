@@ -1,5 +1,5 @@
 ---
-title: Narrative Direction
+title: 📖 Narrative Direction
 parent: Void Survivors
 layout: default
 nav_order: 22

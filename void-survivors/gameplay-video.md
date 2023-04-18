@@ -1,5 +1,5 @@
 ---
-title: Gameplay Video
+title: 🌱 Gameplay Video
 parent: Void Survivors
 layout: default
 nav_order: 13

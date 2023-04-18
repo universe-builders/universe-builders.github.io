@@ -1,9 +1,38 @@
 ---
-title: Monetization Plan
+title: 💵 Monetization Plan
 parent: Void Survivors
 layout: default
 nav_order: 33
 ---
 
-# Testing
+## Monetization
 
+Monetization is driven by two strategies:
+1. Class unlocks.
+2. Character customization.
+
+The following will be part of the monetization:\
+✅ No loot boxes or other gambling mechanics.\
+✅ No pay-to-win mechanics.\
+✅ No pay-to-earn mechanics.\
+✅ No cryptocurrency or NFTs.\
+✅ No data harvesting or selling of user data.
+
+## Class Unlocks
+
+Players will have the option for playing a variety of free classes, including Paladin 🛡️,  Healer ❤️‍🩹, Archer 🏹, and Rogue 🗡️. More exotic classes will be unlockable through a purchasing option.
+
+Players are able to change classes at any time during a session. This allows the player to be dynamic to the needs of the team and to their current situation, eg if a player is in a tight spot surrounded by fire they can switch to the elementalist class 🔥 to absorb the fire through the elementalist ability and escape safely.
+
+Classes will reach a maximum progression and player's can extend their progression in the game by purchasing new classes.
+
+This provides three motivations for the player to purchase a class:
+1. Increases survivability due to having more utility.
+2. Increases value to team due to being able to change to class that the team is lacking.
+3. Increased progression in the game.
+
+As the game is supported new classes will be released.
+
+## Character Customization
+
+Players will want to express their individuality, especially in larger groups where they may get lost in a crowd of other players. Players will be able purchase skins to customize their characters. Each class will have unique skins, allowing a player to purchase unique looks for each of their classes.

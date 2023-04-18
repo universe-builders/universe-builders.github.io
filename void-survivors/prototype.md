@@ -1,5 +1,5 @@
 ---
-title: Prototype
+title: 🕹️ Prototype
 parent: Void Survivors
 layout: default
 nav_order: 14
@@ -10,4 +10,4 @@ nav_order: 14
 * step-by-step instructions to get prototype running
 * controls
 * intended experience
-
+* what is the state of the prototype compared to vision for the final project

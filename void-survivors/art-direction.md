@@ -1,5 +1,5 @@
 ---
-title: Art Direction
+title: 🎨 Art Direction
 parent: Void Survivors
 layout: default
 nav_order: 21

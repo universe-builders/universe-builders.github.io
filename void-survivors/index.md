@@ -10,7 +10,7 @@ has_children: true
 **Void Survivors**\* is an atmospheric free-to-play social dungeon crawling multiplayer game where hundreds of players group together to survive for as long as possible against incresingly difficult waves of whimsical fantasy monsters.\
 \* Working title
 
-The game is currently under development and Universe Builders are seeking funding to be able to complete Pre-Production.
+The game is currently in pre-production and Universe Builders are seeking funding to be able to complete Pre-Production.
 
 ### 🎨 Art Style
 2.5D, fixed camera, isometric, fantasy, voxels

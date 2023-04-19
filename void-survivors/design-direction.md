@@ -22,6 +22,15 @@ This document is a WIP and will be iterated upon during during the Pre-Productio
 
 ----
 
+## 👁️ Gameplay summary 👁️
+
+LOGLINE
+
+GAMEPLAY SUMMARY
+
+USP / THE HOOK
+
+----
 
 ## 🪘 Design Pillars 🪘
 
@@ -294,3 +303,17 @@ With upgrades, a druid can grow more types of fauna that have different utilitie
 
 Session Unlockable Abilities:\
 Area sanctuary growth, Grow giant carnivorous plant, Grow giant defensive plant. 
+
+
+----
+
+## 🗺️ Level Design
+
+The world is a giant void, a barren dark and misty landscape, filled with the shadowy remains of previously defeated players. There are no definable landmarks or areas that provide uniqueness, instead that comes about during the growth of the sanctuary. The void has little level design and content requirements.
+
+![Void thematic art](images/8b355f808337f941abc447ecdab6cf61.jpg)
+[Source: World Anvil](https://www.worldanvil.com)
+
+The sanctuary will dynamically grow the longer it lasts which will spawn all sorts of obstacles in the form of fauna which the players can use to their advantage when fighting invaders. These obstacles will be procedurally spawned based on a small set of rules.
+
+In all, Void Survivors has very little in terms of level design instead opting for large open spaces - which is common for bullet-heaven games.

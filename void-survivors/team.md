@@ -57,5 +57,5 @@ He is the founder and currently sole developer at Universe Builders. He has over
 * Bachelor, Computer Science in Real-time Simulation - DigiPen Institute of Technology
 * Bachelor, Interactive Entertainment and Game Design - Queensland University of Technology
 
-**See [LinkedIn](https://www.linkedin.com/in/jamesknightgd/){:target="_blank"} for more information.**
+**For a full list of experiences and portfolio please see [LinkedIn](https://www.linkedin.com/in/jamesknightgd/){:target="_blank"} for more information.**
 

@@ -27,3 +27,8 @@ nav_order: 10
 * How does it help business: Builds a reusable technical foundation that is unique in it's market positioning
 
 * Inclusion: No matter what you play on or what your skill level, you are welcomed and encouraged to join.
+
+* Justification: More divided world -- fully inclusive game
+
+* Justification: Gaming communities have moved from async comms to sync comms (youtube -> twitch, facebook/reddit -> discord)
+    * A game like this wouldn't have thrived in those async environments

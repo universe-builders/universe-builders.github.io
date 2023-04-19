@@ -1,357 +1,504 @@
 {"0": {
     "doc": "♿ Accessibility Plan",
-    "title": "Testing",
+    "title": "Hearing accessibility",
     "content": " ",
-    "url": "/void-survivors/accessibility-plan.html#testing",
+    "url": "/void-survivors/accessibility-plan.html#hearing-accessibility",
     
-    "relUrl": "/void-survivors/accessibility-plan.html#testing"
+    "relUrl": "/void-survivors/accessibility-plan.html#hearing-accessibility"
   },"1": {
     "doc": "♿ Accessibility Plan",
-    "title": "♿ Accessibility Plan",
+    "title": "Low socio-economic accessibility",
     "content": " ",
+    "url": "/void-survivors/accessibility-plan.html#low-socio-economic-accessibility",
+    
+    "relUrl": "/void-survivors/accessibility-plan.html#low-socio-economic-accessibility"
+  },"2": {
+    "doc": "♿ Accessibility Plan",
+    "title": "♿ Accessibility Plan",
+    "content": "This page defines the plan for developing and validating Void Survivors is accessible to as many people as possible. | Hearing accessibility | Low socio-economic accessibility | . Void Survivors is designed to be highly accessible to people. Here are some segmetns . ",
     "url": "/void-survivors/accessibility-plan.html",
     
     "relUrl": "/void-survivors/accessibility-plan.html"
-  },"2": {
+  },"3": {
     "doc": "🎨 Art Direction",
     "title": "To Do",
-    "content": ". | Concept Art | . ",
+    "content": ". | Concept Art | Animation samples | Character designs | UI mockups | Mood board (images) | Pallette | Inspirational art | . ",
     "url": "/void-survivors/art-direction.html#to-do",
     
     "relUrl": "/void-survivors/art-direction.html#to-do"
-  },"3": {
+  },"4": {
     "doc": "🎨 Art Direction",
     "title": "🎨 Art Direction",
     "content": " ",
     "url": "/void-survivors/art-direction.html",
     
     "relUrl": "/void-survivors/art-direction.html"
-  },"4": {
+  },"5": {
+    "doc": "🗒️ Business Plan",
+    "title": "🎁 Value Propositions 🎁",
+    "content": "🎁 What value do we deliver to the customer? . 🎁 Which one of our customer problems are we helping to solve? . 🎁 What bundles of products and services are we offering to each customer segment? . 🎁 Which customer needs are we satisfying? . ",
+    "url": "/void-survivors/business-plan.html#-value-propositions-",
+    
+    "relUrl": "/void-survivors/business-plan.html#-value-propositions-"
+  },"6": {
+    "doc": "🗒️ Business Plan",
+    "title": "👪 Customer Segments 👪",
+    "content": "👪 For whom are we creating value? . 👪 Who are our most important customers? . ",
+    "url": "/void-survivors/business-plan.html#-customer-segments-",
+    
+    "relUrl": "/void-survivors/business-plan.html#-customer-segments-"
+  },"7": {
+    "doc": "🗒️ Business Plan",
+    "title": "🫱‍🫲 Key Partners 🫱‍🫲",
+    "content": "🫱‍🫲 Who are our key partners? . 🫱‍🫲 Who are our key suppliers? . 🫱‍🫲 Which key resources are we acquiring from partners? . 🫱‍🫲 Which key activities do partners perform? . ",
+    "url": "/void-survivors/business-plan.html#-key-partners-",
+    
+    "relUrl": "/void-survivors/business-plan.html#-key-partners-"
+  },"8": {
+    "doc": "🗒️ Business Plan",
+    "title": "💻 Key Activities 💻",
+    "content": "💻 What Key activities do our value propositions require? . 💻 Our Distribution Channels? . 💻 Customer Relationships? . 💻 Revenue Streams? . ",
+    "url": "/void-survivors/business-plan.html#-key-activities-",
+    
+    "relUrl": "/void-survivors/business-plan.html#-key-activities-"
+  },"9": {
+    "doc": "🗒️ Business Plan",
+    "title": "📀 Key Resources 📀",
+    "content": "📀 What key resources do our value propositions require? . 📀 What key resources do our distribution channels require? . 📀 What key resources do our customer relationships require? . 📀 What key resources do our revenue streams require? . ",
+    "url": "/void-survivors/business-plan.html#-key-resources-",
+    
+    "relUrl": "/void-survivors/business-plan.html#-key-resources-"
+  },"10": {
+    "doc": "🗒️ Business Plan",
+    "title": "💝 Customer Relationships💝",
+    "content": "💝 What type of relationship does each of our Customer Segments expect us to establish and maintain with them? . 💝 Which ones have we established? . 💝 How are they integrated with the rest of our business model? . 💝 How costly are they? . ",
+    "url": "/void-survivors/business-plan.html#-customer-relationships-1",
+    
+    "relUrl": "/void-survivors/business-plan.html#-customer-relationships-1"
+  },"11": {
+    "doc": "🗒️ Business Plan",
+    "title": "💬 Channels 💬",
+    "content": "💬 Through which channels do our customer segments want to be reached? . 💬 How are we reaching them now? . 💬 How are our channels integrated? . 💬 Which ones work best? . 💬 Which ones are most cost-efficent? . 💬 How are we integrated them with customer routines? . ",
+    "url": "/void-survivors/business-plan.html#-channels-",
+    
+    "relUrl": "/void-survivors/business-plan.html#-channels-"
+  },"12": {
+    "doc": "🗒️ Business Plan",
+    "title": "💵 Cost Structure💵",
+    "content": "💵 What are the most important costs inherent in our business model? . 💵 Which key resources are most expensive? . 💵 Which key activities are most expensive? . 💵 Is business more cost or value driven? . ",
+    "url": "/void-survivors/business-plan.html#-cost-structure",
+    
+    "relUrl": "/void-survivors/business-plan.html#-cost-structure"
+  },"13": {
+    "doc": "🗒️ Business Plan",
+    "title": "💰 Revenue Streams 💰",
+    "content": "💰 For what are our customers really willing to pay? . 💰 For what do they currently pay? . 💰 How are they currently paying? . 💰 How would they prefer to pay? . 💰 How much does each revenue stream contribute to overall revenues? . ",
+    "url": "/void-survivors/business-plan.html#-revenue-streams-",
+    
+    "relUrl": "/void-survivors/business-plan.html#-revenue-streams-"
+  },"14": {
+    "doc": "🗒️ Business Plan",
+    "title": "🗒️ Business Plan",
+    "content": "This page defines the direction of the design for the game Void Survivors. This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game’s development. ",
+    "url": "/void-survivors/business-plan.html",
+    
+    "relUrl": "/void-survivors/business-plan.html"
+  },"15": {
+    "doc": "💭 Design Direction",
+    "title": "👁️ Gameplay summary 👁️",
+    "content": "LOGLINE . GAMEPLAY SUMMARY . USP / THE HOOK . ",
+    "url": "/void-survivors/design-direction.html#%EF%B8%8F-gameplay-summary-%EF%B8%8F",
+    
+    "relUrl": "/void-survivors/design-direction.html#️-gameplay-summary-️"
+  },"16": {
     "doc": "💭 Design Direction",
     "title": "🪘 Design Pillars 🪘",
     "content": "These pillars help drive decisions in all aspects of the game design. 🗝️ Hyper Accessible . The game should support as many people as possible, on as many devices as possible, in as many situations as possible. 🔓 Simplistic one touch (mobile) or one hand (keyboard/controller) controls. 🔓 Accessible graphics that are clear and understandable at a glance. 🔓 Low hardware requirements (Older phones, laptops, …). 🔓 Highly device and OS accessible (Win, Mac, Linux, iPhone, Android). 🔓 No segregating of players based on experience, skill, or any other factors. 🔓 Allow anyone to join any team at any time, no exclusionary mechanics. 🔓 No textual communications, instead use pictoral and graphical communications. 🔓 Modes of playing that allow low-skilled players and high-skilled players. 🔓 Modes of playing that allow for players to be support focused opposed to combat focused. 🔓 Low download requirements for low bandwidth tolerance. 🔓 Consideration for individuals with visual and movement impairments. 🏘️ Community Engageable . The game should allow communities to easily engage with it and allows them to strengthen bonds through shared experiences and stories. 👪 Easily shareable via a link. 👪 Joining a session requires no authentication or personally identifying information. 👪 Joining immediately places you with the person who invited you. 👪 Able to join at any point in the session. 👪 Every extra player is a bonus, never a liability. 👪 Huge limit on the player count (100+), allowing for large communities. 👪 Shareable moments that can be distributed in the community. 👪 Cooperative driven mechanics. 👪 Gameplay moments that require the players to collaborate and communicate. 😄 Casually Enjoyable . The game should be enjoyed in casual settings, it should be stress relieving rather than stress building, and it should be easily engaged with. 🥳 Short session length, up to 15-minutes. 🥳 Low learning curve, medium mastery curve. 🥳 Multi-taskable, allowing people to have split attention while playing. 🥳 Themes and enemies that are whimsical and light fantasy. 🥳 No gratiuitous violence, sexual or mature content. 🥳 No overly complicated or devisive content. 🥳 Only positive reinforcement, never any punishments or penalties. 🥳 Allow people to disengage and re-engage at a whim with no penalties. ",
     "url": "/void-survivors/design-direction.html#-design-pillars-",
     
     "relUrl": "/void-survivors/design-direction.html#-design-pillars-"
-  },"5": {
+  },"17": {
     "doc": "💭 Design Direction",
     "title": "🏃 Player Motivations 🏃",
     "content": "🤝 Cooperation . Players are highly motivated to join as a community, to seek each other out, and to team up. Players progress faster in groups and are able to directly help each other using abilities. The game is optimally played with a pre-existing community, but solo players can join any team with no restrictions. 🏆 Competition . Teams will have statistics📊 of individual performance (damage, healing, …) displayed at all times which will motivate competitive players to top the team leaderboard. This allows shareable moments within communities. 🔥 Destruction . The combat will cause over the top destruction to the environment and enemie, in a fireworks-display comical manner. It should be suprising, enjoyable, and candy for your eyes. 💪 Progression . In a 15 minute session players will rapidly progress in their class. In the metagame players can empower their class by expending earned currency. 🔎 Discovery . Players will be able to discover a variety of unique and different environments, classes, achievements, and enemies over their sessions. ",
     "url": "/void-survivors/design-direction.html#-player-motivations-",
     
     "relUrl": "/void-survivors/design-direction.html#-player-motivations-"
-  },"6": {
+  },"18": {
     "doc": "💭 Design Direction",
     "title": "🛠️ Main Mechanics 🛠️",
     "content": "🧭 2D Movement . Players can move around the world in the horizontal plane, ie unable to jump or move vertically. 🗡️ Auto Attacks . Characters will attack the nearest threat automatically, players need not aim attacks or choose targets. This is a characteristic mechanic of the bullet-heaven genre. 🔥 Character classes have unique abilities . Each character class has unique abilities that can be used to directly help team mates. For example: 🛡️ Paladin: Block and reflect attacks. 🦎 Tamer: Can tame invaders into friendly pets. 🌷 Druid: Can grow defensive fauna. ⚠️ Telegraphed abilities and attacks . All abilities and attacks, from friends or enemies, will be telegraphed to allow the players to react to it. Players are able to get out of the way of enemy attacks and ensure they take advantage of any team mates abilities (eg a heal). 💪 Rapid Progression and ability unlocks . At the start of each session, a character is at level 1 and can rapidly climb to a maximum level of 10 during a 15 minute session. Each level provides one new ability, chosen from a set of five random abilities. Players will all level up at the same time and will see the abilities other players choose, so they can strategize to choose the same abilities or have a mixture of abilities on the team. 🙏 Stacked abilities . When a player uses an ability, such as an area based heal, other players will have the opportunity to stack their ability on top of it. This allows for stronger abilities that are only possible with numerous collaborating team mates. For example, an area based heal that has numerous stacks will have a wider area of effect and healing potency. ",
     "url": "/void-survivors/design-direction.html#%EF%B8%8F-main-mechanics-%EF%B8%8F",
     
     "relUrl": "/void-survivors/design-direction.html#️-main-mechanics-️"
-  },"7": {
+  },"19": {
     "doc": "💭 Design Direction",
     "title": "🌀 Gameplay Loop 🌀",
     "content": "%%{init: {'theme':'dark'}}%% stateDiagram-v2 direction TB accTitle: Gameloop state \"Explore the void 🧙\" as EXPLORE state \"Find players 🧝🧞\" as FIND_P state \"Invite players 🔗\" as INVITE_P state \"Grow Sanctuary 🌱\" as GROW_S state \"Gain Life Essence 🌿\" as GAIN_LE state \"Level Up ⬆️\" as LVL_P state \"Defend Sanctuary 🛡️🌱\" as DEFND_S state \"Defeat Void Invaders 👹🐸🧌\" as DEFEAT_E state \"💀 Defeated 💀\" as DEFEATED state \"More players find and join the sanctuary 🧝🧞\" as FIND_S state \"Invaders get stronger 💪👹\" as LVL_I classDef def fill:black,color:white,font-weight:bold,stroke:purple classDef team fill:black,color:white,font-weight:bold,stroke:blue classDef sanct fill:black,color:white,font-weight:bold,stroke:green classDef invader fill:black,color:white,font-weight:bold,stroke:red classDef loss fill:black,color:white,font-weight:bold,stroke:red,stroke-width:3 class EXPLORE def class FIND_P,INVITE_P,FIND_S team class GROW_S,GAIN_LE,DEFND_S,LVL_P sanct class DEFEAT_E,LVL_I invader class DEFEATED loss note left of GAIN_LE Also used for metagame progression end note note right of FIND_S Solo players or small teams looking for a larger team end note [*] --&gt; EXPLORE EXPLORE --&gt; FIND_P EXPLORE --&gt; INVITE_P FIND_P --&gt; GROW_S INVITE_P --&gt; GROW_S: void-survivors.com/Join-me/Pewdiepie GROW_S --&gt; GAIN_LE GAIN_LE --&gt; LVL_P: Life essence🌿 acts as experience points LVL_P --&gt; DEFND_S DEFND_S --&gt; DEFEATED: 🖤🖤🖤 DEFND_S --&gt; DEFEAT_E: 💖🖤🖤 DEFEAT_E --&gt; LVL_I: The larger the 🌱 the stronger invaders LVL_I --&gt; FIND_S FIND_S --&gt; GROW_S: The larger the 🌱 the easier to find . ",
     "url": "/void-survivors/design-direction.html#-gameplay-loop-",
     
     "relUrl": "/void-survivors/design-direction.html#-gameplay-loop-"
-  },"8": {
+  },"20": {
     "doc": "💭 Design Direction",
     "title": "🎯 Players’ Goal 🎯",
     "content": "During a session the players’🧙 goal is to gain as much life essence🌿 as possible. Life essence allows their character to level up💪, and is used to unlock character buffs in the metagame. The longer the player is able to defend the sanctuary🌱, the more life essence is gained. Players are able to last longer by: . | Finding players🧙 to team up which adds more defenders🛡️ to the sanctuary🌱. Players can find other players by joining an existing team, by inviting them via a link🔗, or by finding them in the void. | Gathering life essence🌿 from the sanctuary efficently by collecting it between waves of invaders and by living longer by avoiding taking damage💖 from invaders👹. | Starting stronger💪 by upgrading character classes in the metagame using gained life essence🌿. | . ",
     "url": "/void-survivors/design-direction.html#-players-goal-",
     
     "relUrl": "/void-survivors/design-direction.html#-players-goal-"
-  },"9": {
+  },"21": {
     "doc": "💭 Design Direction",
     "title": "💪 Meta Game Loop 💪",
     "content": "%%{init: {'theme':'dark'}}%% stateDiagram-v2 direction TB accTitle: Metagame loop state \"Play 📱🎮⌨️\" as PLAY state \"Gain Life Essence 🌿\" as GET_LE state \"💀 Defeated 💀\" as DEFEATED state \"Unlock achievements 🏆\" as ACHIEVE state \"Upgrade class💪 by spending life essence🌿\" as UPGRADE classDef def fill:black,color:white,font-weight:bold,stroke:purple classDef upgrade fill:black,color:white,font-weight:bold,stroke:gold classDef sanct fill:black,color:white,font-weight:bold,stroke:green classDef loss fill:black,color:white,font-weight:bold,stroke:red class PLAY def class GET_LE sanct class ACHIEVE upgrade class UPGRADE upgrade class DEFEATED loss PLAY --&gt; GET_LE GET_LE --&gt; DEFEATED DEFEATED --&gt; ACHIEVE: Based on personal performance📊 ACHIEVE --&gt; UPGRADE: Spend life essence🌿 UPGRADE --&gt; PLAY: Allows lasting longer💪 . ",
     "url": "/void-survivors/design-direction.html#-meta-game-loop-",
     
     "relUrl": "/void-survivors/design-direction.html#-meta-game-loop-"
-  },"10": {
+  },"22": {
     "doc": "💭 Design Direction",
     "title": "🧝🧞🧙 Character Classes 🧙🧞🧝",
     "content": "Each class has a unique ability which provides utility and value to a team which means that player’s are always happy to see another player join the team. 🛡️ Paladin : Medium Skill . Paladins are able to block incoming projectiles and attacks. Paladins will position themselves between invaders and team mates, providing a barrier for team mates. With upgrades, Paladins are able to reflect projectiles at the attacker. Session Unlockable Abilities: Invulnerability, Wall of shields, Fire circle. ❤️‍🩹 Healer : Low Skill . Healers are able to add a temporary shield to any team mate, absorbing one damage, and heal team mates. Healers will be mobile, running around and healing those in need, and adding shields to Paladin’s. This class is not combat focused and provides those who would find combat stressful a mode of playing. With upgrades, a healer can stave off death of a team mate by resurrecting them within a small window of their defeat. Session Unlockable Abilities: Area heal, Area shield, Area resurrect. 🏹 Archer : Low Skill . Archers are able to deal damage in a wide area and are able to push enemies back out of the sanctuary. Archers will focus on tackling groups of invaders and using their knock-back effect to push larger threatening invaders back out of the sanctuary, allowing for team mates to reposition themselves before fighting it. With upgrades, archers can use knock backs with more utility including stunning enemies against terrain. Session Unlockable Abilities: Volley, Fire arrows, Sniper. 🗡️ Rogue : High Skill . Rogues are able to deal great amounts of damage to single targets and are able to sneak around behind invader lines. Rogues will focus on tackling large invaders with high health by sneaking up to them and quickly dispatching them and retreating before taking damage by surrounding invaders. With upgrades, rogues can become more mobile allowing them to be agile to a rapidly changing environment. Session Unlockable Abilities: Poison bomb, Sticky bomb, Smoke bomb. 🔥 Elementalist : Medium Skill . Elementalists are able absorb environmental effects, such as a fire spreading through the sanctuary which would reduce the life essence gained, and empower team mates with elemental damage. Elementalists will be on damage control, prioritizing the absorption of elemental effects to mitigate damage to the sanctuary. Once absorbed sufficent elemental essence, they can empower a team mate with it (such as lighting a Paladins sword on fire) allowing that team mate to inflict increased damage. This class is not combat focused and provides those who would find combat stressful a mode of playing. With upgrades, an elementalist can absorb elemental effects from invaders which results in their attacks not being empowered by elemental effects and thus reducing their impact on the sanctuary. Session Unlockable Abilities: Area absorb, Area fire buff, Meteor. 🪢 Controller : High Skill . Controllers are able to tie invaders up, reducing their ability to attack team mates and the sanctuary. Controllers will attempt to focus specifically threatening invaders to mitigate their potential for damage. Controllers will work together to tie up large invaders. With upgrades, a controller can drag a tied up invader back to team mates for disposal before the effect wares off. Session Unlockable Abilities: Area slowing trap, Area confuse trap, Area lasoo. 🦎 Tamer : Low Skill . Tamers are able to tame void invaders by converting them into friendly pets, which will autonomously defend the sanctuary from invaders. Tamers will focus on invaders that are tied up, which will not be able to escape their range and provide them with safety from damage. Tamers will work together to tame large invaders. This class is not combat focused and provides those who would find combat stressful a mode of playing. With upgrades, a tamer can express limited control over pets - such as directing it to follow and defend the tamer. Session Unlockable Abilities: Empower pets, Summon pets, Upgrade pets. 🌷 Druid : Low Skill . Druids are able to grow the size of the sanctuary faster than all other classes. Druids are able to grow unique fauna that can help with the defense of the sanctuary, such as barriers and static carnivorous plants which will attack invaders. Druids will focus on growing the sanctuary, to maximise on life essence production, and setting up defensible areas that the group can defend from more effectively. With upgrades, a druid can grow more types of fauna that have different utilities. Session Unlockable Abilities: Area sanctuary growth, Grow giant carnivorous plant, Grow giant defensive plant. ",
     "url": "/void-survivors/design-direction.html#-character-classes-",
     
     "relUrl": "/void-survivors/design-direction.html#-character-classes-"
-  },"11": {
+  },"23": {
+    "doc": "💭 Design Direction",
+    "title": "🗺️ Level Design",
+    "content": "The world is a giant void, a barren dark and misty landscape, filled with the shadowy remains of previously defeated players. There are no definable landmarks or areas that provide uniqueness, instead that comes about during the growth of the sanctuary. The void has little level design and content requirements. Source: World Anvil . The sanctuary will dynamically grow the longer it lasts which will spawn all sorts of obstacles in the form of fauna which the players can use to their advantage when fighting invaders. These obstacles will be procedurally spawned based on a small set of rules. In all, Void Survivors has very little in terms of level design instead opting for large open spaces - which is common for bullet-heaven games. ",
+    "url": "/void-survivors/design-direction.html#%EF%B8%8F-level-design",
+    
+    "relUrl": "/void-survivors/design-direction.html#️-level-design"
+  },"24": {
     "doc": "💭 Design Direction",
     "title": "💭 Design Direction",
-    "content": "This page defines the direction of the design for the game Void Survivors. This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game’s development. | 🪘 Design Pillars 🪘 . | 🗝️ Hyper Accessible | 🏘️ Community Engageable | 😄 Casually Enjoyable | . | 🏃 Player Motivations 🏃 . | 🤝 Cooperation | 🏆 Competition | 🔥 Destruction | 💪 Progression | 🔎 Discovery | . | 🛠️ Main Mechanics 🛠️ . | 🧭 2D Movement | 🗡️ Auto Attacks | 🔥 Character classes have unique abilities | ⚠️ Telegraphed abilities and attacks | 💪 Rapid Progression and ability unlocks | 🙏 Stacked abilities | . | 🌀 Gameplay Loop 🌀 | 🎯 Players’ Goal 🎯 | 💪 Meta Game Loop 💪 | 🧝🧞🧙 Character Classes 🧙🧞🧝 . | 🛡️ Paladin : Medium Skill | ❤️‍🩹 Healer : Low Skill | 🏹 Archer : Low Skill | 🗡️ Rogue : High Skill | 🔥 Elementalist : Medium Skill | 🪢 Controller : High Skill | 🦎 Tamer : Low Skill | 🌷 Druid : Low Skill | . | . ",
+    "content": "This page defines the direction of the design for the game Void Survivors. This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game’s development. | 👁️ Gameplay summary 👁️ | 🪘 Design Pillars 🪘 . | 🗝️ Hyper Accessible | 🏘️ Community Engageable | 😄 Casually Enjoyable | . | 🏃 Player Motivations 🏃 . | 🤝 Cooperation | 🏆 Competition | 🔥 Destruction | 💪 Progression | 🔎 Discovery | . | 🛠️ Main Mechanics 🛠️ . | 🧭 2D Movement | 🗡️ Auto Attacks | 🔥 Character classes have unique abilities | ⚠️ Telegraphed abilities and attacks | 💪 Rapid Progression and ability unlocks | 🙏 Stacked abilities | . | 🌀 Gameplay Loop 🌀 | 🎯 Players’ Goal 🎯 | 💪 Meta Game Loop 💪 | 🧝🧞🧙 Character Classes 🧙🧞🧝 . | 🛡️ Paladin : Medium Skill | ❤️‍🩹 Healer : Low Skill | 🏹 Archer : Low Skill | 🗡️ Rogue : High Skill | 🔥 Elementalist : Medium Skill | 🪢 Controller : High Skill | 🦎 Tamer : Low Skill | 🌷 Druid : Low Skill | . | 🗺️ Level Design | . ",
     "url": "/void-survivors/design-direction.html",
     
     "relUrl": "/void-survivors/design-direction.html"
-  },"12": {
+  },"25": {
+    "doc": "📅 Development Plan",
+    "title": "State of the project",
+    "content": " ",
+    "url": "/void-survivors/development-plan.html#state-of-the-project",
+    
+    "relUrl": "/void-survivors/development-plan.html#state-of-the-project"
+  },"26": {
+    "doc": "📅 Development Plan",
+    "title": "High Level Milestones",
+    "content": "These are the milestones that are identified during the development plan. %%{init: {'theme':'forest', 'gitGraph': {'showBranches': false}, 'themeVariables': { 'commitLabelColor': '#FFFFFF', 'commitLabelBackground': '#00000000', 'commitLabelFontSize': '16px' } }}%% gitGraph commit id: \"Ideation\" type:NORMAL commit id: \"Pre-Production\" type:REVERSE commit id: \"Alpha\" type:HIGHLIGHT commit id: \"Beta\" type:HIGHLIGHT commit id: \"Release\" type:HIGHLIGHT commit id: \"Live-Ops\" type:HIGHLIGHT commit id: \"Sunset\" type:HIGHLIGHT . ",
+    "url": "/void-survivors/development-plan.html#high-level-milestones",
+    
+    "relUrl": "/void-survivors/development-plan.html#high-level-milestones"
+  },"27": {
+    "doc": "📅 Development Plan",
+    "title": "Pre-Production Milestones",
+    "content": "🎯 Vertical Slice . | Prototypes As a solo player, I want to live beyond my team … . | Key concept art generated . | Content pipelines defined and integrated . | Identify exact device targets eg iPhone 8 . | . ",
+    "url": "/void-survivors/development-plan.html#pre-production-milestones",
+    
+    "relUrl": "/void-survivors/development-plan.html#pre-production-milestones"
+  },"28": {
+    "doc": "📅 Development Plan",
+    "title": "Alpha Milestones",
+    "content": ". | GDPR compliance | Bug reporting | Community Manager | Budding discord community | Devlogs | . ",
+    "url": "/void-survivors/development-plan.html#alpha-milestones",
+    
+    "relUrl": "/void-survivors/development-plan.html#alpha-milestones"
+  },"29": {
+    "doc": "📅 Development Plan",
+    "title": "Beta Milestones",
+    "content": ". | Refunds | Refund policies | Purchasing | . ",
+    "url": "/void-survivors/development-plan.html#beta-milestones",
+    
+    "relUrl": "/void-survivors/development-plan.html#beta-milestones"
+  },"30": {
+    "doc": "📅 Development Plan",
+    "title": "Release Milestones",
+    "content": " ",
+    "url": "/void-survivors/development-plan.html#release-milestones",
+    
+    "relUrl": "/void-survivors/development-plan.html#release-milestones"
+  },"31": {
+    "doc": "📅 Development Plan",
+    "title": "Challenges and Risk Analysis",
+    "content": ". ",
+    "url": "/void-survivors/development-plan.html#challenges-and-risk-analysis",
+    
+    "relUrl": "/void-survivors/development-plan.html#challenges-and-risk-analysis"
+  },"32": {
     "doc": "📅 Development Plan",
     "title": "To Do",
-    "content": ". | schedule | milestones | roadmap | showing clear tasks and milestones for the pre-production stage | showing outcomes from the stage and next steps to take the game to release / completion | what roles are needed and when | HL thematic overview of months of work remaining | How is that broken up, roles required, hours allocated | Risks, acknowledgement, mitigations . | Risk: Gameplay enjoyment | Risk: Different scales of players | Risk: C | Risk: Complex technology | . ",
+    "content": ". | schedule | milestones | roadmap | showing clear tasks and milestones for the pre-production stage | showing outcomes from the stage and next steps to take the game to release / completion | what roles are needed and when | HL thematic overview of months of work remaining | How is that broken up, roles required, hours allocated . | Timeline . | Risks, acknowledgement, mitigations . | Risk: Gameplay enjoyment | Risk: Different scales of players | Risk: C | Risk: Complex technology | . ",
     "url": "/void-survivors/development-plan.html#to-do",
     
     "relUrl": "/void-survivors/development-plan.html#to-do"
-  },"13": {
+  },"33": {
     "doc": "📅 Development Plan",
     "title": "📅 Development Plan",
-    "content": " ",
+    "content": "This page defines the plan for developing Void Survivors, including milestones, schedules, and roles. This document is a WIP and will be iterated upon during during the Pre-Production of the game’s development. | State of the project | High Level Milestones | Pre-Production Milestones . | 🎯 Vertical Slice | . | Alpha Milestones | Beta Milestones | Release Milestones | Challenges and Risk Analysis | To Do | . ",
     "url": "/void-survivors/development-plan.html",
     
     "relUrl": "/void-survivors/development-plan.html"
-  },"14": {
+  },"34": {
     "doc": "🫂 Inclusion Plan",
     "title": "Testing",
     "content": "Diversity Equity . ",
     "url": "/void-survivors/diversity-equity-inclusion-plan.html#testing",
     
     "relUrl": "/void-survivors/diversity-equity-inclusion-plan.html#testing"
-  },"15": {
+  },"35": {
     "doc": "🫂 Inclusion Plan",
     "title": "🫂 Inclusion Plan",
     "content": " ",
     "url": "/void-survivors/diversity-equity-inclusion-plan.html",
     
     "relUrl": "/void-survivors/diversity-equity-inclusion-plan.html"
-  },"16": {
+  },"36": {
     "doc": "🏦 Finance Plan",
     "title": "To Do",
     "content": ". | Budget to completion and release . 📖 Screen Australia Template . | Discord costs | Streamer costs . | stages and allocation of funds | . ",
     "url": "/void-survivors/finance-plan.html#to-do",
     
     "relUrl": "/void-survivors/finance-plan.html#to-do"
-  },"17": {
+  },"37": {
     "doc": "🏦 Finance Plan",
     "title": "🏦 Finance Plan",
     "content": " ",
     "url": "/void-survivors/finance-plan.html",
     
     "relUrl": "/void-survivors/finance-plan.html"
-  },"18": {
+  },"38": {
     "doc": "🌱 Gameplay Video",
     "title": "Testing",
     "content": " ",
     "url": "/void-survivors/gameplay-video.html#testing",
     
     "relUrl": "/void-survivors/gameplay-video.html#testing"
-  },"19": {
+  },"39": {
     "doc": "🌱 Gameplay Video",
     "title": "🌱 Gameplay Video",
     "content": " ",
     "url": "/void-survivors/gameplay-video.html",
     
     "relUrl": "/void-survivors/gameplay-video.html"
-  },"20": {
+  },"40": {
     "doc": "Void Survivors",
     "title": "Overview",
     "content": "Void Survivors* is an atmospheric free-to-play social dungeon crawling multiplayer game where hundreds of players group together to survive for as long as possible against incresingly difficult waves of whimsical fantasy monsters. * Working title . The game is currently in pre-production and Universe Builders are seeking funding to be able to complete Pre-Production. 🎨 Art Style . 2.5D, fixed camera, isometric, fantasy, voxels . 🛠️ Mechanics . | Movement in 2D | Auto-target combat | Telegraphed attacks | Roles (Tank, Healer, DPS, Crowd Control, …) | . 🕹️ Player Motivations . 🤝   Cooperation 🏆   Competition 🔥   Destruction 💪   Progression 🔎   Discovery . 💭 Player Fantasies . | Playing and interacting with large groups of players (100+) to overcome challenges | Playing an impactful role in a group | Playing with friends and existing communities | Playing with popular streamers | . ⌛ Session Length . 15 minutes . 👪 Target Market . 📺 Target Platforms . 🌐 Web Browsers     Chrome for Linux, Windows, MacOSX, Android, iPhone, Smart TV’s     Firefox for Linux, Windows, MacOSX, Android     Safari for MacOSX, iPhone . 📺 Controls . ⌨️   WASD or Arrows 🎮   Joystick 📱   One touch controls . 📇 Tags . MMO, Multiplayer, Cooperative, Touch screen support, Full controller support, In-App Purchases, RPG, Achievements. 👉 Gameplay Inspirations . | Vampire Survivors | Soulstone Survivors | World of Warcraft - Raids | . ",
     "url": "/void-survivors/#overview",
     
     "relUrl": "/void-survivors/#overview"
-  },"21": {
+  },"41": {
     "doc": "Void Survivors",
     "title": "Void Survivors",
     "content": " ",
     "url": "/void-survivors/",
     
     "relUrl": "/void-survivors/"
-  },"22": {
+  },"42": {
     "doc": "Home",
     "title": "Home",
     "content": "Universe Builders is a game development studio located in Melbourne Australia focusing on the development of loneliness-busting highly accessibile massively multiplayer games for the Web, Mobile, Windows, Linux, and PC. Universe Builders is currently seeking funding for their first title - Void Survivors. Check out all the documentation for Void Survivors here . ",
     "url": "/",
     
     "relUrl": "/"
-  },"23": {
+  },"43": {
     "doc": "🗫 Marketing and Release Plan",
     "title": "High Level Strategy",
     "content": ". . ",
     "url": "/void-survivors/marketing-plan.html#high-level-strategy",
     
     "relUrl": "/void-survivors/marketing-plan.html#high-level-strategy"
-  },"24": {
+  },"44": {
     "doc": "🗫 Marketing and Release Plan",
     "title": "Ideas",
-    "content": ". | Join a bunch of gaming communities and share a link to it | Who is your project for? | Psychographic segmentation – venn diagram for game, middle is game, what contributes to the game | What do they play? | Where do they hangout? | Choose a few targetted marketing streams (not dev diary) | . Target: Existing communities . | Create own community . | GTFO | D&amp;D | . | . ",
+    "content": ". | Join a bunch of gaming communities and share a link to it | Who is your project for? | Psychographic segmentation – venn diagram for game, middle is game, what contributes to the game | What do they play? | Where do they hangout? | Choose a few targetted marketing streams (not dev diary) | Launching on armor games, newgrounds, … | . Target: Existing communities . Self-Publishing: If you are adopting a self-publishing strategy name your key priorities. If you are new to this, make sure you test your ideas with experienced developers. Platform engagement: What platforms are you targeting and what you are doing to actively engage with them for positioning on online markets if possible. User Acquisition Strategies: Particularly if self-publishing. Competitor/Previous Products: Listing competitor or previously released games shows that you have done market research. Avoid listing market leaders and breakout titles- if you are an indie dev, you can’t compete with Doom or Mario! Check sites where you can get good information around sales figures and review performance. Remember console providers rarely make these figures public so be ready to compensate for that in your comparisons. Create a table and link or import the media. | Create own community . | GTFO | D&amp;D | . | . ",
     "url": "/void-survivors/marketing-plan.html#ideas",
     
     "relUrl": "/void-survivors/marketing-plan.html#ideas"
-  },"25": {
+  },"45": {
     "doc": "🗫 Marketing and Release Plan",
     "title": "Testing",
     "content": " ",
     "url": "/void-survivors/marketing-plan.html#testing",
     
     "relUrl": "/void-survivors/marketing-plan.html#testing"
-  },"26": {
+  },"46": {
     "doc": "🗫 Marketing and Release Plan",
     "title": "🗫 Marketing and Release Plan",
     "content": "This page defines the direction of the design for the game Void Survivors. This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game’s development. | High Level Strategy | Ideas | Testing | . ",
     "url": "/void-survivors/marketing-plan.html",
     
     "relUrl": "/void-survivors/marketing-plan.html"
-  },"27": {
+  },"47": {
     "doc": "💵 Monetization Plan",
     "title": "Monetization",
-    "content": "Monetization is driven by two strategies: . | Class unlocks. | Character customization. | . The following will be part of the monetization: ✅ No loot boxes or other gambling mechanics. ✅ No pay-to-win mechanics. ✅ No pay-to-earn mechanics. ✅ No cryptocurrency or NFTs. ✅ No data harvesting or selling of user data. ",
+    "content": "Void Survivors is a free-to-play game that relies on in-app purchases to monetize the game. Monetization is driven by two strategies: . | Class unlocks. | Character customization. | . The following will be part of the monetization: ✅ No loot boxes or other gambling mechanics. ✅ No pay-to-win mechanics. ✅ No pay-to-earn mechanics. ✅ No cryptocurrency or NFTs. ✅ No data harvesting or selling of user data. ",
     "url": "/void-survivors/monetization-plan.html#monetization",
     
     "relUrl": "/void-survivors/monetization-plan.html#monetization"
-  },"28": {
+  },"48": {
     "doc": "💵 Monetization Plan",
     "title": "Class Unlocks",
-    "content": "Players will have the option for playing a variety of free classes, including Paladin 🛡️, Healer ❤️‍🩹, Archer 🏹, and Rogue 🗡️. More exotic classes will be unlockable through a purchasing option. Players are able to change classes at any time during a session. This allows the player to be dynamic to the needs of the team and to their current situation, eg if a player is in a tight spot surrounded by fire they can switch to the elementalist class 🔥 to absorb the fire through the elementalist ability and escape safely. Classes will reach a maximum progression and player’s can extend their progression in the game by purchasing new classes. This provides three motivations for the player to purchase a class: . | Increases survivability due to having more utility. | Increases value to team due to being able to change to class that the team is lacking. | Increased progression in the game. | . As the game is supported new classes will be released. ",
+    "content": "Players will have the option for playing a variety of free classes, including Paladin 🛡️, Healer ❤️‍🩹, Archer 🏹, and Rogue 🗡️. More exotic classes will be unlockable through a purchasing option. Players are able to change classes at any time during a session. This allows the player to be dynamic to the needs of the team and to their current situation, eg if a player is in a tight spot surrounded by fire they can switch to the elementalist class 🔥 to absorb the fire through the elementalist ability and escape safely. Classes will reach a maximum progression and player’s can extend their progression in the game by purchasing new classes. This provides three motivations for the player to purchase a class: . | Increases survivability due to having more utility. | Increases value to team due to being able to change to class that the team is lacking. | Increased progression in the game. | . As the game is supported new classes will be released. This is a common monetization strategy in games that have numerous characters or character classes, including RPGs and fighting games. Games that have used this strategy successfully include: . | League of Legends | Multiversus | Rainbow six siege | . ",
     "url": "/void-survivors/monetization-plan.html#class-unlocks",
     
     "relUrl": "/void-survivors/monetization-plan.html#class-unlocks"
-  },"29": {
+  },"49": {
     "doc": "💵 Monetization Plan",
     "title": "Character Customization",
-    "content": "Players will want to express their individuality, especially in larger groups where they may get lost in a crowd of other players. Players will be able purchase skins to customize their characters. Each class will have unique skins, allowing a player to purchase unique looks for each of their classes. ",
+    "content": "Players will want to express their individuality, especially in larger groups where they may get lost in a crowd of other players. Players will be able purchase skins to customize their characters. Each class will have unique skins, allowing a player to purchase unique looks for each of their classes. This is a common monetization strategy that was first popularized by League of Legends and has been used in most free-to-play games. Games that have used this strategy successfully include: . | CSGO | Dota 2 | Valorant | Among Us | Rust | . ",
     "url": "/void-survivors/monetization-plan.html#character-customization",
     
     "relUrl": "/void-survivors/monetization-plan.html#character-customization"
-  },"30": {
+  },"50": {
     "doc": "💵 Monetization Plan",
     "title": "💵 Monetization Plan",
     "content": " ",
     "url": "/void-survivors/monetization-plan.html",
     
     "relUrl": "/void-survivors/monetization-plan.html"
-  },"31": {
+  },"51": {
     "doc": "📖 Narrative Direction",
     "title": "📖 Narrative Direction",
     "content": ". | Players play in a void and spawn life around them. The longer they stay in one spot the more lush the life becomes, the larger it becomes, but the more it attracts the void to lash back against it. | All about cooperation, and banding together . | Inspiration: The void in Shadow and Bone. | . It begs to question, with enough players spreading bringing into the void life would the void be quenched entirely? . ",
     "url": "/void-survivors/narrative-direction.html",
     
     "relUrl": "/void-survivors/narrative-direction.html"
-  },"32": {
+  },"52": {
     "doc": "🎤 Pitch Deck",
     "title": "To Do",
     "content": ". | Vision for project | Intended audience | Why project will hook audience | Impact of funding on applicant | What makes the project compelling and distinctive including its mechanics, narrative, visual style, use of technology or other key creative elements? | How well the project contributes to the long-term sustainability and commercial goals of the developer, including investment triggered, employment and commercial relationships. | Skills match. | use reveal.js | . ",
     "url": "/void-survivors/pitch-deck.html#to-do",
     
     "relUrl": "/void-survivors/pitch-deck.html#to-do"
-  },"33": {
+  },"53": {
     "doc": "🎤 Pitch Deck",
     "title": "🎤 Pitch Deck",
     "content": " ",
     "url": "/void-survivors/pitch-deck.html",
     
     "relUrl": "/void-survivors/pitch-deck.html"
-  },"34": {
+  },"54": {
     "doc": "🎤 Pitch Video",
     "title": "To Do",
-    "content": ". | 3 minutes . | Why now? | Why you? | Why this story? | Why is now the right time for the story? | How does this project stand out? | Really display passion | Does the story being told match the person telling it? | classification . | They should feel excited about the project and they should want to advocate for it | Audience | Hooks | Who else would be excited about it? | The impact on your business if it goes successfully | Not 70-80% on game vision . | How does it help business: Builds a reusable technical foundation that is unique in it’s market positioning . | Inclusion: No matter what you play on or what your skill level, you are welcomed and encouraged to join. | . ",
+    "content": ". | 3 minutes . | Why now? | Why you? | Why this story? | Why is now the right time for the story? | How does this project stand out? | Really display passion | Does the story being told match the person telling it? | classification . | They should feel excited about the project and they should want to advocate for it | Audience | Hooks | Who else would be excited about it? | The impact on your business if it goes successfully | Not 70-80% on game vision . | How does it help business: Builds a reusable technical foundation that is unique in it’s market positioning . | Inclusion: No matter what you play on or what your skill level, you are welcomed and encouraged to join. | Justification: More divided world – fully inclusive game . | Justification: Gaming communities have moved from async comms to sync comms (youtube -&gt; twitch, facebook/reddit -&gt; discord) . | A game like this wouldn’t have thrived in those async environments | . | . ",
     "url": "/void-survivors/pitch-video.html#to-do",
     
     "relUrl": "/void-survivors/pitch-video.html#to-do"
-  },"35": {
+  },"55": {
     "doc": "🎤 Pitch Video",
     "title": "🎤 Pitch Video",
     "content": " ",
     "url": "/void-survivors/pitch-video.html",
     
     "relUrl": "/void-survivors/pitch-video.html"
-  },"36": {
+  },"56": {
     "doc": "🕹️ Prototype",
     "title": "To Do",
     "content": ". | hardware requirements | step-by-step instructions to get prototype running | controls | intended experience | what is the state of the prototype compared to vision for the final project . | Collect life essence and add to a crystal | . ",
     "url": "/void-survivors/prototype.html#to-do",
     
     "relUrl": "/void-survivors/prototype.html#to-do"
-  },"37": {
+  },"57": {
     "doc": "🕹️ Prototype",
     "title": "🕹️ Prototype",
     "content": " ",
     "url": "/void-survivors/prototype.html",
     
     "relUrl": "/void-survivors/prototype.html"
-  },"38": {
+  },"58": {
     "doc": "👪 Team",
     "title": "To Do",
     "content": ". | Image | . ",
     "url": "/void-survivors/team.html#to-do",
     
     "relUrl": "/void-survivors/team.html#to-do"
-  },"39": {
+  },"59": {
     "doc": "👪 Team",
     "title": "James Knight",
     "content": "🏠 Melbourne, Australia. 📧 jk@universe.builders 📞 0450215144 📇 LinkedIn . ",
     "url": "/void-survivors/team.html#james-knight",
     
     "relUrl": "/void-survivors/team.html#james-knight"
-  },"40": {
+  },"60": {
     "doc": "👪 Team",
     "title": "Bio",
     "content": "James Knight is a lifelong multiplayer and MMO addict fan, having played almost every MMO and most online multiplayer games, and has dedicated his entire career to working with the most innovative multiplayer game and technology developers in the industry. He is the founder and currently sole developer at Universe Builders. He has over 10 years professional experience in the games’ industry and over 3 years as a university lecturer. Pivoting from game design and 3D animation he transitioned into engineering and then product management roles, and still maintains a passion for design and art. He holds 2 bachelors degrees and has worked in several different industry roles including engineering, design, and development management. ",
     "url": "/void-survivors/team.html#bio",
     
     "relUrl": "/void-survivors/team.html#bio"
-  },"41": {
+  },"61": {
     "doc": "👪 Team",
     "title": "Professional Game Credits",
     "content": ". | Fortnite : Engineer | Nightingale : Product Manager | World of Tanks : Engineer | Tomorrow Falls : Development Manager | World of Tanks: Blitz : Development Manager | World of Warships : Engineer | Avatar - The Last Airbender : QA | . ",
     "url": "/void-survivors/team.html#professional-game-credits",
     
     "relUrl": "/void-survivors/team.html#professional-game-credits"
-  },"42": {
+  },"62": {
     "doc": "👪 Team",
     "title": "Technology Credits",
     "content": ". | Unreal Engine 4 | SpatialOS | BigWorld Technology | . ",
     "url": "/void-survivors/team.html#technology-credits",
     
     "relUrl": "/void-survivors/team.html#technology-credits"
-  },"43": {
+  },"63": {
     "doc": "👪 Team",
     "title": "Personal Game Credits (student/personal projects)",
     "content": ". | Karas Canvas : Lead Designer | Enchanted Scrolls : Lead Designer | Avoision : Solo developed | Scrapped : Designer/Engineer | Eternal Templar : Lead Designer | Space Junk : Designer | . ",
     "url": "/void-survivors/team.html#personal-game-credits-studentpersonal-projects",
     
     "relUrl": "/void-survivors/team.html#personal-game-credits-studentpersonal-projects"
-  },"44": {
+  },"64": {
     "doc": "👪 Team",
     "title": "Professional Experience",
     "content": ". | Lecturer (Games) - Torrens University - 3 years | Lead Educator (Games, Web) - Academy of Information Technology - 2 years | Tech Product Manager - Improbable - 1 year | Tech Project Manager - DPS Games - 1 year | Server Tech Expert - DPS Games - 1 year | Software Engineer - Wargaming - 2.5 years | Software Engineer - Epic Games - 1 year | Quality Assurance - THQ - 1 year | . ",
     "url": "/void-survivors/team.html#professional-experience",
     
     "relUrl": "/void-survivors/team.html#professional-experience"
-  },"45": {
+  },"65": {
     "doc": "👪 Team",
     "title": "Education",
-    "content": ". | Scaled Professional Scrum Certification - Scrum.org | Bachelor, Computer Science in Real-time Simulation - DigiPen Institute of Technology | Bachelor, Interactive Entertainment and Game Design - Queensland University of Technology | . See LinkedIn for more information. ",
+    "content": ". | Scaled Professional Scrum Certification - Scrum.org | Bachelor, Computer Science in Real-time Simulation - DigiPen Institute of Technology | Bachelor, Interactive Entertainment and Game Design - Queensland University of Technology | . For a full list of experiences and portfolio please see LinkedIn for more information. ",
     "url": "/void-survivors/team.html#education",
     
     "relUrl": "/void-survivors/team.html#education"
-  },"46": {
+  },"66": {
     "doc": "👪 Team",
     "title": "👪 Team",
     "content": " ",
     "url": "/void-survivors/team.html",
     
     "relUrl": "/void-survivors/team.html"
-  },"47": {
+  },"67": {
+    "doc": "🧮 Technical Direction",
+    "title": "👁️ At a glance 👁️",
+    "content": "Platforms: Web for iPhone, Android, Windows, MacOSX, and Linux. Game Engine: In-house developed. Libraries/Technologies: WebGL, WebRTC, Kubernetes, Cloud provided services. Languages: C, WebAssembly, Typescript. Content Generation Tools: MagicaVoxel, Photoshop. ",
+    "url": "/void-survivors/technical-direction.html#%EF%B8%8F-at-a-glance-%EF%B8%8F",
+    
+    "relUrl": "/void-survivors/technical-direction.html#️-at-a-glance-️"
+  },"68": {
     "doc": "🧮 Technical Direction",
     "title": "🪘 Technical Pillars 🪘",
     "content": "These pillars help drive decisions in all aspects of the games technology. 🗝️ Hyper Accessible . The game should support as many people as possible, on as many devices as possible, in as many situations as possible. 🔓 Low download requirements for low bandwidth tolerance. 🔓 Highly device and OS accessible (Win, Mac, Linux, iPhone, Android). 🔓 Low hardware requirements (Older phones, laptops, …). 🔓 Low bandwidth and connectivity common on public transport or remote areas. ✨ High Content Density . The game client should support a high density of players and content on screen. ⭐ Up to hundreds of players on screen at one time. ⭐ Lots of abilities. ⭐ Lots of invaders. ⭐ Lots of particle and destruction effects. 🎪 Massively Scalable . The game world should support a large amount of varied size teams from small to large and for large amounts of players joining the game spontaneously. 🔺 All teams should be placed within the same world, allowing players to discover them by exploring the void. 🔺 Support for scaling up game servers to support a large community joining within seconds. 🔺 Support for scaling down game servers to conserve hosting expenditure. ",
     "url": "/void-survivors/technical-direction.html#-technical-pillars-",
     
     "relUrl": "/void-survivors/technical-direction.html#-technical-pillars-"
-  },"48": {
+  },"69": {
     "doc": "🧮 Technical Direction",
     "title": "🖥️🎮 Game Client Technology Stack",
-    "content": "🌐 Web Browser (Chrome, Safari, Firefox, …) . Web browsers were chosen because they are available on all major platforms, including desktops, laptops, mobile phones, and even smart TV’s. It is the easiest way to make the game device inclusive. Web browsers have reached a maturity with their graphics fidelity (WebGL/WebGPU), their runtime performance (WASM), and their networking capabilities (WebRTC), to ensure that a low-fidelity game can be developed and run at a high-fps. Web applications can be packaged into native applications for PC, Mac, and mobile phones using progressive-web app technologies such as Electron. If the game wishes to leverage the hardware acceleration and API advantages of a native application, this route is a proven option. ✨ Simulation Architecture . The simulation architecture used will be an Entity-Component-System architecture using Data-Oriented principles to optimize performance for a large amount of unique entities on screen. This style of architecture has been popularized by Unity’s ECS implementation and has a proven ability to allow low-end hardware to support thousands of unique objects being simulated at high frame rates. 👾 Graphics . WebGL is the graphics library that will be targeted until WebGPU has reached mass availability, as currently it is only available in Chrome browsers. The graphics interface will be developed in-house, interfacing with WebGL directly, opposed to using an existing interface such as BabylonJS or ThreeJS. This was chosen as the graphical optimizations that can be realized for a voxel based graphical style outweigh the development cost of building this interface. Our team has previous expertise in developing such interfaces. Lot’s of the characters, enemies, and effects will be the same which will allow for instancing on the GPU to provide better frame rates for low end devices. 🎾 Physics . The physics in the game will be low-fidelity due to the amount of collidable elements that will be present. The results of colliding with an enemy will not result in a physical reaction, such as being pushed back, but will result in damage taken. This results in far less computation required and thus supports lower-end hardware and is the typical behavior in bullet-heaven game. 🖧 Networking . WebRTC data channels will be used for the bulk of game communications as they are UDP based and ideal for low-latency low-bandwidth operations and allow for peer-to-peer connections at ~70% success rate for NAT punchthrough. It also removes the need for persistent connections which can be inconsistent on public transport and in low bandwidth environments, such as those in low socioeconomic areas. WebSockets will be used for communicating to content providers and other backend providers that do not require low latency, for usages such as streaming in required assets to play the game. HTTP REST requests will be used for communication to various API’s, such as authentication. 🖳 Language . WebAssembly will be the language that will run on each player’s device through the Web Browser. The team will use the C language to write logic which will then be transpiled into WebAssembly via the clang toolchain. The client engine is seperated into independent modules which include the core runtime engine and the game systems. Each game system is independently built and linked which allows for a quick iteration and runtime hot reloading when developing logic for a single system, opposed to needing build and reload the entire game. ",
+    "content": "🌐 Web Browser (Chrome, Safari, Firefox, …) . Web browsers were chosen because they are available on all major platforms, including desktops, laptops, mobile phones, and even smart TV’s. It is the easiest way to make the game device inclusive. Web browsers have reached a maturity with their graphics fidelity (WebGL/WebGPU), their runtime performance (WASM), and their networking capabilities (WebRTC), to ensure that a low-fidelity game can be developed and run at a high-fps. Web applications can be packaged into native applications for PC, Mac, and mobile phones using progressive-web app technologies such as Electron. If the game wishes to leverage the hardware acceleration and API advantages of a native application, this route is a proven option. ✨ Simulation Architecture . The simulation architecture used will be an Entity-Component-System architecture using Data-Oriented principles to optimize performance for a large amount of unique entities on screen. This style of architecture has been popularized by Unity’s ECS implementation and has a proven ability to allow low-end hardware to support thousands of unique objects being simulated at high frame rates. 👾 Graphics . WebGL is the graphics library that will be targeted until WebGPU has reached mass availability, as currently it is only available in Chrome browsers. The graphics interface will be developed in-house, interfacing with WebGL directly, opposed to using an existing interface such as BabylonJS or ThreeJS. This was chosen as the graphical optimizations that can be realized for a voxel based graphical style outweigh the development cost of building this interface. Our team has previous expertise in developing such interfaces. Lot’s of the characters, enemies, and effects will be the same which will allow for instancing on the GPU to provide better frame rates for low end devices. 🎾 Physics . The physics in the game will be low-fidelity due to the amount of collidable elements that will be present. The results of colliding with an enemy will not result in a physical reaction, such as being pushed back, but will result in damage taken. This results in far less computation required and thus supports lower-end hardware and is the typical behavior in bullet-heaven game. 🖧 Networking . WebRTC data channels will be used for the bulk of game communications as they are UDP based and ideal for low-latency low-bandwidth operations and allow for peer-to-peer connections at ~70% success rate for NAT punchthrough. It also removes the need for persistent connections which can be inconsistent on public transport and in low bandwidth environments, such as those in low socioeconomic areas. WebSockets will be used for communicating to content providers and other backend providers that do not require low latency, for usages such as streaming in required assets to play the game. HTTP REST requests will be used for communication to various API’s, such as authentication. 🖳 Language . WebAssembly will be the language that will run on each player’s device through the Web Browser. The team will use the C language to write logic which will then be transpiled into WebAssembly via the clang toolchain. The client engine is seperated into independent modules which include the core runtime engine and the game systems. Each game system is independently built and linked which allows for a quick iteration and runtime hot reloading when developing logic for a single system, opposed to needing build and reload the entire game. ❓ Why not use a pre-existing engine? . There are many engines that export a builds to the web, such as Unity, UE4, and Godot, however all of those options fail to hit several of the technical requirements that this game desires. Specifically all of those engines struggle to export Web builds that run well on low-end hardware, and struggle hit high frame rates on average gaming machines. Further, getting those engines to support the high content density desired, in web exports, is a development challenge. There are engines specifically for developing web based games, such as BabylonJS and PlayCanvas, however those provide no feature support for the networking and high content density requirements for the game, and the advantages of each were not deemed justifyable for this project. These engine options were investigated in the ideation phase of this project. The Web platform and low simulation &amp; graphical fidelity requirements of this game means that building a custom engine provides the ability to optimize around these requirements. In tests done in the ideation phase it was validated that the fidelity bar could be hit using a simple custom engine on low powered devices, running at a frame rate that exceeded all other tested engines. There are numerous web based games that have chosen to invest in their own engine, including Krunker.io debatably the most played 3D multiplayer web game available, and no discovered examples of web based 3D multiplayer games with 30+ FPS that were developed using one of the aforementioned engines. The content generation pipelines will however use existing technologies, specifically MagicaVoxel for generating 3D assets, and the engine will integrate with those. Although the initial cost for developing this technology is high it means the product is positioned in a place where it is hard for substitutes or new entrants. ",
     "url": "/void-survivors/technical-direction.html#%EF%B8%8F-game-client-technology-stack",
     
     "relUrl": "/void-survivors/technical-direction.html#️-game-client-technology-stack"
-  },"49": {
+  },"70": {
     "doc": "🧮 Technical Direction",
     "title": "☁️ Game Backend Technology Stack",
     "content": "🎮 Game Server . Game servers will handle all non-client side interactions and ensuring the consistency of the simulation for all players. The game client will have a lot of authority regarding what events take place, such as whether a player was inflicted by damage, and the game server will do some light validation of these events. This poses the risk of players cheating, however as a cooperative game this will not have the exploitation rewards compared to a competitive game. The game server will flag any clear invalidations of the game rules which may result in a player being banned. The game server will be written in the C language and executed as binaries in the Alpine Linux OS inside of a container. Similar to the game client, each game system will be a seperate container and orchestrated seperately allowing for quick iteration speed in development and rolling updates to specific systems in production. Game servers will have authority over a single team and will handle migrating new teams as teams merge or seperate. As new teams form game servers will be horizontally scaled to account for the new team. Game servers will be vertically scalable to account for a team changing in size dramatically, ie as a team grows in player numbers it will have more hardware resources available to it. Game servers will be spatially distributed to allow players exploring the void to enter and exit them through moving in the game world. James Knight has worked on these types of spatially distributed game servers at 3 seperate MMO development companies over his career, and is competent in being able to architect and implement them. 📦 Orchestration . Kubernetes will serve as the orchestrator for all the game servers and in-house developed auxillary services. Kubernetes was chosen as it allows for ease of deployment to any cloud provider (AWS, Google Cloud, Azure, …) and reduces the need for cloud services during the development period as each developer can run a Kubernetes cluser on their local machine via Docker Desktop. Kubernetes supports auto-scaling, with strong integration with all major cloud providers, which will be highly leveraged during the live operation of the game to converse expenditure and scale up to support a spontaneous influx in players. 🐕‍🦺 Auxillary Services . The game will require a set of services which are readily provided by existing game service providers (Epic Games, Unity, …) or cloud providers. These services will ideally be leveraged rather than built in-house, to reduce development costs. Such services include: . | Authentication | Authorization | User account persistence | Game session statistics persistence | Configuration | Analytics | Payment processing | Version control | Artifact distribution | CI/CD pipeline | . 🖼️ Content Delivery . The game client will be delivered using the common mechanisms for delivering websites, using a CDN at the edge. This client will contain the most common and required assets (Models, textures, …). To reduce the size of the initial client download, most assets will be downloaded on demand as required. These will be delivered using a seperate CDN optimized for streaming on-demand binary assets. ",
     "url": "/void-survivors/technical-direction.html#%EF%B8%8F-game-backend-technology-stack",
     
     "relUrl": "/void-survivors/technical-direction.html#️-game-backend-technology-stack"
-  },"50": {
+  },"71": {
     "doc": "🧮 Technical Direction",
     "title": "🧮 Technical Direction",
-    "content": "This page defines the direction of the technology (Engine, Content Pipeline, Multiplayer Servers, …) used to develop and deploy the game Void Survivors. This document is a WIP and will be iterated upon during the Pre-Production phase of the game’s development. | 🪘 Technical Pillars 🪘 . | 🗝️ Hyper Accessible | ✨ High Content Density | 🎪 Massively Scalable | . | 🖥️🎮 Game Client Technology Stack . | 🌐 Web Browser (Chrome, Safari, Firefox, …) | ✨ Simulation Architecture | 👾 Graphics | 🎾 Physics | 🖧 Networking | 🖳 Language | . | ☁️ Game Backend Technology Stack . | 🎮 Game Server | 📦 Orchestration | 🐕‍🦺 Auxillary Services | 🖼️ Content Delivery | . | . ",
+    "content": "This page defines the direction of the technology (Engine, Content Pipeline, Multiplayer Servers, …) used to develop and deploy the game Void Survivors. This document is a WIP and will be iterated upon during the Pre-Production phase of the game’s development. | 👁️ At a glance 👁️ | 🪘 Technical Pillars 🪘 . | 🗝️ Hyper Accessible | ✨ High Content Density | 🎪 Massively Scalable | . | 🖥️🎮 Game Client Technology Stack . | 🌐 Web Browser (Chrome, Safari, Firefox, …) | ✨ Simulation Architecture | 👾 Graphics | 🎾 Physics | 🖧 Networking | 🖳 Language | ❓ Why not use a pre-existing engine? | . | ☁️ Game Backend Technology Stack . | 🎮 Game Server | 📦 Orchestration | 🐕‍🦺 Auxillary Services | 🖼️ Content Delivery | . | . ",
     "url": "/void-survivors/technical-direction.html",
     
     "relUrl": "/void-survivors/technical-direction.html"

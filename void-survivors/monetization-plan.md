@@ -7,6 +7,8 @@ nav_order: 33
 
 ## Monetization
 
+Void Survivors is a free-to-play game that relies on in-app purchases to monetize the game.
+
 Monetization is driven by two strategies:
 1. Class unlocks.
 2. Character customization.
@@ -33,6 +35,22 @@ This provides three motivations for the player to purchase a class:
 
 As the game is supported new classes will be released.
 
+This is a common monetization strategy in games that have numerous characters or character classes, including RPGs and fighting games.
+
+Games that have used this strategy successfully include:
+* League of Legends
+* Multiversus
+* Rainbow six siege
+
 ## Character Customization
 
 Players will want to express their individuality, especially in larger groups where they may get lost in a crowd of other players. Players will be able purchase skins to customize their characters. Each class will have unique skins, allowing a player to purchase unique looks for each of their classes.
+
+This is a common monetization strategy that was first popularized by League of Legends and has been used in most free-to-play games.
+
+Games that have used this strategy successfully include:
+* CSGO
+* Dota 2
+* Valorant
+* Among Us
+* Rust

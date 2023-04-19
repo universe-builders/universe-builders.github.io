@@ -22,6 +22,24 @@ This document is a WIP and will be iterated upon during the Pre-Production phase
 
 ----
 
+## 👁️ At a glance 👁️
+Platforms:\
+Web for iPhone, Android, Windows, MacOSX, and Linux.
+
+Game Engine:\
+In-house developed.
+
+Libraries/Technologies:\
+WebGL, WebRTC, Kubernetes, Cloud provided services.
+
+Languages:\
+C, WebAssembly, Typescript.
+
+Content Generation Tools:\
+MagicaVoxel, Photoshop.
+
+----
+
 ## 🪘 Technical Pillars 🪘
 
 These pillars help drive decisions in all aspects of the games technology.
@@ -86,6 +104,23 @@ HTTP REST requests will be used for communication to various API's, such as auth
 WebAssembly will be the language that will run on each player's device through the Web Browser. The team will use the C language to write logic which will then be transpiled into WebAssembly via the clang toolchain.
 
 The client engine is seperated into independent modules which include the core runtime engine and the game systems. Each game system is independently built and linked which allows for a quick iteration and runtime hot reloading when developing logic for a single system, opposed to needing build and reload the entire game.
+
+### ❓ Why not use a pre-existing engine?
+There are many engines that export a builds to the web, such as Unity, UE4, and Godot, however all of those options fail to hit several of the technical requirements that this game desires.\
+Specifically all of those engines struggle to export Web builds that run well on low-end hardware, and struggle hit high frame rates on average gaming machines.\
+Further, getting those engines to support the high content density desired, in web exports, is a development challenge.\
+There are engines specifically for developing web based games, such as BabylonJS and PlayCanvas, however those provide no feature support for the networking and high content density requirements for the game, and the advantages of each were not deemed justifyable for this project.
+
+These engine options were investigated in the ideation phase of this project.
+
+The Web platform and low simulation & graphical fidelity requirements of this game means that building a custom engine provides the ability to optimize around these requirements.\
+In tests done in the ideation phase it was validated that the fidelity bar could be hit using a simple custom engine on low powered devices, running at a frame rate that exceeded all other tested engines.
+
+There are numerous web based games that have chosen to invest in their own engine, including Krunker.io debatably the most played 3D multiplayer web game available, and no discovered examples of web based 3D multiplayer games with 30+ FPS that were developed using one of the aforementioned engines.
+
+The content generation pipelines will however use existing technologies, specifically MagicaVoxel for generating 3D assets, and the engine will integrate with those.
+
+Although the initial cost for developing this technology is high it means the product is positioned in a place where it is hard for substitutes or new entrants.
 
 ----
 

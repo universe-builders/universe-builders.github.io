@@ -16,6 +16,8 @@ nav_order: 32
 Target: Existing communities
 
 * Create own community
+    * GTFO
+    * D&D
 
 # Testing
 

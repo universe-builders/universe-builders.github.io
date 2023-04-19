@@ -10,3 +10,7 @@ nav_order: 31
 
     📖 Screen Australia Template
 
+
+
+* Discord costs
+* Streamer costs

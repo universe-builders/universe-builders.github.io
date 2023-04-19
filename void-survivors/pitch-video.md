@@ -23,3 +23,7 @@ nav_order: 10
 * Who else would be excited about it?
 * The impact on your business if it goes successfully
 * Not 70-80% on game vision
+
+* How does it help business: Builds a reusable technical foundation that is unique in it's market positioning
+
+* Inclusion: No matter what you play on or what your skill level, you are welcomed and encouraged to join.

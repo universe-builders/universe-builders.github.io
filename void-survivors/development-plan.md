@@ -16,3 +16,7 @@ nav_order: 30
 * HL thematic overview of months of work remaining
 * How is that broken up, roles required, hours allocated
 * Risks, acknowledgement, mitigations
+
+
+* Risk: Gameplay enjoyment
+* Risk: Different scales of players

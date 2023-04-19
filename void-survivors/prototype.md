@@ -11,3 +11,9 @@ nav_order: 14
 * controls
 * intended experience
 * what is the state of the prototype compared to vision for the final project
+
+
+
+
+
+* Collect life essence and add to a crystal

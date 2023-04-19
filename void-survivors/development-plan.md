@@ -20,3 +20,5 @@ nav_order: 30
 
 * Risk: Gameplay enjoyment
 * Risk: Different scales of players
+* Risk: C
+* Risk: Complex technology

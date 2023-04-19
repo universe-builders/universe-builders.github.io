@@ -14,3 +14,5 @@ nav_order: 31
 
 * Discord costs
 * Streamer costs
+
+* stages and allocation of funds

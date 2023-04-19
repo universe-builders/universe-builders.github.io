@@ -5,6 +5,24 @@ layout: default
 nav_order: 20
 ---
 
+This page defines the direction of the design for the game Void Survivors.
+
+This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game's development.
+
+----
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+----
+
+
 ## 🪘 Design Pillars 🪘
 
 These pillars help drive decisions in all aspects of the game design.

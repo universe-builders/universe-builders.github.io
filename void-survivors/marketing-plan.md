@@ -5,6 +5,34 @@ layout: default
 nav_order: 32
 ---
 
+This page defines the direction of the design for the game Void Survivors.
+
+This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game's development.
+
+----
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+----
+
+## High Level Strategy
+
+
+
+
+----
+----
+----
+----
+----
+
 # Ideas
 * Join a bunch of gaming communities and share a link to it
 * Who is your project for?

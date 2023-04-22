@@ -42,9 +42,11 @@ Games that have used this strategy successfully include:
 * Multiversus
 * Rainbow six siege
 
+This strategy allows for integration into subscription services, eg Xbox's Games Pass, where players on the subscription will have all classes unlocked whilst they play the game through that services interface. This is a new strategy that is being tested by League of Legends and is yet to be proven.
+
 ## Character Customization
 
-Players will want to express their individuality, especially in larger groups where they may get lost in a crowd of other players. Players will be able purchase skins to customize their characters. Each class will have unique skins, allowing a player to purchase unique looks for each of their classes.
+Players will want to express their individuality, especially in larger groups where they may get lost in a crowd of similar looking player classes. Players will be able purchase skins to customize their characters. Each class will have unique skins, allowing a player to purchase unique looks for each of their classes.
 
 This is a common monetization strategy that was first popularized by League of Legends and has been used in most free-to-play games.
 

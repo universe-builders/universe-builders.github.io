@@ -57,6 +57,8 @@ gitGraph
 
 * Identify exact device targets eg iPhone 8
 
+* Access consultants
+
 ## Alpha Milestones
 
 * GDPR compliance
@@ -64,6 +66,7 @@ gitGraph
 * Community Manager
 * Budding discord community
 * Devlogs
+* Testing with vision impairments, movement impairments
 
 ## Beta Milestones
 

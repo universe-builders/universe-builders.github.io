@@ -91,7 +91,10 @@ The graphics interface will be developed in-house, interfacing with WebGL direct
 Lot's of the characters, enemies, and effects will be the same which will allow for instancing on the GPU to provide better frame rates for low end devices. 
 
 ### 🎾 Physics
-The physics in the game will be low-fidelity due to the amount of collidable elements that will be present. The results of colliding with an enemy will not result in a physical reaction, such as being pushed back, but will result in damage taken. This results in far less computation required and thus supports lower-end hardware and is the typical behavior in bullet-heaven game.
+The physics in the game will be low-fidelity to reduce performance load on low-powered devices as the amount of collidable elements (players, invaders, ...) will be high. The results of colliding with an enemy will not result in a physical reaction, such as being pushed back, but will result in damage taken. This results in far less computation required and thus supports lower-end hardware and is the typical behavior in bullet-heaven game.
+
+### 🧠 Artificial intelligence
+The AI in the game will be simplistic to reduce performance load on low-powered devices as the amount of intelligent simulated agents (invaders) will be high. Invaders will be simulated using a simplistic finite state machine as it is highly performant, compared to that of behavior tree or more complicated GOAP graph, and will use simplistic steering behaviors (flocking, avoidance, interception, ...) to create more sophisticated grouping behaviors. 
 
 ### 🖧 Networking
 WebRTC data channels will be used for the bulk of game communications as they are UDP based and ideal for low-latency low-bandwidth operations and allow for peer-to-peer connections at ~70% success rate for NAT punchthrough. It also removes the need for persistent connections which can be inconsistent on public transport and in low bandwidth environments, such as those in low socioeconomic areas.
@@ -107,9 +110,9 @@ The client engine is seperated into independent modules which include the core r
 
 ### ❓ Why not use a pre-existing engine?
 There are many engines that export a builds to the web, such as Unity, UE4, and Godot, however all of those options fail to hit several of the technical requirements that this game desires.\
-Specifically all of those engines struggle to export Web builds that run well on low-end hardware, and struggle hit high frame rates on average gaming machines.\
+Specifically all of those engines struggle to export Web builds that run well on low-end hardware, even struggling to hit high frame rates on average gaming machines, and deliver game builds and assets that result in large initial downloads for users. Due to this these reasons, thse engines are a poor choice for meeting our accessibility goals.\
 Further, getting those engines to support the high content density desired, in web exports, is a development challenge.\
-There are engines specifically for developing web based games, such as BabylonJS and PlayCanvas, however those provide no feature support for the networking and high content density requirements for the game, and the advantages of each were not deemed justifyable for this project.
+There are engines specifically for developing web based games, such as BabylonJS and PlayCanvas, however those provide no feature support for the networking and high content density requirements for the game, and the advantages of each engine were not deemed justifyable for the restrictions imposed for this specific project.
 
 These engine options were investigated in the ideation phase of this project.
 
@@ -136,6 +139,8 @@ Game servers will have authority over a single team and will handle migrating ne
 Game servers will be vertically scalable to account for a team changing in size dramatically, ie as a team grows in player numbers it will have more hardware resources available to it.
 
 Game servers will be spatially distributed to allow players exploring the void to enter and exit them through moving in the game world.
+
+Once target devices have been identified, during development performance tests will continously be run to ensure that the devices have consistent and high performance. One route to raising performance is to offload computation to the game server. This will be done as a last-resort basis as more computation will cause scalability and cost efficency issues in production.
 
 James Knight has worked on these types of spatially distributed game servers at 3 seperate MMO development companies over his career, and is competent in being able to architect and implement them.
 

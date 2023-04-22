@@ -37,7 +37,7 @@ USP / THE HOOK
 These pillars help drive decisions in all aspects of the game design.
 
 ### 🗝️ Hyper Accessible
-The game should support as many people as possible, on as many devices as possible, in as many situations as possible.
+The game should support as many people as possible, on as many devices as possible, in as many situations as possible, with no segregation or exclusionary mechanics.
 
 🔓 Simplistic one touch (mobile) or one hand (keyboard/controller) controls.\
 🔓 Accessible graphics that are clear and understandable at a glance.\

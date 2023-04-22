@@ -32,3 +32,5 @@ nav_order: 10
 
 * Justification: Gaming communities have moved from async comms to sync comms (youtube -> twitch, facebook/reddit -> discord)
     * A game like this wouldn't have thrived in those async environments
+
+* Justification: Loneliness busting (autism and my connection to people through games)

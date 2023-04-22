@@ -40,10 +40,28 @@ The game is currently in pre-production and Universe Builders are seeking fundin
 ### 👪 Target Market
 
 ### 📺 Target Platforms
-🌐 Web Browsers\
-&nbsp;&nbsp;&nbsp;&nbsp;Chrome for Linux, Windows, MacOSX, Android, iPhone, Smart TV's\
-&nbsp;&nbsp;&nbsp;&nbsp;Firefox for Linux, Windows, MacOSX, Android\
-&nbsp;&nbsp;&nbsp;&nbsp;Safari for MacOSX, iPhone
+💻 MacOSX via Safari, Chrome, and Firefox.
+💻 Linux via Chrome, and Firefox.
+💻 Windows via Chrome, Edge, and Firefox.
+📱 iPhone via Safari, and Chrome.
+📱 Android via Chrome, Android Browser, and Firefox.
+
+### 📺 Secondary Platforms (Stretch Goals)
+📺 Smart TV's running Android.
+💻 Native applications for MacOSX, Linux, Windows, iPhone, and Android native via bundling the application with Electron.
+
+### 🌐 Target Distributors
+🌐 https://universe.builders
+🌐 https://void.survivors* <- TBD when title is locked in.
+🌐 https://kongregate.com
+🌐 https://armorgames.com
+🌐 https://newgrounds.com
+🌐 https://itch.io
+
+### 🖥️ Secondary Distributors (Stretch Goals)
+🖥️ Steam
+🖥️ Windows Store via Games Pass
+📱 App Store, Google Play
 
 ### 📺 Controls
 ⌨️ &nbsp; WASD or Arrows\

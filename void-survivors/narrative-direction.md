@@ -12,3 +12,5 @@ nav_order: 22
 * Inspiration: The void in Shadow and Bone.
 
 It begs to question, with enough players spreading bringing into the void life would the void be quenched entirely?
+
+* Inspiration: hyper light drifter

@@ -73,6 +73,8 @@ gitGraph
 * Refunds
 * Refund policies
 * Purchasing
+* Behavioral Segmentation Analytics
+* Geographic Segmentation Analytics
 
 ## Release Milestones
 

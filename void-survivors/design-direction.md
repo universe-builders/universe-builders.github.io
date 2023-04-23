@@ -7,7 +7,7 @@ nav_order: 20
 
 This page defines the direction of the design for the game Void Survivors.
 
-This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game's development.
+This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game's development as ideas are tested and validated in playtests. See [Development Plan](development-plan) for more info.
 
 ----
 
@@ -26,15 +26,106 @@ This document is a WIP and will be iterated upon during during the Pre-Productio
 
 LOGLINE
 
-GAMEPLAY SUMMARY
+GAMEPLAY SUMMARY 
+
+**SURVIVORS**
 
 USP / THE HOOK
 
 ----
 
+## 🪝 Hook
+Play a fast paced swarm-defense bullet-heaven game in a group with **hundreds of other people**!\
+Invite your friends and invite your community to play with you using one simple link!
+
+**How it is familiar**:
+* Familiar popular genres (swarm-defense, bullet-heaven).
+* Familiar art style (voxel-based).
+
+**How it differs**:
+* Massively multiplayer. (no existing title in these genres)
+* Easily invite anyone at anytime, with a link.
+* Play immediately with no installation within a web browser, on almost any device.
+
+Void survivors' gameplay will be familiar to a lot of gamers as it is similar to many other popular titles (Vampire Survivors) with one twist, it's massively-multiplayer! It is uniquely positioned in that no existing title in the Survivors-Like genre is massively multiplayer.
+
+----
+
+## 📛 Genres
+Main Genre: MMO.
+Sub Genres: Action RPG, Roguelite, Survivors-Like (Bullet-Heaven, Swarm-Defense).
+
+### MMO (Massively-multiplayer Online)
+Void Survivors is an online game playable with hundreds of other people on your team. It aims to band people together in large teams and is easily sharable and joinable, via a link and played on a web browser with no installation.
+
+![World of Warcraft - 40 person Raids](images/wow.jpg)
+[Source: Youtube 'Bodomi'](https://www.youtube.com/watch?v=zKNG4w06ySQ)
+
+Games in this genre that inspire Void Survivors: 
+* [World of Warcraft - 40 person Raids](https://youtu.be/UwVNpHaFhUI?t=2470)
+
+### Action RPG
+Void Survivors is an action game where teams will defend against waves of invaders from destroying their sanctuary🌱. Players use auto-attacks and a variety of abilities to defeat invaders.
+
+![World of Warcraft - 40 person Raids](images/tiny-rogues.jpg)
+[Source: Steam](https://store.steampowered.com/app/2088570/Tiny_Rogues/)
+
+Games in this genre that inspire Void Survivors: 
+* [Tiny Rogues](https://www.youtube.com/watch?v=i2e20khN7PQ)
+* [Soulstone Survivors](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
+* [Real of the Mad God](https://www.youtube.com/watch?v=WqyVr1zP2X8)
+
+### Roguelite
+Void Survivors has many random elements which make it a rogue-like in nature. Specifically:
+* The sanctuary🌱 randomly grows fauna, forming the 'level' in which to defend.
+* The player is provided with a set of 3 random abilities to choose from after successfully defending against a wave of enemies.
+* The type of invaders👹 that are spawned are randomly chosen and are designed to be complementary to each other, causing a large variation of combinations. Each wave provides different and more challenging invaders.
+
+![World of Warcraft - 40 person Raids](images/skelly-selest.jpg)
+[Source: Nintendo Life](https://www.nintendolife.com/news/2019/05/skelly_selest_brings_fast-paced_arena_battling_to_switch_this_month)
+
+Games in this genre that inspire Void Survivors: 
+* [Skelly Selest](https://www.youtube.com/watch?v=82Xa3WS1cK8)
+* [Enter the gungeon](https://www.youtube.com/watch?v=ryQpA86ZC8U)
+
+## Survivors-Like
+Void Survivors takes a lot of gameplay inspiration from the 2022 indie megahit 'Vampire Survivors' and the dozens of Survivors-Like games that have been released since, such as Soulstone Survivors and Brotato.
+
+Survivors-Like combines two sub-genres, Bullet-Heaven and Swarm-Defense.
+
+![Vampire Survivors](images/vampiresurvivors7.webp)
+[Source: Rock Paper Shotgun](https://www.rockpapershotgun.com/vampire-survivors-early-access-review)
+
+Games in this genre that inspire Void Survivors: 
+* [Vampire Survivors](https://www.youtube.com/watch?v=6HXNxWbRgsg)
+* [Soulstone Survivors](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
+* [Brotato](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
+* [Scarlet Tower](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
+
+## Bullet-Heaven
+Void Survivors uses the main mechanics from the relatively new genre of 'Bullet-Heaven'. Bullet-Hell games are an old genre dating back to arcade titles where the player has to dodge patterns of incoming projectiles. Bullet-Heaven reverses this and the player is the source of a huge amount of projectiles which seek to destroy enemies. Players strive to make effecient patterns of attacks that defeat incoming invaders with all sorts of properties, such as large numbers, high health, and small collision regions. Bullet-Heaven games typically use Swarm-Defense mechanics.
+
+![Realm of the mad god](images/rotmg.jpg)
+[Source: Youtube 'Kalle Gaming'](https://www.youtube.com/watch?v=sdstRmn3Y50)
+
+Games in this genre that inspire Void Survivors: 
+* [Realm of the Mad God](https://www.youtube.com/watch?v=WqyVr1zP2X8)
+
+## Swarm-Defense
+Void Survivors has players defend their sanctuary from waves of hundreds of invaders. Invaders spawn together in large swarms of simplistic intelligence, similar to what you'd expect of a zombie horde, with a variety of harder more dangerous individualistic invaders which has players deploy tactics to defeat those.
+
+![Age of Darkness](images/age-of-darkness.jpg)
+[Source: PC Games N](https://www.pcgamesn.com/age-of-darkness-final-stand/early-access-preview)
+
+Games in this genre that inspire Void Survivors: 
+* [Age of Darkness](https://www.youtube.com/watch?v=19vbwbLArUE)
+* [They are Billions](https://www.youtube.com/watch?v=QX1rPWPN4DI)
+
+----
+
 ## 🪘 Design Pillars 🪘
 
-These pillars help drive decisions in all aspects of the game design.
+These pillars help drive decisions in all aspects of the design direction and decisions.
 
 ### 🗝️ Hyper Accessible
 The game should support as many people as possible, on as many devices as possible, in as many situations as possible, with no segregation or exclusionary mechanics.
@@ -49,7 +140,8 @@ The game should support as many people as possible, on as many devices as possib
 🔓 Modes of playing that allow low-skilled players and high-skilled players.\
 🔓 Modes of playing that allow for players to be support focused opposed to combat focused.\
 🔓 Low download requirements for low bandwidth tolerance.\
-🔓 Consideration for individuals with visual and movement impairments.
+🔓 Consideration for individuals with visual and movement impairments.\
+🔓 The mechanics and themes should be appropriate for players PG+.
 
 ### 🏘️ Community Engageable
 The game should allow communities to easily engage with it and allows them to strengthen bonds through shared experiences and stories.
@@ -79,20 +171,63 @@ The game should be enjoyed in casual settings, it should be stress relieving rat
 ----
 
 ## 🏃 Player Motivations 🏃
+Void Survivors targets players with the following motivations. The primary motivations take precedence in all decision making and secondary motivations are supported to allow for a broader audience appeal.
+
 ### 🤝 Cooperation
 Players are highly motivated to join as a community, to seek each other out, and to team up. Players progress faster in groups and are able to directly help each other using abilities. The game is optimally played with a pre-existing community, but solo players can join any team with no restrictions.
+
 ### 🏆 Competition
 Teams will have statistics📊 of individual performance (damage, healing, ...) displayed at all times which will motivate competitive players to top the team leaderboard. This allows shareable moments within communities.
+
 ### 🔥 Destruction
-The combat will cause over the top destruction to the environment and enemie, in a fireworks-display comical manner. It should be suprising, enjoyable, and candy for your eyes.
-### 💪 Progression
-In a 15 minute session players will rapidly progress in their class. In the metagame players can empower their class by expending earned currency.
-### 🔎 Discovery
+The combat will cause over the top destruction (explosions, mayhem) to the environment and entities within, in a fireworks-display-esque comical manner. It should be suprising, enjoyable, and candy for your eyes.
+
+### 😮 Excitement
+The game will be fast paced, ramping up quickly until a point of overwhelming the player. It will be full of surprises and intense moments, eg when massive waves of enemies or specifically threatening enemies spawn "There's a dragon!!! Watch out everyone!!". Players should walk away from a 15 minute session feeling thrilled.
+
+![Player Motivations](images/player-motivations-1.png)
+[Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
+
+These choices were informed by player psychology research conducted by [Quantic Foundry](https://quanticfoundry.com/), which provides a framework to relate player motivations to each other. Specifically Coopereration🤝, Competition🏆, and Destruction🔥 motivations are all highly correlated - meaning a player motivated with one is highly likely to be motivated by the others.
+
+### 💪 Secondary: Power
+In a 15 minute session players will rapidly progress in their class by obtaining abilities. In the metagame players can upgrade and empower their class by expending earned currency.
+
+### 🏆 Secondary: Completion
+Players will be able to unlock a variety of achievements based on personal performance in their team and through progression in their classes. The list of achievements will be publicly available so that players can strive for them. Players can also pay to unlock various outfits and seasonal items which will appeal to completionists, See [Monetization Plan](monetization-plan) for more info.
+
+### 🔎 Secondary: Discovery
 Players will be able to discover a variety of unique and different environments, classes, achievements, and enemies over their sessions.
+
+### ✍️ Secondary: Design
+Players will be able to customize their characters using meta game progression and through in-app purchases as part of the monetization strategy. See [Monetization Plan](monetization-plan) for more info.
+
+![Player Motivations](images/player-motivations-2.png)
+[Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
+
+The game will **not** be focused on the following player motivations:
+* Challenge: The game will not focus on challenging mechanics as this would provide incentive for segregating teams based on competency or teams to exclude members based on skill level. There will be some challenge and mastery to the game, however random chance and random team compositions will make individual mastery less important than other game elements.
+* Strategy: The game will not promote or require strategic thinking, at most some classes do require short term tactical thinking, and players can choose abilities tactically based on other players' choices. Random spawns of enemies will nullify any long term strategy, and promote short term dynamic reactivity. Strategic thinking opposes the short play session length and communication mechanisms that the game is designed around.
+* Fantasy/Story: The game will not focus on allowing roleplaying of characters, nor will it invest highly in level design with rich dynamic storytelling, or in portraying a deep story through use of characters. The game has a story and a theme but the stories generated in the game should be emergent and be stories created, shared, and treasured by communities as opposed to being told to players through the game.
+
+![Player Motivations](images/player-motivations-3.png)
+[Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
 
 ----
 
-## 🛠️ Main Mechanics 🛠️
+## 💭 Player Fantasies
+These are fantasies that attract the player to Void Survivors and continues to motivate them to play.
+
+* I want to play with large groups of players (100+).
+* I want to feel impactful role within a group.
+* I want to play with my friends.
+* I want to play with my communities (gaming, social, work, ...).
+* I want to play with popular streamers.
+
+---
+
+## 🛠️ Mechanics 🛠️
+These are the mechanics, ie actions and tools, that the player will be able to use within the game.
 
 ### 🧭 2D Movement
 Players can move around the world in the horizontal plane, ie unable to jump or move vertically.
@@ -110,10 +245,17 @@ Each character class has unique abilities that can be used to directly help team
 All abilities and attacks, from friends or enemies, will be telegraphed to allow the players to react to it. Players are able to get out of the way of enemy attacks and ensure they take advantage of any team mates abilities (eg a heal).
 
 ### 💪 Rapid Progression and ability unlocks
-At the start of each session, a character is at level 1 and can rapidly climb to a maximum level of 10 during a 15 minute session. Each level provides one new ability, chosen from a set of five random abilities. Players will all level up at the same time and will see the abilities other players choose, so they can strategize to choose the same abilities or have a mixture of abilities on the team.
+At the start of each session, a character has only the default abilities and gains new abilities rapidly over a 15 minute session. Each minute or so, chosen from a set of three random abilities. Players of each class will be given the same ability choices, and will see the abilities other players choose, so they can tactically to choose the same abilities or have a mixture of abilities on the team.
 
 ### 🙏 Stacked abilities
 When a player uses an ability, such as an area based heal, other players will have the opportunity to stack their ability on top of it. This allows for stronger abilities that are only possible with numerous collaborating team mates. For example, an area based heal that has numerous stacks will have a wider area of effect and healing potency.
+
+These mechanics reinforce
+
+* Leader is larger and more powerful proportional to their team size
+  * Neuroticism for streamers
+* Statues for tracking progression
+* 
 
 ----
 
@@ -132,7 +274,7 @@ When a player uses an ability, such as an area based heal, other players will ha
     state "Invite players 🔗" as INVITE_P
     state "Grow Sanctuary 🌱" as GROW_S
     state "Gain Life Essence 🌿" as GAIN_LE
-    state "Level Up ⬆️" as LVL_P
+    state "Gain New Ability ⬆️" as LVL_P
     state "Defend Sanctuary 🛡️🌱" as DEFND_S
     state "Defeat Void Invaders 👹🐸🧌" as DEFEAT_E
     state "💀 Defeated 💀" as DEFEATED
@@ -165,7 +307,7 @@ When a player uses an ability, such as an area based heal, other players will ha
     INVITE_P --> GROW_S: void-survivors.com/Join-me/Pewdiepie
     GROW_S --> GAIN_LE
     GAIN_LE --> LVL_P: Life essence🌿 acts as experience points
-    LVL_P --> DEFND_S
+    LVL_P --> DEFND_S: ability chosen from a random set of 3
     DEFND_S --> DEFEATED: 🖤🖤🖤
     DEFND_S --> DEFEAT_E: 💖🖤🖤
     DEFEAT_E --> LVL_I: The larger the 🌱 the stronger invaders 
@@ -218,7 +360,7 @@ Players are able to last longer by:
     UPGRADE --> PLAY: Allows lasting longer💪
 ```
 
----
+----
 
 ## 🧝🧞🧙 Character Classes 🧙🧞🧝
 
@@ -317,3 +459,5 @@ The world is a giant void, a barren dark and misty landscape, filled with the sh
 The sanctuary will dynamically grow the longer it lasts which will spawn all sorts of obstacles in the form of fauna which the players can use to their advantage when fighting invaders. These obstacles will be procedurally spawned based on a small set of rules.
 
 In all, Void Survivors has very little in terms of level design instead opting for large open spaces - which is common for bullet-heaven games.
+
+----

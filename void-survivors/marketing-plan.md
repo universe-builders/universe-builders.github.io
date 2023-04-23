@@ -41,6 +41,43 @@ This document is a WIP and will be iterated upon during during the Pre-Productio
 * Where do they hangout?
 * Choose a few targetted marketing streams (not dev diary)
 * Launching on armor games, newgrounds, ...
+* What communities exist?
+
+* Later behavioral segmentation as analytics becomes available, able to target classes, teams.
+  * Personalize
+  * Segment based on behavior
+  eg players acting efficently, competitively
+  players acting socially
+
+* Later demographic segmentation within the bounds of GDPR compliance
+
+* Later geographic segmentation as analytics becomes available, able to target sales and skins.
+
+? Can i gather psychgraphic information from existing communities
+? Do the behaviors of those communities reinforce the behaviors I want
+  * Sharing links
+  * Cooperation
+  * Competition
+
+? What existing titles exist in the realm of twitch communities interacting with streamers
+
+? Do the psychographics reinforce the player fantasies?
+  * Do they want to play together?
+  * Are the competitive?
+
+* What are the interests of these people?
+
+Reinforcement: They are already part of a community and thus cooperation, socialization are important to them
+
+Reinforcement: Existing discord communities for dark and darker, gtfo, ...
+
+* Is it a blue ocean, green ocean, ..?
+
+* Create different personalities to market/design to?
+
+
+
+
 
 Target: Existing communities
 

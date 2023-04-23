@@ -30,7 +30,7 @@ Game Engine:\
 In-house developed.
 
 Libraries/Technologies:\
-WebGL, WebRTC, Kubernetes, Cloud provided services.
+WebGL, WebGPU, WebRTC, Kubernetes, Cloud provided services.
 
 Languages:\
 C, WebAssembly, Typescript.
@@ -93,6 +93,9 @@ Lot's of the characters, enemies, and effects will be the same which will allow 
 ### 🎾 Physics
 The physics in the game will be low-fidelity to reduce performance load on low-powered devices as the amount of collidable elements (players, invaders, ...) will be high. The results of colliding with an enemy will not result in a physical reaction, such as being pushed back, but will result in damage taken. This results in far less computation required and thus supports lower-end hardware and is the typical behavior in bullet-heaven game.
 
+### 🏃‍♀️ Animation
+The animation in the game will be simple interpolation of key frames without using skeletal, procedural, or computationally expensive systems such as Inverse-Kinematics. This results in a far simpler to produce animations, less computation expensive animation system, and less bandwidth required to transmit animated assets.
+
 ### 🧠 Artificial intelligence
 The AI in the game will be simplistic to reduce performance load on low-powered devices as the amount of intelligent simulated agents (invaders) will be high. Invaders will be simulated using a simplistic finite state machine as it is highly performant, compared to that of behavior tree or more complicated GOAP graph, and will use simplistic steering behaviors (flocking, avoidance, interception, ...) to create more sophisticated grouping behaviors. 
 
@@ -124,6 +127,8 @@ There are numerous web based games that have chosen to invest in their own engin
 The content generation pipelines will however use existing technologies, specifically MagicaVoxel for generating 3D assets, and the engine will integrate with those.
 
 Although the initial cost for developing this technology is high it means the product is positioned in a place where it is hard for substitutes or new entrants.
+
+See the Accessibility Plan for more information on how a custom engine allows us to achieve a more accessible and better experience for our players.
 
 ----
 
@@ -166,3 +171,6 @@ Such services include:
 
 ### 🖼️ Content Delivery
 The game client will be delivered using the common mechanisms for delivering websites, using a CDN at the edge. This client will contain the most common and required assets (Models, textures, ...). To reduce the size of the initial client download, most assets will be downloaded on demand as required. These will be delivered using a seperate CDN optimized for streaming on-demand binary assets.
+
+### ☁️ Hosting
+The backend will be distributed amongst atleast one cloud provider, potentially one for the kubernetes deployment and atleast one for the auxillary services. AWS is the likely candidate as their costing structure seems to be most efficent for this project, and they are providing free credits and support to this project through the Australian Games Tech group.

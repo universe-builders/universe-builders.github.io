@@ -85,6 +85,20 @@ See [Design Direction](design-direction) for more info.
 
 ----
 
+### 📖 Story
+
+* Climate catastrophy rendered the world to an innert barren void.
+* Survivors band together to grow life in the void and provide sanctuary.
+* Void creatures of myth and legend seek to destroy all life and remove all sanctuaries.
+
+* The story will be delivered through level design opposed to direct means.
+* The game will allow for emergent storytelling to be created and shared within communities.
+* Pictoral/image based story delivery for accessibility.
+
+See [Design Direction](narrative-direction) for more info.
+
+----
+
 ### 👪 Target Market
 
 ----

@@ -94,7 +94,7 @@ Lot's of the characters, enemies, and effects will be the same which will allow 
 The physics in the game will be low-fidelity to reduce performance load on low-powered devices as the amount of collidable elements (players, invaders, ...) will be high. The results of colliding with an enemy will not result in a physical reaction, such as being pushed back, but will result in damage taken. This results in far less computation required and thus supports lower-end hardware and is the typical behavior in bullet-heaven game.
 
 ### 🏃‍♀️ Animation
-The animation in the game will be simple interpolation of key frames without using skeletal, procedural, or computationally expensive systems such as Inverse-Kinematics. This results in a far simpler to produce animations, less computation expensive animation system, and less bandwidth required to transmit animated assets.
+The animation in the game will be simple interpolation of key frames without using skeletal, procedural, or computationally expensive systems such as Inverse-Kinematics. This results in lower production cost for animations, a less computational expensive animation system, and less bandwidth required to transmit animated assets.
 
 ### 🧠 Artificial intelligence
 The AI in the game will be simplistic to reduce performance load on low-powered devices as the amount of intelligent simulated agents (invaders) will be high. Invaders will be simulated using a simplistic finite state machine as it is highly performant, compared to that of behavior tree or more complicated GOAP graph, and will use simplistic steering behaviors (flocking, avoidance, interception, ...) to create more sophisticated grouping behaviors. 
@@ -112,14 +112,18 @@ WebAssembly will be the language that will run on each player's device through t
 The client engine is seperated into independent modules which include the core runtime engine and the game systems. Each game system is independently built and linked which allows for a quick iteration and runtime hot reloading when developing logic for a single system, opposed to needing build and reload the entire game.
 
 ### ❓ Why not use a pre-existing engine?
-There are many engines that export a builds to the web, such as Unity, UE4, and Godot, however all of those options fail to hit several of the technical requirements that this game desires.\
-Specifically all of those engines struggle to export Web builds that run well on low-end hardware, even struggling to hit high frame rates on average gaming machines, and deliver game builds and assets that result in large initial downloads for users. Due to this these reasons, thse engines are a poor choice for meeting our accessibility goals.\
-Further, getting those engines to support the high content density desired, in web exports, is a development challenge.\
+There are many engines that export a builds to the web, such as Unity, UE4, and Godot, however all of those options fail to hit several of the technical goals and accessibility targets that this game desires.
+
+Specifically, all of those engines struggle to export Web builds that run well on low-end hardware, even struggling to hit high frame rates on average gaming machines, and deliver game builds and assets that result in large initial downloads for users. Due to this these reasons, thse engines are a poor choice for meeting our accessibility goals.
+
+Further, getting those engines to support the high content density desired, in web exports, is a development challenge.
+
 There are engines specifically for developing web based games, such as BabylonJS and PlayCanvas, however those provide no feature support for the networking and high content density requirements for the game, and the advantages of each engine were not deemed justifyable for the restrictions imposed for this specific project.
 
 These engine options were investigated in the ideation phase of this project.
 
-The Web platform and low simulation & graphical fidelity requirements of this game means that building a custom engine provides the ability to optimize around these requirements.\
+The Web platform and low simulation & graphical fidelity requirements of this game means that building a custom engine provides the ability to optimize around these requirements.
+
 In tests done in the ideation phase it was validated that the fidelity bar could be hit using a simple custom engine on low powered devices, running at a frame rate that exceeded all other tested engines.
 
 There are numerous web based games that have chosen to invest in their own engine, including Krunker.io debatably the most played 3D multiplayer web game available, and no discovered examples of web based 3D multiplayer games with 30+ FPS that were developed using one of the aforementioned engines.

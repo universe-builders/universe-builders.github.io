@@ -63,7 +63,7 @@ Void Survivors is set in an environment that is whimsical and light hearted. It 
 
 To reinforce the art pillars, these sections define more specific direction to be followed in the construction of the art for Void Survivors.
 
-## Voxel based models
+### 👉 Voxel based models
 Voxel based models are highly compressible compared to typical triangle based meshes, allowing for a huge amount of content to be transmitted to clients with a small amount of bandwidth.
 
 Voxel models are easily procedurally destructable compared to typical triangle based meshes. This is achieved simply by adding force to the cubes in the voxel mesh allowing for explosions and other effects - compared to a typical triangle based mesh destruction system that requires definition of fragments which has a production and asset size overhead.
@@ -81,7 +81,7 @@ The following reference images demonstrate voxel based meshes in games.
 ![1](images/voxel-4.webp)\
 [Source: Minecraft](https://www.minecraft.net/en-us)
 
-## Isometric View
+### 👉 Isometric View
 Having an isometric view allows for higher device accessibility and control scheme, as well as performance optimizations.
 
 The isometric view provides simplicity when panning and zooming a camera, allowing for a simple control scheme.
@@ -99,7 +99,7 @@ The following reference images demonstrate the isometric viewpoint.
 ![1](images/iso-3.png)\
 [Source: Unity](https://docs.unity3d.com/Manual/Quickstart2DPerspective.html)
 
-## Flat World
+### 👉 Flat World
 Having a flat world, with no terrain altitude, allows for simpler controls and world generation.
 
 A flat world is very simple to procedurally generate, compared to that of a world with different levels of terrain which requires mountains, rivers, and lakes. This reduces the production cost to develop the world.
@@ -115,7 +115,7 @@ The following reference images demonstrate flat worlds.
 ![1](images/flat-3.jpg)\
 [Source: The Fertile Crescent](https://docs.unity3d.com/Manual/Quickstart2DPerspective.html)
 
-## Desaturated colors and highlighted elements
+### 👉 Desaturated colors and highlighted elements
 There will be a large number of players and invaders on screen at once and it's important to remove cluttering from the screen.
 
 To achieve this, damaging elements and elements that players should focus on (eg players that are dangerously close to being defeated when playing the healer class) should be highlighted and pop out of the background.
@@ -137,7 +137,7 @@ The following reference images demonstrate desaturated colors of elements except
 ![1](art-reference/20201020172914_1.webp)\
 [Source: Hades](https://store.steampowered.com/app/1145360/Hades/)
 
-## Flat Colors with gradients
+### 👉 Flat Colors with gradients
 To minimize on the assets required to play Void Survivors, textural elements should be used sparingly. Instead,flat colors and gradients, which can be encoded in a very small amount of mathematical code, should be used. 
 
 Flat colors offer visual simplicity which reduces the noise that textural elements can create on small screens.
@@ -171,7 +171,7 @@ The following reference images demonstrate games that use flat colors with gradi
 ![1](art-reference/stonehearth_blacksmith_render_by_pandemictyler_d8sdebl-fullview.jpg)\
 [Source: Stone Hearth](https://store.steampowered.com/app/253250/Stonehearth/)
 
-## Soft lighting and shadows
+### 👉 Soft lighting and shadows
 Void Survivors is set in a fantasy environment that is whimsical and light hearted. To reinforce this, soft lighting and shadows should be used as opposed to realistic simulation of lighting and shadows.
 
 The following reference images demonstrate soft lighting and shadows.
@@ -187,10 +187,10 @@ The following reference images demonstrate soft lighting and shadows.
 ![1](art-reference/082221.webp)
 [Source: Tunic](https://steamcommunity.com/app/553420)
 
-## Handpainted
+### 👉 Stylized Textures
 Void Survivors is set in a fantasy environment that is whimsical and light hearted. To reinforce this, stylized and handpainted textures should be used opposed to realistic textures.
 
-The following reference images demonstrate handpainted textures and elements.
+The following reference images demonstrate stylized handpainted textures and elements.
 
 ![1](art-reference/andrii-tuzenko-7%20-%20Copy.jpg)\
 [Source: Andrii Tuzenko - Artstation](https://www.artstation.com/andrii_tuzenko)
@@ -199,7 +199,7 @@ The following reference images demonstrate handpainted textures and elements.
 ![1](art-reference/sephiroth-art-golem-1600.jpg)
 [Source: Sephiroth Art - Artstation](https://www.artstation.com/sephirothart)
 
-## Characters limbs aren't attached
+### 👉 Character limbs aren't attached
 Having characters limbs (hands, feet) not be attached to their torso allows for a far simpler key-frame animation system which is computationally less expensive, easier to produce assets for, and requires less bandwidth to transmit animated assets.
 
 The following reference images demonstrate models without their limbs attached.

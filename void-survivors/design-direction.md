@@ -150,6 +150,7 @@ The game should allow communities to easily engage with it and allows them to st
 👪 Joining a session requires no authentication or personally identifying information. \
 👪 Joining immediately places you with the person who invited you. \
 👪 Able to join at any point in the session. \
+👪 Players can discover new communities by discovering their teams within the game and joining. \
 👪 Every extra player is a bonus, never a liability. \
 👪 Huge limit on the player count (100+), allowing for large communities. \
 👪 Shareable moments that can be distributed in the community. \
@@ -188,7 +189,7 @@ The game will be fast paced, ramping up quickly until a point of overwhelming th
 ![Player Motivations](images/player-motivations-1.png)
 [Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
 
-These choices were informed by player psychology research conducted by [Quantic Foundry](https://quanticfoundry.com/), which provides a framework to relate player motivations to each other. Specifically Coopereration🤝, Competition🏆, and Destruction🔥 motivations are all highly correlated - meaning a player motivated with one is highly likely to be motivated by the others.
+The choices for these primary motivations were informed by player psychology research conducted by [Quantic Foundry](https://quanticfoundry.com/), which provides a framework to relate player motivations. Specifically Coopereration🤝, Competition🏆, and Destruction🔥 motivations are all highly correlated - meaning a player motivated with one is highly likely to be motivated by the others.
 
 ### 💪 Secondary: Power
 In a 15 minute session players will rapidly progress in their class by obtaining abilities. In the metagame players can upgrade and empower their class by expending earned currency.
@@ -205,10 +206,14 @@ Players will be able to customize their characters using meta game progression a
 ![Player Motivations](images/player-motivations-2.png)
 [Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
 
-The game will **not** be focused on the following player motivations:
-* Challenge: The game will not focus on challenging mechanics as this would provide incentive for segregating teams based on competency or teams to exclude members based on skill level. There will be some challenge and mastery to the game, however random chance and random team compositions will make individual mastery less important than other game elements.
-* Strategy: The game will not promote or require strategic thinking, at most some classes do require short term tactical thinking, and players can choose abilities tactically based on other players' choices. Random spawns of enemies will nullify any long term strategy, and promote short term dynamic reactivity. Strategic thinking opposes the short play session length and communication mechanisms that the game is designed around.
-* Fantasy/Story: The game will not focus on allowing roleplaying of characters, nor will it invest highly in level design with rich dynamic storytelling, or in portraying a deep story through use of characters. The game has a story and a theme but the stories generated in the game should be emergent and be stories created, shared, and treasured by communities as opposed to being told to players through the game.
+### 🙅‍♂️ Motivations not focused on
+
+The game will **not** focus on the following player motivations:
+* **Challenge**: The game will not focus on challenging mechanics as this would provide incentive for segregating teams based on competency or teams to exclude members based on skill level. There will be some challenge and mastery to the game, however random chance and random team compositions will make individual mastery less important than other game elements.
+
+* **Strategy**: The game will not promote or require strategic thinking, at most some classes do require short term tactical thinking, and players can choose abilities tactically based on other players' choices. Random spawns of enemies will nullify any long term strategy, and promote short term dynamic reactivity. Strategic thinking opposes the short play session length and communication mechanisms that the game is designed around.
+
+* **Fantasy/Story**: The game will not focus on allowing roleplaying of characters, nor will it invest highly in level design with rich dynamic storytelling, or in portraying a deep story through use of characters. The game a strong atmospheric theme and the stories generated in the game should be emergent and created, shared, and told by communities as opposed to being told to players through the game.
 
 ![Player Motivations](images/player-motivations-3.png)
 [Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
@@ -252,6 +257,7 @@ When a player uses an ability, such as an area based heal, other players will ha
 
 These mechanics reinforce
 
+* Spawning life everywhere the player treds and it grows as they stay in one area
 * Leader is larger and more powerful proportional to their team size
   * Neuroticism for streamers
 * Statues for tracking progression

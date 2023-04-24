@@ -5,6 +5,21 @@ layout: default
 nav_order: 33
 ---
 
+This page defines the plan for monetizing Void Survivors.
+
+----
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+----
+
 ## 💵 Monetization
 
 Void Survivors is a free-to-play game that relies on in-app purchases to monetize the game.

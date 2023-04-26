@@ -22,14 +22,15 @@ This document is a WIP and will be iterated upon during the Pre-Production phase
 
 ----
 
-## 👁️ At a glance 👁️
+## 🧮 Technical Direction Summary
 Platforms:\
-Web for iPhone, Android, Windows, MacOSX, and Linux.
+Primary: Web for iPhone, Android, Windows, MacOSX, and Linux.\
+Secondary: Native applications for iPhone, Android, Windows, MacOSX, and Linux.
 
 Game Engine:\
 In-house developed.
 
-Libraries/Technologies:\
+Libraries/Technologies Leveraged:\
 WebGL, WebGPU, WebRTC, Kubernetes, Cloud provided services.
 
 Languages:\
@@ -89,6 +90,9 @@ WebGL is the graphics library that will be targeted until WebGPU has reached mas
 The graphics interface will be developed in-house, interfacing with WebGL directly, opposed to using an existing interface such as BabylonJS or ThreeJS. This was chosen as the graphical optimizations that can be realized for a voxel based graphical style outweigh the development cost of building this interface. Our team has previous expertise in developing such interfaces.
 
 Lot's of the characters, enemies, and effects will be the same which will allow for instancing on the GPU to provide better frame rates for low end devices. 
+
+### 💡 Lighting
+The lighting system should be simplistic and stylized instead of aiming for photorealism, ie it should avoid expensive lighting and shadow methods such as Raytracing and Shadow Mapping.
 
 ### 🎾 Physics
 The physics in the game will be low-fidelity to reduce performance load on low-powered devices as the amount of collidable elements (players, invaders, ...) will be high. The results of colliding with an enemy will not result in a physical reaction, such as being pushed back, but will result in damage taken. This results in far less computation required and thus supports lower-end hardware and is the typical behavior in bullet-heaven game.

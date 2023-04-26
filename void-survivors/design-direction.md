@@ -36,7 +36,7 @@ USP / THE HOOK
 
 ## 🪝 Hook
 Play a fast paced swarm-defense bullet-heaven game in a group with **hundreds of other people**!\
-Invite your friends and invite your community to play with you using one simple link!
+Invite your friends and invite your community to play with you using one simple QR code or link!
 
 **How it is familiar**:
 * Familiar popular genres (swarm-defense, bullet-heaven).
@@ -44,7 +44,7 @@ Invite your friends and invite your community to play with you using one simple 
 
 **How it differs**:
 * Massively multiplayer. (no existing title in these genres)
-* Easily invite anyone at anytime, with a link.
+* Easily invite anyone at anytime, with a QR code or link.
 * Play immediately with no installation within a web browser, on almost any device.
 
 Void survivors' gameplay will be familiar to a lot of gamers as it is similar to many other popular titles (Vampire Survivors) with one twist, it's massively-multiplayer! It is uniquely positioned in that no existing title in the Survivors-Like genre is massively multiplayer.
@@ -56,7 +56,7 @@ Main Genre: MMO.
 Sub Genres: Action RPG, Roguelite, Survivors-Like (Bullet-Heaven, Swarm-Defense).
 
 ### MMO (Massively-multiplayer Online)
-Void Survivors is an online game playable with hundreds of other people on your team. It aims to band people together in large teams and is easily sharable and joinable, via a link and played on a web browser with no installation.
+Void Survivors is an online game playable with hundreds of other people on your team. It aims to band people together in large teams and is easily sharable and joinable, via a QR core or link and played on a web browser with no installation.
 
 ![World of Warcraft - 40 person Raids](images/wow.jpg)
 [Source: Youtube 'Bodomi'](https://www.youtube.com/watch?v=zKNG4w06ySQ)
@@ -146,7 +146,7 @@ The game should support as many people as possible, on as many devices as possib
 ### 🏘️ Community Engageable
 The game should allow communities to easily engage with it and allows them to strengthen bonds through shared experiences and stories.
 
-👪 Easily shareable via a link.\
+👪 Easily shareable via a QR code or link.\
 👪 Joining a session requires no authentication or personally identifying information. \
 👪 Joining immediately places you with the person who invited you. \
 👪 Able to join at any point in the session. \
@@ -328,7 +328,7 @@ These mechanics reinforce
 During a session the players'🧙 goal is to gain as much life essence🌿 as possible. Life essence allows their character to level up💪, and is used to unlock character buffs in the metagame. The longer the player is able to defend the sanctuary🌱, the more life essence is gained.
 
 Players are able to last longer by:
-1. Finding players🧙 to team up which adds more defenders🛡️ to the sanctuary🌱. Players can find other players by joining an existing team, by inviting them via a link🔗, or by finding them in the void.
+1. Finding players🧙 to team up which adds more defenders🛡️ to the sanctuary🌱. Players can find other players by joining an existing team, by inviting them via a QR code or link🔗, or by finding them in the void.
 2. Gathering life essence🌿 from the sanctuary efficently by collecting it between waves of invaders and by living longer by avoiding taking damage💖 from invaders👹.
 3. Starting stronger💪 by upgrading character classes in the metagame using gained life essence🌿.
 

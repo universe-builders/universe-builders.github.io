@@ -16,7 +16,7 @@ The game is currently in pre-production and solely being developed by Universe B
 
 ### 🪝 Hook
 Play a fast paced swarm-defense bullet-heaven game in a group with **hundreds of other people**!\
-Invite your friends and invite your community to play with you using one simple link!
+Invite your friends and invite your community to play with you using one simple QR code or link!
 
 **How it is familiar**:
 * Familiar popular genres (swarm-defense, bullet-heaven).
@@ -24,7 +24,7 @@ Invite your friends and invite your community to play with you using one simple 
 
 **How it differs**:
 * Massively multiplayer. (no existing title in these genres)
-* Easily invite anyone at anytime, with a link.
+* Easily invite anyone at anytime, with a QR code or link.
 * Play immediately with no installation within a web browser, on almost any device.
 
 See [Design Direction](design-direction) for more info.
@@ -90,7 +90,6 @@ See [Design Direction](design-direction) for more info.
 * Climate catastrophy rendered the world to an innert barren void.
 * Survivors band together to grow life in the void and provide sanctuary.
 * Void creatures of myth and legend seek to destroy all life and remove all sanctuaries.
-
 * The story will be delivered through level design opposed to direct means.
 * The game will allow for emergent storytelling to be created and shared within communities.
 * Pictoral/image based story delivery for accessibility.

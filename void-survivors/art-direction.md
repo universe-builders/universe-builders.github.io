@@ -209,13 +209,13 @@ The following reference images demonstrate models without their limbs attached.
 
 ----
 
-## Concept Art
+## Color Pallette
 
 To be completed by the Art Director in the Pre-Production phase. See [Development Plan](development-plan) for more info.
 
 ----
 
-## Color Pallette
+## Concept Art
 
 To be completed by the Art Director in the Pre-Production phase. See [Development Plan](development-plan) for more info.
 

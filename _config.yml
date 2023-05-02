@@ -13,9 +13,3 @@ mermaid:
 footer_content: "Copyright &copy; 2023 Universe Builders PTY LTD. ACN: 667284504"
 
 color_scheme: dark
-
-plugins:
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from

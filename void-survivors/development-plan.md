@@ -22,6 +22,10 @@ This document is a WIP and will be iterated upon during during the Pre-Productio
 
 ----
 
+* Key deliverables
+* Audio
+* How many people will be hired
+
 ## High Level Milestones
 These are the milestones that are identified during the development plan.
 
@@ -289,7 +293,7 @@ Due to the technology choices and requirements of the prototype, juniors are abl
 
 ## Alpha Milestone
 The main goals of the alpha milestone are:
-🎯 
+🎯 community manager
 🎯
 
 
@@ -307,8 +311,9 @@ The main goals of the alpha milestone are:
 
 ## Beta Milestone
 The main goals of the beta milestone are:
-🎯 
-🎯
+🎯 Professional icon and cover art
+🎯 Trailer
+🎯 Sponsor one twitch 
 
 
 ### 👨‍👩‍👧 Team Roles

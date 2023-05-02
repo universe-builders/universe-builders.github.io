@@ -24,14 +24,64 @@ This document is a WIP and will be iterated upon during during the Pre-Productio
 
 ## High Level Strategy
 
+Void Survivors allows players to join an existing game session by using a simple web browser link. The marketing strategy is entirely focused on engaging existing synchronous gaming communities to motivate players to join existing sessions, share their own session, and eventually have the community provide a permanant session link.
+
+The strategy focuses on syncrhonous game communities, ie Discord and Twitch, as opposed to asychronous forums such as Reddit or Facebook, as the optimal way the game is discovered is via players sharing a link to communities to join their session.
+
+To achieve this, the following strategies will be deployed:
+* Engage existing Discord gaming communities.
+* Foster a Discord gaming community around the game.
+* Sponsor game streamers to play sessions with their communities.
+
+----
+
+## Strategy: Engaging existing discord gaming communities
+
+This strategy is about acquiring new players through existing gaming communities.
+
+To achieve this, the following steps will be undertaken:
+1. Identify Discord gaming communities, join, and engage*.
+2. Occasionally post a link to an existing session for other community members to join.
+3. Engage the community managers to post a permanant link to a session, this allows their community to be discovered by other players in game - increasing their community sizes.
+
+* It's important to engage as some communities have posting restrictions, which disallow new users from posting.
+
+----
+
+## Strategy: Foster a discord gaming community around the game
+
+This strategy is about creating a central community in Discord for players to engage with the game, including finding existing sessions and players to play with. The community will increase keep player retention through consistent updates and events.
+
+The achieve this, the following steps will be undertaken:
+1. Set up a Discord server under the games' name.
+2. Provide a link to the Discord server in the game.
+3. Set up group channels, allowing players to join active groups and join via their link.
+4. Host events, such as double XP via specific links, 
 
 
 
 ----
+
+## Strategy: Sponsoring game streamers to play with their communities
+
+
 ----
-----
-----
-----
+
+
+
+
+* Email list - post once per month
+* Discord server
+  * Events
+  * Dev logs
+  * Updates
+  * Polls
+* Paid game streamers
+
+
+
+
+
 
 # Ideas
 * Join a bunch of gaming communities and share a link to it

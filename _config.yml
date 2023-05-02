@@ -1,9 +1,10 @@
 title: Universe Builders
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-logo: "https://www.logolynx.com/images/logolynx/f6/f6e5b06f6aad7910506686b3c81137b8.png"
+logo: icon-with-text.png
 url: https://just-the-docs.github.io
 search_enabled: true
+favicon: favicon.ico
 
 mermaid:
   version: "10.1.0"

@@ -42,7 +42,7 @@ gitGraph
   commit id: "Alpha" type:HIGHLIGHT
   commit id: "Beta" type:HIGHLIGHT
   commit id: "Release" type:HIGHLIGHT
-  commit id: "Live-Ops" type:HIGHLIGHT
+  commit id: "Live" type:HIGHLIGHT
   commit id: "Sunset" type:HIGHLIGHT
 ```
 
@@ -294,8 +294,8 @@ Due to the technology choices and requirements of the prototype, juniors are abl
 ## Alpha Milestone
 The main goals of the alpha milestone are:
 🎯 community manager
-🎯
-
+🎯 behavioral segmentation (Producer)
+🎯 demographic segmentation (Producer)
 
 ### 👨‍👩‍👧 Team Roles
 * Producer

@@ -2,7 +2,7 @@
 title: 💵 Monetization Plan
 parent: Void Survivors
 layout: default
-nav_order: 33
+nav_order: 34
 ---
 
 This page defines the plan for monetizing Void Survivors.
@@ -62,7 +62,7 @@ This strategy allows for integration into subscription services, eg Xbox's Games
 
 ## 🎩👒🤠🧑‍🎄 Character Customization
 
-Players will want to express their individuality, especially in larger groups where they may get lost in a crowd of similar looking player classes. Players will be able purchase skins to customize their characters. Each class will have unique skins, allowing a player to purchase unique looks for each of their classes.
+Players will want to express their individuality, especially in larger groups where they may get lost in a crowd of similar looking player classes. Players will be able purchase cosmetics to customize their characters. Each class will have unique cosmetics, allowing a player to purchase unique looks for each of their classes.
 
 This is a common monetization strategy that was first popularized by League of Legends and has been used in most free-to-play games.
 

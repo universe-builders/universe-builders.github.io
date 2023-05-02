@@ -24,9 +24,10 @@ This page defines the plan for monetizing Void Survivors.
 
 Void Survivors is a free-to-play game that relies on in-app purchases to monetize the game.
 
-Monetization is driven by two strategies:
+Monetization is driven by following strategies:
 1. Class unlocks.
 2. Character customization.
+3. Team rewards with personal recognition.
 
 The following will be part of the monetization strategy:\
 ✅ No loot boxes or other gambling mechanics.\
@@ -71,3 +72,17 @@ Games that have used this strategy successfully include:
 * Valorant
 * Among Us
 * Rust
+
+## 🍻 Team rewards with personal recognition
+
+Players will be playing with groups of other players, and the game motivates group sizes to grow as large as possible. Players can purchase various boosts, in the form of increased life-essence gain or character power. These boosts apply to all players in their group and each player will see who their boost was provided by.
+
+eg "2x Life Essence boost! Provided by User123"
+
+Players will have opportunities to thank boosters through emoji responses or directly in chat - "Thanks User123 for the boost! You're awesome!".
+
+Individuals in a group, or small teams may strategize, to purchase any missing boosts to ensure maximum progress advantage.
+
+This allows players to exchange money for increased progress and status within their community.
+
+Boosts will be limited in their effectiveness, and not stackable. It is a slight advantage but is not a neccessity to progress.

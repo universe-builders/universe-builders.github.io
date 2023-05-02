@@ -22,35 +22,50 @@ This document is a WIP and will be iterated upon during during the Pre-Productio
 
 ----
 
-## High Level Strategy
+## High Level Marketing Strategy
 
 Void Survivors allows players to join an existing game session by using a simple web browser link. The marketing strategy is entirely focused on engaging existing synchronous gaming communities to motivate players to join existing sessions, share their own session, and eventually have the community provide a permanant session link.
 
-The strategy focuses on syncrhonous game communities, ie Discord and Twitch, as opposed to asychronous forums such as Reddit or Facebook, as the optimal way the game is discovered is via players sharing a link to communities to join their session.
+The strategy focuses on syncrhonous game communities, ie Discord and Twitch, as opposed to asychronous forums such as Reddit or Facebook, as the optimal way the game is discovered is via players joining a link to a live session.
 
 To achieve this, the following strategies will be deployed:
 * Engage existing Discord gaming communities.
-* Foster a Discord gaming community around the game.
+* Foster a Discord gaming community and email list around the game.
 * Sponsor game streamers to play sessions with their communities.
 
 ----
 
-## Strategy: Engaging existing discord gaming communities
+## Strategy: Engaging existing Discord gaming communities
 
 This strategy is about acquiring new players through existing gaming communities.
 
 To achieve this, the following steps will be undertaken:
 1. Identify Discord gaming communities, join, and engage*.
-2. Occasionally post a link to an existing session for other community members to join.
-3. Engage the community managers to post a permanant link to a session, this allows their community to be discovered by other players in game - increasing their community sizes.
+2. Occasionally post a link to an existing session, looking for online community members to join.
+3. Engage the community owners to post a permanant link to a session, this allows their community to be discovered by other players in game - increasing their community sizes.
 
-* It's important to engage as some communities have posting restrictions, which disallow new users from posting.
+*It's important to engage consistently and for a long period, as some communities have posting restrictions, which disallow new or inactive users from posting.
+
+Examples of existing Discord gaming communities:
+* Socializing : 169k members.
+* Tribe Gaming : 90k members.
+* Aura Gaming : 40k members.
+
+This strategy is common in Reddit/Facebook forums, and it is very hard to cut through the noise without paid promotion. However this strategy is not common in synchronous communities as the lifetime of posts is very short. 
+
+This strategy is modern, as over the last few years many online communities have moved from Facebook/Reddit to Discord.
+
+This strategy focuses on the main user target, that of a person in a gaming community looking to play and interact with others in the community.
+
+The final step of this strategy is for communities to post a permalink for Void Survivors in their community, this allows players in their community to join at any time and be placed with others in that community. The advantage for the community is ease of joining and the community can be discovered by other players within the game - allowing for people to organically discover and join the community. Other incentives such as affiliation percentages of purchases for community members, and in-game benifits such as life essence bonuses can be used.
+
+This strategy requires no financial investment, only time investment in having accounts active and engaged in a number of gaming communities.
 
 ----
 
 ## Strategy: Foster a discord gaming community around the game
 
-This strategy is about creating a central community in Discord for players to engage with the game, including finding existing sessions and players to play with. The community will increase keep player retention through consistent updates and events.
+This strategy is about creating a centralized community in Discord for players to engage with the game, including finding existing sessions and players to play with, and the development of the game. The community will increase keep player retention through consistent updates and events.
 
 The achieve this, the following steps will be undertaken:
 1. Set up a Discord server under the games' name.
@@ -58,25 +73,29 @@ The achieve this, the following steps will be undertaken:
 3. Set up group channels, allowing players to join active groups and join via their link.
 4. Host events, such as double XP via specific links, 
 
+Games have used this strategy to allow players to find teams to play with, specifically it has been used successfully by:
+* GTFO
+* Dark and Darker
+* PUBG
 
+Upon joining, players will be asked for their email address for infrequent communications about the game. This email list will be used to send an email ~1 time per month for events and game updates. This will increase player retention.
+
+The community will have release updates, changelogs, for the game. This will be posted as a notification to draw interest from players, get them hyped for the update, and increase player retention.
+
+The community will have opportunities for players to engage with developers and the development, through polls and channels that have direct communication with developers. This allows us to receive and react to player feedback.
+
+This strategy requires no financial investment, only time investment in having accounts active and engaged in a number of gaming communities.
 
 ----
 
 ## Strategy: Sponsoring game streamers to play with their communities
 
+This strategy is about acquiring new players through existing gaming communities.
+
+...
+
 
 ----
-
-
-
-
-* Email list - post once per month
-* Discord server
-  * Events
-  * Dev logs
-  * Updates
-  * Polls
-* Paid game streamers
 
 
 

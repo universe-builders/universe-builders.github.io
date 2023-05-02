@@ -1,8 +1,9 @@
 title: Universe Builders
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 logo: icon-with-text.png
-url: https://just-the-docs.github.io
+url: https://universe.builders
 search_enabled: true
 favicon: favicon.ico
 

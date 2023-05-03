@@ -33,12 +33,12 @@ These are the milestones that are used during the development of Void Survivors.
   } }}%%
 
 gitGraph
-  commit id: "Ideation" type:NORMAL
-  commit id: "Pre-Production" type:REVERSE tag: "You are here"
-  commit id: "Alpha" type:HIGHLIGHT
-  commit id: "Beta" type:HIGHLIGHT
-  commit id: "Release" type:HIGHLIGHT
-  commit id: "Sunset" type:HIGHLIGHT
+  commit id: "⛰️ Ideation" type:NORMAL
+  commit id: "⛰️ Pre-Production" type:REVERSE tag: "You are here"
+  commit id: "⛰️ Alpha" type:HIGHLIGHT
+  commit id: "⛰️ Beta" type:HIGHLIGHT
+  commit id: "⛰️ Release" type:HIGHLIGHT
+  commit id: "⛰️ Sunset" type:HIGHLIGHT
 ```
 ----
 
@@ -53,7 +53,21 @@ Assuming a July commencement of development, Void Survivors is estimated to be r
 ⛰️ Pre-Production : 22 weeks : December 2023\
 ⛰️ Alpha          : 20 weeks : May 2024\
 ⛰️ Beta           : 20 weeks : October 2024\
-⛰️ Release        : 10 weeks : December 2024
+⛰️ Release        : 12 weeks : December 2024
+
+```mermaid
+%%{init: {'theme':'dark', 'gitGraph': {'showBranches': false}, 'themeVariables': {
+              'commitLabelColor': '#FFFFFF',
+              'commitLabelBackground': '#00000000',
+              'commitLabelFontSize': '16px'
+  } }}%%
+
+gitGraph
+  commit id: "⛰️ Pre-Production" type:REVERSE tag: "12/23"
+  commit id: "⛰️ Alpha" type:HIGHLIGHT tag: "05/24"
+  commit id: "⛰️ Beta" type:HIGHLIGHT tag: "10/24"
+  commit id: "⛰️ Release" type:HIGHLIGHT tag: "12/24"
+```
 
 ----
 
@@ -438,7 +452,7 @@ The delivery of the above goals is estimated at **20 weeks from commencement**. 
 
 ### 👨‍👩‍👧 Alpha: Team Roles
 
-🚀 **Producer** : Part Time\
+🚀 **Producer** : 8 weeks\
 👉 Refining Alpha, Beta, and Release milestones.\
 👉 Forming relationships with distribution partners.\
 👉 Tracking milestone delivery progress.\
@@ -447,32 +461,32 @@ The delivery of the above goals is estimated at **20 weeks from commencement**. 
 👉 Conducting market segmentation and analysis.\
 👉 Executing user acquision and retention strategies.
 
-🔊 **Sound Designer** : Part Time\
+🔊 **Sound Designer** : 2 weeks\
 👉 Developing audio direction.\
 👉 Sourcing and developing music and sound effects.
 
-🏗️ **Prototype Game Developer** : Part Time\
+🏗️ **Prototype Game Developer** : 4 weeks\
 👉 Implement gameplay prototypes in Unity.\
 👉 Orchestrate playtesting of prototypes. \
 👉 Refine design direction based on playtest feedback.
 
-💭 **Game Developer** : Full Time\
+💭 **Game Developer** : 20 weeks\
 👉 Implement gameplay elements in alpha.\
 👉 Implement UI.\
 👉 Orchestrate playtesting.\
 👉 Refine design direction based on playtest feedback.
 
-🎨 **Artist** : Full Time\
+🎨 **Artist** : 20 weeks\
 👉 Implement final art assets for the Alpha deliverable (characters, void creatures, environments).
 
-🔨 **Tool Developer** : Part Time\
+🔨 **Tool Developer** : 2 weeks\
 👉 Implement tools to increase productivity of developers.
 
-🧮 **Engine Programmer** : Full Time\
+🧮 **Engine Programmer** : 20 weeks\
 👉 Implement game client core.\
 👉 Implement server client core.
 
-🧮 **Backend Programmer** : Part Time\
+🧮 **Backend Programmer** : 4 weeks\
 👉 Implement and integrate auxiliary services.
 
 ----
@@ -532,7 +546,7 @@ The delivery of the above goals is estimated at **20 weeks from commencement**. 
 
 ### 👨‍👩‍👧 Beta: Team Roles
 
-🚀 **Producer** : Part Time\
+🚀 **Producer** : 8 weeks\
 👉 Refining milestones.\
 👉 Negotiating distribution agreements via partners.\
 👉 Tracking milestone delivery progress.\
@@ -541,31 +555,31 @@ The delivery of the above goals is estimated at **20 weeks from commencement**. 
 👉 Defining refund and customer support policies and mechanisms.\
 👉 Executing user acquision and retention strategies.
 
-🎨 **Marketing Materials Artist** : Part Time\
+🎨 **Marketing Materials Artist** : 2 weeks\
 👉 Producing icons.\
 👉 Producing splash and cover art.\
 👉 Producing early access trailer.
 
-👪 **Community Manager** : Part Time\
+👪 **Community Manager** : 4 weeks\
 👉 Moderating games' discord channel.\
 👉 Organizing events including playtests.\
 👉 Engaging with communities defined in [marketing plan](/marketing-and-release-plan).
 
-🔊 **Sound Designer** : Part Time\
+🔊 **Sound Designer** : 2 weeks\
 👉 Sourcing and developing music and sound effects.
 
-💭 **Game Developer** : Full Time\
+💭 **Game Developer** : 20 weeks\
 👉 Implement gameplay elements in alpha.\
 👉 Implement UI.\
 👉 Orchestrate playtesting.
 
-🎨 **Artist** : Full Time\
+🎨 **Artist** : 20 weeks\
 👉 Implement final art assets for the Beta deliverable (characters, void creatures, environments).
 
-🔨 **Tool Developer** : Part Time\
+🔨 **Tool Developer** : 2 weeks\
 👉 Implement tools to increase productivity of developers.
 
-🧮 **Backend Programmer** : Part Time\
+🧮 **Backend Programmer** : 6 weeks\
 👉 Implement and integrate auxiliary services.
 
 ----
@@ -583,28 +597,28 @@ The main goals of the Release milestone are:\
 ----
 
 ## 📅 Release: Estimated Delivery Timeline
-The delivery of the above goals is estimated at **10 weeks from commencement**. Release will begin after the delivery of the Beta milestone.
+The delivery of the above goals is estimated at **12 weeks from commencement**. Release will begin after the delivery of the Beta milestone.
 
 ----
 
 ### 👨‍👩‍👧 Release: Team Roles
 
-🚀 **Producer** : Part Time\
+🚀 **Producer** : 4 weeks\
 👉 Negotiating distribution agreements via partners.\
 👉 Tracking milestone delivery progress.\
 👉 Assigning and tracking reported bugs.\
 👉 Progressing financial plan goals.\
 👉 Executing user acquision and retention strategies.
 
-👪 **Community Manager** : Part Time\
+👪 **Community Manager** : 6 weeks\
 👉 Moderating games' discord channel.\
 👉 Organizing events including playtests.\
 👉 Engaging with communities defined in [marketing plan](/marketing-and-release-plan).
 
-🔊 **Sound Designer** : Part Time\
+🔊 **Sound Designer** : 2 weeks\
 👉 Sourcing and developing music and sound effects.
 
-💭 **Game Developer** : Full Time\
+💭 **Game Developer** : 12 weeks\
 👉 Implement gameplay elements in alpha.\
 👉 Implement UI.\
 👉 Orchestrate playtesting.
@@ -612,5 +626,5 @@ The delivery of the above goals is estimated at **10 weeks from commencement**. 
 🎨 **Artist** : Full Time\
 👉 Implement final art assets for the Release deliverable (characters, void creatures, environments).
 
-🧮 **Backend Programmer** : Part Time\
+🧮 **Backend Programmer** : 4 weeks\
 👉 Implement and integrate auxiliary services.

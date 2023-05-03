@@ -24,7 +24,7 @@ This page defines the release plan for Void Survivors.
 
 Our release strategy is focused on leveraging several partners, marketplaces and systems to our advantage. The biggest advantage we can create is getting placement on the “New and Trending” page of Steam. According to different sources this will give us access to about 1,900,000 impressions. 
 
-The second biggest point of leverage is getting access to streamers and having them to play Void Survivors with their community. The amount of leverage this will provide us will compound greatly ideally to a point of virality. A source of inspiration to simulate is the success of Among Us.
+The second biggest point of leverage is getting access to streamers and having them play Void Survivors with their community. The amount of leverage this will provide us will compound greatly ideally to a point of virality. A source of inspiration to simulate is the success of Among Us.
 
 The third biggest point of leverage, is other peoples communities to build our own. This will come in the form of building our own community by providing playtests, valuable content, and appearances on other peoples channels. 
 
@@ -63,21 +63,21 @@ This same tactic will apply to aligned companies like Stream Labs, Stream Legend
 
 60 days before the release of the game we are going to hype up our community, talk to our partners and organize promotions with all partners. 
 
-Our goal during this stage is to get wishlists on Steam and to get people engaging with the store page before we go live. This will give us a significant edge to get to the new and trending (as well as providing pre-orders). 
+Our goal during this stage is to get wishlists on Steam and to get people engaging with the store page before we go live. It is highly correlated that wishlists results in higher likelyhood on being on the new and trending (as well as providing pre-orders). 
 
 ----
 
 ### Release
 
-We are going to get our partners to promote the game on launch day and we are going to host a challenge for all partners and their community. 
+We are going to get our partners to promote the game on launch day and we are going to host a challenge for all partners and their communities. 
 
-We are going to host a challenge of who can survive the longest on launch day will win a cash prize of $1,000. Our target for this promotion will be smaller streamers with under 500 views. 
+On launch day we will host a challenge of who can survive the longest will win a cash prize of $1,000. Our target for this promotion will be smaller streamers with under 500 views. 
 
 To promote this challenge we are going to follow 3 tactics: 
 
 1. Get all of our partners who helped with pre-release an early access key for them and their community. 
 2. Three days before the release we are going to approach streamers who meet our criteria and approach them in two different ways, one will be an email from us providing them an early access key, the second way will be to donate to their streams notifying them of the challenge. This is inspired by the following successful campaigns by Ludwig. (https://www.youtube.com/watch?v=Ip2trao6dYw&pp=ygUQbHVkd2lnIG9tZWdhbHVsIA%3D%3D and https://www.youtube.com/watch?v=v7ufQ5Sz-no).
-3. We are going to open our discord for pre-registers for the challenge, this will allow us to build hype and competitively with the community. 
+3. We are going to open our discord for pre-registers for the challenge, this will allow us to build hype and competitiveness with the community. 
 
 ----
 

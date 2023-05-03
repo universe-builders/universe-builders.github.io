@@ -2,7 +2,7 @@
 title: ♿ Accessibility Plan
 parent: Void Survivors
 layout: default
-nav_order: 35
+nav_order: 36
 ---
 
 This page defines the plan for developing Void Survivors to be accessible to as many people as possible.

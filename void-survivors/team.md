@@ -5,10 +5,6 @@ layout: default
 nav_order: 1
 ---
 
-# To Do
-* Image
-
----
 # James Knight
 🏠 Melbourne, Australia.\
 📧 [jk@universe.builders](mailto:jk@universe.builders){:target="_blank"}\

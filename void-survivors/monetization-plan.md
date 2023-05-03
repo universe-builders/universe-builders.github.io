@@ -2,7 +2,7 @@
 title: 💵 Monetization Plan
 parent: Void Survivors
 layout: default
-nav_order: 34
+nav_order: 35
 ---
 
 This page defines the plan for monetizing Void Survivors.
@@ -27,7 +27,7 @@ Void Survivors is a free-to-play game that relies on in-app purchases to monetiz
 Monetization is driven by following strategies:
 1. Class unlocks.
 2. Character customization.
-3. Team rewards with personal recognition.
+3. Team boosts with personal recognition.
 
 The following will be part of the monetization strategy:\
 ✅ No loot boxes or other gambling mechanics.\
@@ -35,6 +35,8 @@ The following will be part of the monetization strategy:\
 ✅ No pay-to-earn mechanics.\
 ✅ No cryptocurrency or NFTs.\
 ✅ No data harvesting or selling of user data.
+
+----
 
 ## 🔓 Class Unlocks
 
@@ -60,6 +62,8 @@ Games that have used this strategy successfully include:
 
 This strategy allows for integration into subscription services, eg Xbox's Games Pass, where players on the subscription will have all classes unlocked whilst they play the game through that services interface. This is a new strategy that is being tested by League of Legends and is yet to be proven.
 
+----
+
 ## 🎩👒🤠🧑‍🎄 Character Customization
 
 Players will want to express their individuality, especially in larger groups where they may get lost in a crowd of similar looking player classes. Players will be able purchase cosmetics to customize their characters. Each class will have unique cosmetics, allowing a player to purchase unique looks for each of their classes.
@@ -73,7 +77,9 @@ Games that have used this strategy successfully include:
 * Among Us
 * Rust
 
-## 🍻 Team rewards with personal recognition
+----
+
+## 🍻 Team boosts with personal recognition
 
 Players will be playing with groups of other players, and the game motivates group sizes to grow as large as possible. Players can purchase various boosts, in the form of increased life-essence gain or character power. These boosts apply to all players in their group and each player will see who their boost was provided by.
 

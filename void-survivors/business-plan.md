@@ -1,6 +1,6 @@
 ---
 title: 🗒️ Business Plan
-parent: Void Survivors
+parent: None
 layout: default
 nav_order: 30
 ---

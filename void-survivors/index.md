@@ -7,7 +7,7 @@ has_children: true
 
 ### Overview
 
-**Void Survivors**\* is an free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against incresingly difficult waves of whimsical fantasy invaders.\
+**Void Survivors**\* is a free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against incresingly difficult waves of whimsical fantasy invaders.\
 \* _Working title_
 
 The game is currently in pre-production and solely being developed by Universe Builders, who are currently seeking funding to be able to complete the game.
@@ -98,7 +98,35 @@ See [Design Direction](narrative-direction) for more info.
 
 ----
 
-### 👪 Target Market
+### 🎯 Target Market
+
+The following persona's are the focus for marketing efforts.
+
+🤝 **Persona: Community Member**\
+The community member is someone who is looking to socialize, interact, and fit in with a community.
+
+👉 **Persona: Community Organizer**\
+The community organizer is someone who is always looking for games they can play with their friends, family, or community.
+
+🚌 **Persona: Transit Player**\
+The transit player is someone who doesn't have much time to play. They have a personal mobile device or a work PC in which they can play on.
+
+See [Marketing and Release Plan](marketing-and-release-plan) for more info.
+
+----
+
+### 👪 Marketing Strategy
+
+The following user acquision strategies will be deployed:
+* Engage existing Discord gaming communities.
+* Engage players that enjoy Survivors-like genre.
+* Sponsor game streamers to play with their communities.
+* Distribution by platforms with existing player bases.
+
+The following user retention strategies will be deployed:
+* Foster a Discord gaming community and email list around the game.
+
+See [Marketing and Release Plan](marketing-and-release-plan) for more info.
 
 ----
 
@@ -190,6 +218,7 @@ See [Accessibility Plan](accessibility-plan) for more info.
 ### 💵 Monetization
 🔓 Class unlocks.\
 🤠 Character customization.\
+🍻 Team boosts with personal recognition.\
 ✅ No loot boxes or other gambling mechanics.\
 ✅ No pay-to-win or pay-to-earn mechanics.\
 ✅ No cryptocurrency or NFTs.\

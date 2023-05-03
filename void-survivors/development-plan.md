@@ -7,7 +7,7 @@ nav_order: 31
 
 This page defines the plan for developing Void Survivors, including milestones, schedules, and roles.
 
-This document is a WIP and will be iterated upon during during the Pre-Production of the game's development.
+This document is a WIP and will be iterated upon during the Pre-Production of the game's development.
 
 ----
 
@@ -19,12 +19,6 @@ This document is a WIP and will be iterated upon during during the Pre-Productio
 1. TOC
 {:toc}
 </details>
-
-----
-
-## Team Member Summary
-
-TODO: Summary of how many people will be hired.
 
 ----
 
@@ -53,7 +47,39 @@ Void Survivors has completed the Ideation milestone and is currently in the **Pr
 
 ----
 
-## ⛰️ Pre-Production Milestone
+## Estimated Delivery Schedule
+Assuming a July commencement of development, Void Survivors is estimated to be released and in live service operations by the 2024 end of year holiday period.
+
+⛰️ Pre-Production : 22 weeks : December 2023\
+⛰️ Alpha          : 20 weeks : May 2024\
+⛰️ Beta           : 20 weeks : October 2024\
+⛰️ Release        : 10 weeks : December 2024
+
+----
+
+## Team Role Summary
+
+12 roles will directly contribute to development of Void Survivors. Some roles may be performed by the same person, such as Concept Artist and Artist. Most roles will be contracted through the Universe Builders company.
+
+The roles and their estimated full time contribution to the project are:\
+🏗️ **Prototype Game Developer** : 12 weeks\
+🎨 **Art Director** : 2 weeks\
+🖌️ **Concept Artist** : 2 weeks\
+🔘 **UI Designer** : 1 week\
+💭 **Game Developer** : 60 weeks\
+🧮 **Engine Programmer** : 32 weeks\
+🔨 **Tool Developer** : 12 weeks\
+🚀 **Producer** : 20 weeks\
+🎨 **Artist** : 60 weeks\
+🎨 **Marketing Materials Artist** : 2 weeks\
+🔊 **Sound Designer** : 6 weeks\
+🧮 **Backend Programmer** : 14 weeks
+
+Total: 223 full time weeks.
+
+----
+
+## ⛰️ Pre-Production: Milestone Goals
 
 The Pre-Production of Void Survivors requires more effort than an average project within this scope, as Void Survivors will use an in-house developed engine to achieve the design vision and accessibility requirements.
 
@@ -63,7 +89,7 @@ The main goals of the pre-production milestone are:\
 
 ----
 
-## 📦 Pre-Production Key Deliverables
+## 📦 Pre-Production: Key Deliverables
 
 ### 📦 Gameplay Prototypes
 Player experiences will be prototyped in the single-player Unity version to refine mechanics and make design decisions. This is completed in Unity as the in-house engine will not have an editor experience that is optimized for development iteration.
@@ -86,14 +112,18 @@ See below for the features of the Vertical Slice deliverable.
 
 ----
 
-## 🪂 Pre-Production De-risking development
+## 🪂 Pre-Production: De-risking development
 To de-risk development, the following will be completed:\
 💭 **Playtesting and iterating on gameplay prototypes** to ensure the intended experiences are being achieved.\
 🎨 **Generate and focus group testing concept art** to ensure it meets the art and accessibily targets.\
 🧮 **Stress test the web game client** on targetted low-end devices and **server engine** using load tests.\
 🎮 **Test the vertical slice** on a range of devices and diverse range of people (skill, motivations).
 
-Specifically the player experiences that will be prototyped are:
+----
+
+## 📦 Pre-Production: Gameplay Prototypes Deliverable
+
+The player experiences that will be prototyped are:
 * As the manager of a community, I want players within my community to be able to play together under the banner of the community, so that new people can discover the community through the game and players within the community need not organize their own teams.
 * As a twitch streamer, I want to engage with my audience by inviting them to my team. Whilst playing I want to easily recognizable and feel like the leader of my team, so that my audience can feel like they are interacting with me directly and so I feel important within the group.
 * As a small team of close friends, we want to join a larger team and still maintain our small internal group, so that we can have shared communications and experiences with ourselves.
@@ -104,7 +134,7 @@ Specifically the player experiences that will be prototyped are:
 
 ----
 
-## 📦 Pre-Production Vertical Slice Deliverable
+## 📦 Pre-Production: Vertical Slice Deliverable
 
 The **vertical slice will** have the following features:\
 ✅ A full [gameplay loop](design-direction.html#-gameplay-loop-) for a single team.\
@@ -141,13 +171,13 @@ The **vertical slice will not** have the following features:\
 
 ----
 
-## 📅 Pre-Production Estimated Delivery Timeline
+## 📅 Pre-Production: Estimated Delivery Timeline
 The delivery of the above goals is estimated at **22 weeks from commencement**.\
 If started on July 1st, the milestone will be completed by early December.
 
 ----
 
-### 👨‍👩‍👧 Pre-Production Team Roles
+### 👨‍👩‍👧 Pre-Production: Team Roles
 
 The following team members, and their responsibilities, will be active during the Pre-Production milestone.
 
@@ -253,7 +283,7 @@ gantt
 
 ----
 
-## 👨‍👩‍👧 Pre-Production Team Members
+## 👨‍👩‍👧 Pre-Production: Team Members
 
 🏗️ Prototype Game Developer : **To be contracted**.\
 🎨 Art Director   : **To be contracted**.\
@@ -274,7 +304,7 @@ The programming, tool development, and game development responsibilities will be
 
 ----
 
-### ⚠️ Pre-Production Risks & Mitigations ✅
+### ⚠️ Pre-Production: Risks & Mitigations ✅
 ⚠️ **The 'Game Developer' role will be hard or expensive to source**\
 The custom game engine uses technologies that are less common for game developers to possess. Specifically, Web based technologies are not common for game developers to have. Further, the use of the C language is infrequently used in games where C# (Unity) and C++ (Unreal Engine) are more common. Further, game developers are generally wary of joining companies with unique tech stacks due to the low transferability of skills to other employers.
 
@@ -315,7 +345,7 @@ The Survivors-Like genre is mostly single-player, with only one game in the genr
 
 ----
 
-## ⭐ Pre-Production Opportunities
+## ⭐ Pre-Production: Opportunities
 
 ✅ **Web developers can be contracted for tooling 🔨**\
 Most game development tool positions requires expertise that generally falls outside a typical game developer's skill set, and are generally less attractive roles because they are supporting development opposed to working on the game directly.
@@ -336,19 +366,19 @@ James Knight has 8+ years working as an engineer, designer, and product manager 
 
 ----
 
-## ⛰️ Alpha Milestone
+## ⛰️ Alpha: Milestone Goals
 
 The Alpha of Void Survivors requires more effort than an average project within this scope, as Void Survivors will use an in-house developed engine to achieve the design vision and accessibility requirements.
 
 The main goals of the Alpha milestone are:\
-🎯 To **deliver all major technology components** for the in-house game client, game server, and vital auxillary services.
+🎯 To **deliver all major technology components** for the in-house game client, game server, and vital auxiliary services.
 🎯 To produce a **horizontal slice**, ie a game experience that includes all main mechanics and the meta-game loop.
 
 **This milestone requires refinement which will be completed by the Producer role post completion of the Pre-Production milestone.**
 
 ----
 
-## 📦 Alpha Key Deliverables
+## 📦 Alpha: Key Deliverables
 
 ### 📦 Web Game Client Core
 The web game client foundational technologies will be produced, which will be the player's interface to the game. Core features include Input, 3D Rendering, UI, AI simulation, and Animation.
@@ -356,7 +386,7 @@ The web game client foundational technologies will be produced, which will be th
 ### 📦 Game Server Core
 The game server foundational technologies will be produced, which will handle networking between players, applying player actions to the game state, and synchronizing players.
 
-### 📦 Vital Auxillary Game Services
+### 📦 Vital auxiliary Game Services
 Various game services will be used for the horizontal slice to allow for character progression and persistence. Specifically authentication, databases, and analytics will be used. See [technical direction](/technical-direction) for more infomation.
 
 ### 📦 Horizontal Slice
@@ -366,7 +396,7 @@ See below for the features of the Alpha Build deliverable.
 
 ----
 
-## 📦 Alpha Horizontal Slice Deliverable
+## 📦 Alpha: Horizontal Slice Deliverable
 
 The **horizontal slice will** have the following features:\
 ✅ A full [gameplay loop](design-direction.html#-gameplay-loop-) for a single team.\
@@ -401,12 +431,12 @@ The **horizontal slice will not** have the following features:\
 
 ----
 
-## 📅 Alpha Estimated Delivery Timeline
+## 📅 Alpha: Estimated Delivery Timeline
 The delivery of the above goals is estimated at **20 weeks from commencement**. Alpha will begin after the delivery of the Pre-Production milestone.
 
 ----
 
-### 👨‍👩‍👧 Alpha Team Roles
+### 👨‍👩‍👧 Alpha: Team Roles
 
 🚀 **Producer** : Part Time\
 👉 Refining Alpha, Beta, and Release milestones.\
@@ -443,11 +473,11 @@ The delivery of the above goals is estimated at **20 weeks from commencement**. 
 👉 Implement server client core.
 
 🧮 **Backend Programmer** : Part Time\
-👉 Implement and integrate auxillary services.
+👉 Implement and integrate auxiliary services.
 
 ----
 
-## ⛰️ Beta Milestone
+## ⛰️ Beta: Milestone Goals
 
 The main goals of the Beta milestone are:\
 🎯 To **complete all major gameplay systems** to a polished degree.\
@@ -459,9 +489,9 @@ The main goals of the Beta milestone are:\
 
 ----
 
-## 📦 Beta Key Deliverables
+## 📦 Beta: Key Deliverables
 
-### 📦 Auxillary Game Services
+### 📦 Auxiliary Game Services
 Various game services will be used for the horizontal slice to allow for character progression and persistence. Specifically authentication, databases, and analytics will be used. See [technical direction](/technical-direction) for more infomation.
 
 ### 📦 Early Access
@@ -471,7 +501,7 @@ See below for the features of the Alpha Build deliverable.
 
 ----
 
-## 📦 Early Access Deliverable
+## 📦 Beta: Early Access Deliverable
 
 The **horizontal slice will** have the following features:\
 ✅ Full 15 minute sessions.\
@@ -495,12 +525,12 @@ The **early access will not** have the following features:\
 
 ----
 
-## 📅 Beta Estimated Delivery Timeline
-The delivery of the above goals is estimated at **26 weeks from commencement**. Beta will begin after the delivery of the Alpha milestone.
+## 📅 Beta: Estimated Delivery Timeline
+The delivery of the above goals is estimated at **20 weeks from commencement**. Beta will begin after the delivery of the Alpha milestone.
 
 ----
 
-### 👨‍👩‍👧 Beta Team Roles
+### 👨‍👩‍👧 Beta: Team Roles
 
 🚀 **Producer** : Part Time\
 👉 Refining milestones.\
@@ -535,17 +565,52 @@ The delivery of the above goals is estimated at **26 weeks from commencement**. 
 🔨 **Tool Developer** : Part Time\
 👉 Implement tools to increase productivity of developers.
 
-🧮 **Backend Programmer** : Full Time\
-👉 Implement and integrate auxillary services.
+🧮 **Backend Programmer** : Part Time\
+👉 Implement and integrate auxiliary services.
 
 ----
 
-## ⛰️ Release Milestone
-The main goals of the release milestone are:
-🎯 
-🎯
+## ⛰️ Release: Milestone Goals
 
-### 👨‍👩‍👧 Team Roles
+The main goals of the Release milestone are:\
+🎯 To **polish all game systems and content**.\
+🎯 To **optimize performance** to reduce operational expenditure.\
+🎯 To **validate accessibility** goals are met.\
+🎯 To **achieve marketing strategies** including engaging community managers, distributors, and Twitch streamers.
+
+**This milestone requires refinement which will be completed by the Producer role during the Alpha Milestone.**
 
 ----
 
+## 📅 Release: Estimated Delivery Timeline
+The delivery of the above goals is estimated at **10 weeks from commencement**. Release will begin after the delivery of the Beta milestone.
+
+----
+
+### 👨‍👩‍👧 Release: Team Roles
+
+🚀 **Producer** : Part Time\
+👉 Negotiating distribution agreements via partners.\
+👉 Tracking milestone delivery progress.\
+👉 Assigning and tracking reported bugs.\
+👉 Progressing financial plan goals.\
+👉 Executing user acquision and retention strategies.
+
+👪 **Community Manager** : Part Time\
+👉 Moderating games' discord channel.\
+👉 Organizing events including playtests.\
+👉 Engaging with communities defined in [marketing plan](/marketing-and-release-plan).
+
+🔊 **Sound Designer** : Part Time\
+👉 Sourcing and developing music and sound effects.
+
+💭 **Game Developer** : Full Time\
+👉 Implement gameplay elements in alpha.\
+👉 Implement UI.\
+👉 Orchestrate playtesting.
+
+🎨 **Artist** : Full Time\
+👉 Implement final art assets for the Release deliverable (characters, void creatures, environments).
+
+🧮 **Backend Programmer** : Part Time\
+👉 Implement and integrate auxiliary services.

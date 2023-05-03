@@ -70,7 +70,7 @@ The game world should support a large amount of varied size teams from small to 
 
 ----
 
-## 🖥️🎮 Game Client Technology Stack
+## 🖥️🎮 Web Game Client Technology Stack
 
 ### 🌐 Web Browser (Chrome, Safari, Firefox, ...)
 Web browsers were chosen because they are available on all major platforms, including desktops, laptops, mobile phones, and even smart TV's. It is the easiest way to make the game device inclusive.

@@ -22,12 +22,14 @@ This document is a WIP and will be iterated upon during during the Pre-Productio
 
 ----
 
-* Key deliverables
-* Audio
-* How many people will be hired
+## Team Member Summary
+
+TODO: Summary of how many people will be hired.
+
+----
 
 ## High Level Milestones
-These are the milestones that are identified during the development plan.
+These are the milestones that are used during the development of Void Survivors. Void Survivors is a live service game, also known as game-as-a-service, and will continue development post-release.
 
 ```mermaid
 %%{init: {'theme':'dark', 'gitGraph': {'showBranches': false}, 'themeVariables': {
@@ -42,26 +44,53 @@ gitGraph
   commit id: "Alpha" type:HIGHLIGHT
   commit id: "Beta" type:HIGHLIGHT
   commit id: "Release" type:HIGHLIGHT
-  commit id: "Live" type:HIGHLIGHT
   commit id: "Sunset" type:HIGHLIGHT
 ```
+----
 
 ## Current state of the project
 Void Survivors has completed the Ideation milestone and is currently in the **Pre-Production** milestone.
 
 ----
 
-## Pre-Production Milestone
+## ⛰️ Pre-Production Milestone
+
+The Pre-Production of Void Survivors requires more effort than an average project within this scope, as Void Survivors will use an in-house developed engine to achieve the design vision and accessibility requirements.
+
 The main goals of the pre-production milestone are:\
-🎯 To **de-risk the development** of the game, by producing and testing key technology, design decisions, and art direction.\
+🎯 To **de-risk the development** of the game, by producing and testing foundational technology, design decisions, and art direction.\
 🎯 To produce a **vertical slice**, ie a game experience at the quality level of the final product for a small segment of the game, demonstrating the core gameplay and gameplay loop.
 
-### De-risking development
+----
 
+## 📦 Pre-Production Key Deliverables
+
+### 📦 Gameplay Prototypes
+Player experiences will be prototyped in the single-player Unity version to refine mechanics and make design decisions. This is completed in Unity as the in-house engine will not have an editor experience that is optimized for development iteration.
+
+See below for a full list of the gameplay prototypes that will be produced.
+
+### 📦 Mood Board, Color Palette, Concept Art, and refined Art Direction
+The Art Director will refine the Art Direction by producing a mood board and color palette. The Art Director will direct the production of original concept art based on the refined Art Direction.
+
+### 📦 Web Game Client Foundation
+The web game client foundational technologies will be produced, which will be the player's interface to the game. Core features include Input, 3D Rendering, UI, AI simulation, and Animation.
+
+### 📦 Game Server Foundation
+The game server foundational technologies will be produced, which will handle networking between players, applying player actions to the game state, and synchronizing players.
+
+### 📦 Vertical Slice
+The vertical slice focuses on the main mechanics, core gameplay loop, and player motivations. It will have final art for the entire experience. It does not include a lot of the secondary mechanics or technical features, to allow the vertical slice to be playtested to ensure the core experience is enjoyable. It will be playtested with friends, family, and local development community.
+
+See below for the features of the Vertical Slice deliverable.
+
+----
+
+## 🪂 Pre-Production De-risking development
 To de-risk development, the following will be completed:\
-💭 **Prototype player experiences** in the single-player Unity version to refine mechanics.\
-🎨 **Generate and test concept art** to ensure it meets the art and accessibily targets.\
-🧮 **Stress test the client technology** on low-end devices and **server technology** using load targets.\
+💭 **Playtesting and iterating on gameplay prototypes** to ensure the intended experiences are being achieved.\
+🎨 **Generate and focus group testing concept art** to ensure it meets the art and accessibily targets.\
+🧮 **Stress test the web game client** on targetted low-end devices and **server engine** using load tests.\
 🎮 **Test the vertical slice** on a range of devices and diverse range of people (skill, motivations).
 
 Specifically the player experiences that will be prototyped are:
@@ -73,12 +102,13 @@ Specifically the player experiences that will be prototyped are:
 * As a solo player, I want to quickly find a team which I can play a ~15 minute session with, and ideally want to continue playing with after defeat.
 * As a highly competitive group of solo players, we want to join larger groups but leave before they are defeated, in order to reach the highest survivability time.
 
-### Vertical Slice
+----
 
-The vertical slice focuses on the main mechanics, core gameplay loop, and player motivations. It will have final art for the entire experience. It does not include a lot of the secondary mechanics or technical features, to allow the vertical slice to be playtested to ensure the core experience is enjoyable. It will be playtested with friends, family, and local development community.
+## 📦 Pre-Production Vertical Slice Deliverable
 
 The **vertical slice will** have the following features:\
-✅ A full [gameplay loop](http://localhost:4000/void-survivors/design-direction.html#-gameplay-loop-) for a single team.\
+✅ A full [gameplay loop](design-direction.html#-gameplay-loop-) for a single team.\
+✅ 5 minutes sessions, release version will be 15 minutes sessions.\
 ✅ Up to 3 teams playing in different isolated sessions.\
 ✅ Up to 20 concurrent players per team.\
 ✅ Be web based, using in-house developed engine.\
@@ -95,7 +125,7 @@ The **vertical slice will** have the following features:\
 ✅ Have 3 basic void creatures implemented, and one mini-boss.\
 ✅ Have the final art for each void creature and mini-boss.\
 ✅ Be hosted in a public cloud provider within a single region.\
-✅ Provide the team with amount of time they lasted.
+✅ Provide basic achievement metrics to players, including the amount of time they survived.
 
 The **vertical slice will not** have the following features:\
 ⭕ Meta game, ie no character progression.\
@@ -106,13 +136,18 @@ The **vertical slice will not** have the following features:\
 ⭕ No telegraphed attacks.\
 ⭕ No stacked abilities.\
 ⭕ No streamed assets, all assets included in initial download.\
-⭕ No competitive statistics.
+⭕ No competitive statistics.\
+⭕ No Audio.
 
-### 📅 Estimated Delivery Timeline
+----
+
+## 📅 Pre-Production Estimated Delivery Timeline
 The delivery of the above goals is estimated at **22 weeks from commencement**.\
 If started on July 1st, the milestone will be completed by early December.
 
-### 👨‍👩‍👧 Team Roles
+----
+
+### 👨‍👩‍👧 Pre-Production Team Roles
 
 The following team members, and their responsibilities, will be active during the Pre-Production milestone.
 
@@ -153,11 +188,10 @@ The following team members, and their responsibilities, will be active during th
 
 🧮 **Engine Programmer** : 12 weeks\
   👉 Identify target minimum low-end devices (eg iPhone 7).\
-  👉 Implement client web game engine.\
-  👉 Implement game server.\
+  👉 Implement game client foundation.\
+  👉 Implement game server foundation.\
   👉 Deploy game and make accessible for playtests.\
   👉 Stress test client and server technologies.
-
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
@@ -217,7 +251,9 @@ gantt
     🎨 Artist : 16-10-2023, 40d
 ```
 
-### 👨‍👩‍👧 Team Members
+----
+
+## 👨‍👩‍👧 Pre-Production Team Members
 
 🏗️ Prototype Game Developer : **To be contracted**.\
 🎨 Art Director   : **To be contracted**.\
@@ -228,15 +264,17 @@ gantt
 🔨 Tool Developer : James Knight.\
 🧮 Engine Programmer : James Knight.
 
-The prototype game designer can be undertaken by a junior level, as the technology stack is well known and the quality of the code and project need only survive for the usage of playtesting -- with no hardware requirements.
+The prototype game designer can be undertaken by a junior level, as the technology stack is well known and the quality of the code and project need only survive for the usage of playtesting. Publicly available assets will be highly leveraged.
 
-The art director should be a once off consultant, ideally with significant experience in setting an art direction.
+The art director will be a once off consultant, ideally with significant experience in setting an art direction.
 
-The concept artist, ui designer, and artist roles can be fulfilled by one person. If it is hard to find a person with all three skill sets, they can be seperated and contracted at different points in the development.
+The concept artist, UI designer, and artist roles can be fulfilled by one person. If it is hard to find a person with all three skill sets, they can be seperated and contracted at different points in the development.
 
 The programming, tool development, and game development responsibilities will be undertaken by James Knight, which allows for an efficent development synergy of the engine, editor, and development frameworks. Future versions of these roles will be open for contractors and the technology will be in a stable and documented state to allow ease of onboarding and development. At this phase there needs to be a lot of decisions around architecture which requires an experience programmer, which James Knight will fulfill.
 
-### ⚠️ Risks & Mitigations ✅
+----
+
+### ⚠️ Pre-Production Risks & Mitigations ✅
 ⚠️ **The 'Game Developer' role will be hard or expensive to source**\
 The custom game engine uses technologies that are less common for game developers to possess. Specifically, Web based technologies are not common for game developers to have. Further, the use of the C language is infrequently used in games where C# (Unity) and C++ (Unreal Engine) are more common. Further, game developers are generally wary of joining companies with unique tech stacks due to the low transferability of skills to other employers.
 
@@ -275,7 +313,9 @@ The Survivors-Like genre is mostly single-player, with only one game in the genr
 ✅ Contractors can be hired for specific tasks, such as creating the CI/CD pipeline.\
 ✅ Time estimations include expectations that these roles will be undertaken by one person.
 
-### Opportunities
+----
+
+## ⭐ Pre-Production Opportunities
 
 ✅ **Web developers can be contracted for tooling 🔨**\
 Most game development tool positions requires expertise that generally falls outside a typical game developer's skill set, and are generally less attractive roles because they are supporting development opposed to working on the game directly.
@@ -289,46 +329,223 @@ James Knight has been teaching Unity developers for 3+ years and has access to a
 
 Due to the technology choices and requirements of the prototype, juniors are able to develop effectively and autonomously.
 
-----
+✅ **Leveraging James Knight's specialization to produce a genre that is under supplied**\
+As seen in the [market-research](/market-research), the genres of Void Survivors is under supplied, specifically in the MMO genre.
 
-## Alpha Milestone
-The main goals of the alpha milestone are:
-🎯 community manager
-🎯 behavioral segmentation (Producer)
-🎯 demographic segmentation (Producer)
-
-### 👨‍👩‍👧 Team Roles
-* Producer
-
-* GDPR compliance
-* Bug reporting
-* Community Manager
-* Budding discord community
-* Devlogs
-* Testing with vision impairments, movement impairments
+James Knight has 8+ years working as an engineer, designer, and product manager for MMO game and technology development. This experience is highly leveraged during the development of Void Survivors.
 
 ----
 
-## Beta Milestone
-The main goals of the beta milestone are:
-🎯 Professional icon and cover art
-🎯 Trailer
-🎯 Sponsor one twitch 
+## ⛰️ Alpha Milestone
 
+The Alpha of Void Survivors requires more effort than an average project within this scope, as Void Survivors will use an in-house developed engine to achieve the design vision and accessibility requirements.
 
-### 👨‍👩‍👧 Team Roles
+The main goals of the Alpha milestone are:\
+🎯 To **deliver all major technology components** for the in-house game client, game server, and vital auxillary services.
+🎯 To produce a **horizontal slice**, ie a game experience that includes all main mechanics and the meta-game loop.
 
-* Refunds
-* Refund policies
-* Purchasing
-* Behavioral Segmentation Analytics
-* Geographic Segmentation Analytics
+**This milestone requires refinement which will be completed by the Producer role post completion of the Pre-Production milestone.**
 
 ----
 
-## Release Milestone
+## 📦 Alpha Key Deliverables
+
+### 📦 Web Game Client Core
+The web game client foundational technologies will be produced, which will be the player's interface to the game. Core features include Input, 3D Rendering, UI, AI simulation, and Animation.
+
+### 📦 Game Server Core
+The game server foundational technologies will be produced, which will handle networking between players, applying player actions to the game state, and synchronizing players.
+
+### 📦 Vital Auxillary Game Services
+Various game services will be used for the horizontal slice to allow for character progression and persistence. Specifically authentication, databases, and analytics will be used. See [technical direction](/technical-direction) for more infomation.
+
+### 📦 Horizontal Slice
+The horizontal slice focuses on delivering a full game experience, ie a game experience that includes all major features of the game including the meta game loop. Parts of the experience will have placeholder elements, including functionality and art. The horizontal slice will also extend on the vertical slice by extending the content and session length at the final release quality.
+
+See below for the features of the Alpha Build deliverable.
+
+----
+
+## 📦 Alpha Horizontal Slice Deliverable
+
+The **horizontal slice will** have the following features:\
+✅ A full [gameplay loop](design-direction.html#-gameplay-loop-) for a single team.\
+✅ Audio, music and sound effects.\
+✅ 10 minutes sessions, release version will be 15 minutes sessions.\
+✅ Up to 10 teams playing in different isolated sessions.\
+✅ Up to 50 concurrent players per team.\
+✅ Be web based, using in-house developed engine.\
+✅ Be playable on all primary platforms (Win, Linux, MacOSX, iPhone, Android).\
+✅ Be playable using all primary control schemes (Touch, Keyboard, Gamepad).\
+✅ Be playable on all targetted low-end devices.\
+✅ Allow inviting players to the team based on a QR code or link.\
+✅ A large constrained level.\
+✅ Have atleast 20 unique sanctuary props and final textures.\
+✅ Have 8 character classes implemented.\
+✅ Have 4 abilities for each class gained through gameloop.\
+✅ Have the final art for each of the character classes.\
+✅ Have 8 basic void creatures implemented, and 3 mini-bosses.\
+✅ Have 1 boss with telegraphed attacks implemented.\
+✅ Have the final art for each void creature and mini-boss.\
+✅ Be hosted in a public cloud provider within 2 unique regions.\
+✅ [Meta game loop](/design-direction) and character progression.\
+✅ User accounts, authentication, and persistence.\
+✅ Basic player analytics.
+
+The **horizontal slice will not** have the following features:\
+⭕ No support for solo players looking for a team.\
+⭕ No achievements, monetization, character customization.\
+⭕ No stacked abilities.\
+⭕ No streamed assets, all assets included in initial download.\
+⭕ No competitive statistics.
+
+----
+
+## 📅 Alpha Estimated Delivery Timeline
+The delivery of the above goals is estimated at **20 weeks from commencement**. Alpha will begin after the delivery of the Pre-Production milestone.
+
+----
+
+### 👨‍👩‍👧 Alpha Team Roles
+
+🚀 **Producer** : Part Time\
+👉 Refining Alpha, Beta, and Release milestones.\
+👉 Forming relationships with distribution partners.\
+👉 Tracking milestone delivery progress.\
+👉 Assigning and tracking reported bugs.\
+👉 Progressing financial plan goals.\
+👉 Conducting market segmentation and analysis.\
+👉 Executing user acquision and retention strategies.
+
+🔊 **Sound Designer** : Part Time\
+👉 Developing audio direction.\
+👉 Sourcing and developing music and sound effects.
+
+🏗️ **Prototype Game Developer** : Part Time\
+👉 Implement gameplay prototypes in Unity.\
+👉 Orchestrate playtesting of prototypes. \
+👉 Refine design direction based on playtest feedback.
+
+💭 **Game Developer** : Full Time\
+👉 Implement gameplay elements in alpha.\
+👉 Implement UI.\
+👉 Orchestrate playtesting.\
+👉 Refine design direction based on playtest feedback.
+
+🎨 **Artist** : Full Time\
+👉 Implement final art assets for the Alpha deliverable (characters, void creatures, environments).
+
+🔨 **Tool Developer** : Part Time\
+👉 Implement tools to increase productivity of developers.
+
+🧮 **Engine Programmer** : Full Time\
+👉 Implement game client core.\
+👉 Implement server client core.
+
+🧮 **Backend Programmer** : Part Time\
+👉 Implement and integrate auxillary services.
+
+----
+
+## ⛰️ Beta Milestone
+
+The main goals of the Beta milestone are:\
+🎯 To **complete all major gameplay systems** to a polished degree.\
+🎯 To **allow for monetizing** the game through the defined monetization strategies.\
+🎯 To **allow for live servicing** the game with infrequent disruption.\
+🎯 To **produce all final marketing materials** including icon and cover art.
+
+**This milestone requires refinement which will be completed by the Producer role during the Alpha Milestone.**
+
+----
+
+## 📦 Beta Key Deliverables
+
+### 📦 Auxillary Game Services
+Various game services will be used for the horizontal slice to allow for character progression and persistence. Specifically authentication, databases, and analytics will be used. See [technical direction](/technical-direction) for more infomation.
+
+### 📦 Early Access
+The horizontal slice focuses on delivering a full game experience, ie a game experience that includes all major features of the game including the meta game loop. Parts of the experience will have placeholder elements, including functionality and art. The horizontal slice will also extend on the vertical slice by extending the content and session length at the final release quality.
+
+See below for the features of the Alpha Build deliverable.
+
+----
+
+## 📦 Early Access Deliverable
+
+The **horizontal slice will** have the following features:\
+✅ Full 15 minute sessions.\
+✅ Up to 100 teams playing in different isolated sessions.\
+✅ Up to 100 concurrent players per team.\
+✅ Be playable on all primary platforms (Win, Linux, MacOSX, iPhone, Android).\
+✅ Be playable using all primary control schemes (Touch, Keyboard, Gamepad).\
+✅ Be playable on all targetted low-end devices.\
+✅ All main gameplay mechanics, including stacked abilities.\
+✅ Comepetitive statistics, including healing and damage.\
+✅ An open world that loops on itself.\
+✅ All release character classes implemented.\
+✅ Have 3 bosses with telegraphed attacks implemented.\
+✅ Be hosted in a public cloud provider within 3 unique regions.\
+✅ Payment processing and refund processes.\
+✅ Detailed player analytics.
+
+The **early access will not** have the following features:\
+⭕ No achievements.\
+⭕ No streamed assets, all assets included in initial download.
+
+----
+
+## 📅 Beta Estimated Delivery Timeline
+The delivery of the above goals is estimated at **26 weeks from commencement**. Beta will begin after the delivery of the Alpha milestone.
+
+----
+
+### 👨‍👩‍👧 Beta Team Roles
+
+🚀 **Producer** : Part Time\
+👉 Refining milestones.\
+👉 Negotiating distribution agreements via partners.\
+👉 Tracking milestone delivery progress.\
+👉 Assigning and tracking reported bugs.\
+👉 Progressing financial plan goals.\
+👉 Defining refund and customer support policies and mechanisms.\
+👉 Executing user acquision and retention strategies.
+
+🎨 **Marketing Materials Artist** : Part Time\
+👉 Producing icons.\
+👉 Producing splash and cover art.\
+👉 Producing early access trailer.
+
+👪 **Community Manager** : Part Time\
+👉 Moderating games' discord channel.\
+👉 Organizing events including playtests.\
+👉 Engaging with communities defined in [marketing plan](/marketing-and-release-plan).
+
+🔊 **Sound Designer** : Part Time\
+👉 Sourcing and developing music and sound effects.
+
+💭 **Game Developer** : Full Time\
+👉 Implement gameplay elements in alpha.\
+👉 Implement UI.\
+👉 Orchestrate playtesting.
+
+🎨 **Artist** : Full Time\
+👉 Implement final art assets for the Beta deliverable (characters, void creatures, environments).
+
+🔨 **Tool Developer** : Part Time\
+👉 Implement tools to increase productivity of developers.
+
+🧮 **Backend Programmer** : Full Time\
+👉 Implement and integrate auxillary services.
+
+----
+
+## ⛰️ Release Milestone
 The main goals of the release milestone are:
 🎯 
 🎯
 
 ### 👨‍👩‍👧 Team Roles
+
+----
+

@@ -23,7 +23,7 @@ This page contains the prototype and play instructions for the Void Survivors Pr
 ## Prototype Overview
 This Pre-Production prototype demonstrates the most core moment-to-moment gameplay of Void Survivors. It does not include many core features that will be present in the vertical slice, and is not performance optimized.
 
-Not Included in prototype:\
+Not included in the prototype:\
 ❌ Lose condition.\
 ❌ Multiplayer.\
 ❌ Gameplay loop.\
@@ -33,6 +33,8 @@ Not Included in prototype:\
 ❌ Abilities.\
 ❌ Mobile support.
 
+----
+
 ## 🖥️ Hardware Requirements
 🌐 A modern updated web browser (Safari, Chrome, Firefox, ...)
 
@@ -41,9 +43,13 @@ You can test your performance by playing on your web browser. If you suffer from
 * Dedicated GPU (Nvidia RTX 2060m or equivalent).
 * 4 core CPU at 2.3GHz.
 
+----
+
 ## ⌨️ Controls
 ⌨️ WASD : Movement.\
 🖱️ Left Button : For clicking UI.
+
+----
 
 ## ℹ️ Play Instructions
 There is no lose condition, so do not worry about having an inoptimal experience based on skill or hardware. Follow these instructions to have the intended experience of the prototype:
@@ -51,6 +57,8 @@ There is no lose condition, so do not worry about having an inoptimal experience
 2. Click the button ~10 times in the top right to spawn some friends! 
 3. Protect the sanctuary (the tree) from spawning invaders! Move around using WASD, your character will automatically attack.
 4. At the end of each wave note how many sanctuary points you have (bottom left), that would translate to currency for use in the meta game.
+
+----
 
 ## ▶️ [Click here to play](build/index.html){:target="_blank"}
 

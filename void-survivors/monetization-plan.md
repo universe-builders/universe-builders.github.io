@@ -91,4 +91,4 @@ Individuals in a group, or small teams may strategize, to purchase any missing b
 
 This allows players to exchange money for increased progress and status within their community.
 
-Boosts will be limited in their effectiveness, and not stackable. It is a slight advantage but is not a neccessity to progress.
+Boosts will be limited in their effectiveness, and not stackable. It is a slight advantage but is not a necessity to progress.

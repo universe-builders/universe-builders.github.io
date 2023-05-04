@@ -98,7 +98,7 @@ Games in this genre that inspire Void Survivors:
 * [Scarlet Tower](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
 
 ## Bullet-Heaven
-Void Survivors uses the main mechanics from the relatively new genre of 'Bullet-Heaven'. Bullet-Hell games are an old genre dating back to arcade titles where the player has to dodge patterns of incoming projectiles. Bullet-Heaven reverses this and the player is the source of a huge amount of projectiles which seek to destroy enemies. Players strive to make effecient patterns of attacks that defeat incoming invaders with all sorts of properties, such as large numbers, high health, and small collision regions. Bullet-Heaven games typically use Swarm-Defense mechanics.
+Void Survivors uses the main mechanics from the relatively new genre of 'Bullet-Heaven'. Bullet-Hell games are an old genre dating back to arcade titles where the player has to dodge patterns of incoming projectiles. Bullet-Heaven reverses this and the player is the source of a huge amount of projectiles which seek to destroy enemies. Players strive to make efficient patterns of attacks that defeat incoming invaders with all sorts of properties, such as large numbers, high health, and small collision regions. Bullet-Heaven games typically use Swarm-Defense mechanics.
 
 ![Realm of the mad god](images/rotmg.jpg)
 [Source: Youtube 'Kalle Gaming'](https://www.youtube.com/watch?v=sdstRmn3Y50)
@@ -131,7 +131,7 @@ The game should support as many people as possible, on as many devices as possib
 🔓 Highly device and OS accessible (Win, Mac, Linux, iPhone, Android).\
 🔓 No segregating of players based on experience, skill, or any other factors.\
 🔓 Allow anyone to join any team at any time, no exclusionary mechanics. \
-🔓 No textual communications, instead use pictoral and graphical communications.\
+🔓 No textual communications, instead use pictorial and graphical communications.\
 🔓 Modes of playing that allow low-skilled players and high-skilled players.\
 🔓 Modes of playing that allow for players to be support focused opposed to combat focused.\
 🔓 Low download requirements for low bandwidth tolerance.\
@@ -159,8 +159,8 @@ The game should be enjoyed in casual settings, it should be stress relieving rat
 🥳 Low learning curve, medium mastery curve. \
 🥳 Multi-taskable, allowing people to have split attention while playing. \
 🥳 Themes and enemies that are whimsical and light fantasy. \
-🥳 No gratiuitous violence, sexual or mature content. \
-🥳 No overly complicated or devisive content. \
+🥳 No gratuitous violence, sexual or mature content. \
+🥳 No overly complicated or divisive content. \
 🥳 Only positive reinforcement, never any punishments or penalties. \
 🥳 Allow people to disengage and re-engage at a whim with no penalties.
 
@@ -184,7 +184,7 @@ The game will be fast paced, ramping up quickly until a point of overwhelming th
 ![Player Motivations](images/player-motivations-1.png)
 [Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
 
-The choices for these primary motivations were informed by player psychology research conducted by [Quantic Foundry](https://quanticfoundry.com/), which provides a framework to relate player motivations. Specifically Coopereration🤝, Competition🏆, and Destruction🔥 motivations are all highly correlated - meaning a player motivated with one is highly likely to be motivated by the others.
+The choices for these primary motivations were informed by player psychology research conducted by [Quantic Foundry](https://quanticfoundry.com/), which provides a framework to relate player motivations. Specifically Cooperation🤝, Competition🏆, and Destruction🔥 motivations are all highly correlated - meaning a player motivated with one is highly likely to be motivated by the others.
 
 ### 💪 Secondary: Power
 In a 15 minute session players will rapidly progress in their class by obtaining abilities. In the metagame players can upgrade and empower their class by expending earned currency.
@@ -316,7 +316,7 @@ During a session the players'🧙 goal is to gain as much life essence🌿 as po
 
 Players are able to last longer by:
 1. Finding players🧙 to team up which adds more defenders🛡️ to the sanctuary🌱. Players can find other players by joining an existing team, by inviting them via a QR code or link🔗, or by finding them in the void.
-2. Gathering life essence🌿 from the sanctuary efficently by collecting it between waves of invaders and by living longer by avoiding taking damage💖 from invaders👹.
+2. Gathering life essence🌿 from the sanctuary efficiently by collecting it between waves of invaders and by living longer by avoiding taking damage💖 from invaders👹.
 3. Starting stronger💪 by upgrading character classes in the metagame using gained life essence🌿.
 
 ----
@@ -402,7 +402,7 @@ Poison bomb, Sticky bomb, Smoke bomb.
 ### 🔥 Elementalist : Medium Skill
 Elementalists are able absorb environmental effects, such as a fire spreading through the sanctuary which would reduce the life essence gained, and empower team mates with elemental damage.
 
-Elementalists will be on damage control, prioritizing the absorption of elemental effects to mitigate damage to the sanctuary. Once absorbed sufficent elemental essence, they can empower a team mate with it (such as lighting a Paladins sword on fire) allowing that team mate to inflict increased damage. This class is not combat focused and provides those who would find combat stressful a mode of playing.
+Elementalists will be on damage control, prioritizing the absorption of elemental effects to mitigate damage to the sanctuary. Once absorbed sufficient elemental essence, they can empower a team mate with it (such as lighting a Paladins sword on fire) allowing that team mate to inflict increased damage. This class is not combat focused and provides those who would find combat stressful a mode of playing.
 
 With upgrades, an elementalist can absorb elemental effects from invaders which results in their attacks not being empowered by elemental effects and thus reducing their impact on the sanctuary.
 

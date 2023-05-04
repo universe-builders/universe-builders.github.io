@@ -129,8 +129,8 @@ See below for the features of the Vertical Slice deliverable.
 ## 🪂 Pre-Production: De-risking development
 To de-risk development, the following will be completed:\
 💭 **Playtesting and iterating on gameplay prototypes** to ensure the intended experiences are being achieved.\
-🎨 **Generate and focus group testing concept art** to ensure it meets the art and accessibily targets.\
-🧮 **Stress test the web game client** on targetted low-end devices and **server engine** using load tests.\
+🎨 **Generate and focus group testing concept art** to ensure it meets the art and accessibility targets.\
+🧮 **Stress test the web game client** on targeted low-end devices and **server engine** using load tests.\
 🎮 **Test the vertical slice** on a range of devices and diverse range of people (skill, motivations).
 
 ----
@@ -158,7 +158,7 @@ The **vertical slice will** have the following features:\
 ✅ Be web based, using in-house developed engine.\
 ✅ Be playable on all primary platforms (Win, Linux, MacOSX, iPhone, Android).\
 ✅ Be playable using all primary control schemes (Touch, Keyboard, Gamepad).\
-✅ Be playable on all targetted low-end devices.\
+✅ Be playable on all targeted low-end devices.\
 ✅ Allow inviting players to the team based on a QR code or link.\
 ✅ A small constrained level.\
 ✅ Have the final art for the void environment.\
@@ -201,7 +201,7 @@ The following team members, and their responsibilities, will be active during th
   👉 Refine design direction based on playtest feedback.
 
 🎨 **Art Director** : 2 weeks\
-  👉 Define Color Pallette.\
+  👉 Define Color Palette.\
   👉 Define Concept Art deliverables.\
   👉 Provide direction and feedback to Concept Artist and UI Designer.
 
@@ -312,9 +312,9 @@ The prototype game designer can be undertaken by a junior level, as the technolo
 
 The art director will be a once off consultant, ideally with significant experience in setting an art direction.
 
-The concept artist, UI designer, and artist roles can be fulfilled by one person. If it is hard to find a person with all three skill sets, they can be seperated and contracted at different points in the development.
+The concept artist, UI designer, and artist roles can be fulfilled by one person. If it is hard to find a person with all three skill sets, they can be separated and contracted at different points in the development.
 
-The programming, tool development, and game development responsibilities will be undertaken by James Knight, which allows for an efficent development synergy of the engine, editor, and development frameworks. Future versions of these roles will be open for contractors and the technology will be in a stable and documented state to allow ease of onboarding and development. At this phase there needs to be a lot of decisions around architecture which requires an experience programmer, which James Knight will fulfill.
+The programming, tool development, and game development responsibilities will be undertaken by James Knight, which allows for an efficient development synergy of the engine, editor, and development frameworks. Future versions of these roles will be open for contractors and the technology will be in a stable and documented state to allow ease of onboarding and development. At this phase there needs to be a lot of decisions around architecture which requires an experience programmer, which James Knight will fulfill.
 
 ----
 
@@ -401,7 +401,7 @@ The web game client foundational technologies will be produced, which will be th
 The game server foundational technologies will be produced, which will handle networking between players, applying player actions to the game state, and synchronizing players.
 
 ### 📦 Vital auxiliary Game Services
-Various game services will be used for the horizontal slice to allow for character progression and persistence. Specifically authentication, databases, and analytics will be used. See [technical direction](/technical-direction) for more infomation.
+Various game services will be used for the horizontal slice to allow for character progression and persistence. Specifically authentication, databases, and analytics will be used. See [technical direction](/technical-direction) for more information.
 
 ### 📦 Horizontal Slice
 The horizontal slice focuses on delivering a full game experience, ie a game experience that includes all major features of the game including the meta game loop. Parts of the experience will have placeholder elements, including functionality and art. The horizontal slice will also extend on the vertical slice by extending the content and session length at the final release quality.
@@ -421,7 +421,7 @@ The **horizontal slice will** have the following features:\
 ✅ Be web based, using in-house developed engine.\
 ✅ Be playable on all primary platforms (Win, Linux, MacOSX, iPhone, Android).\
 ✅ Be playable using all primary control schemes (Touch, Keyboard, Gamepad).\
-✅ Be playable on all targetted low-end devices.\
+✅ Be playable on all targeted low-end devices.\
 ✅ Allow inviting players to the team based on a QR code or link.\
 ✅ A large constrained level.\
 ✅ Have atleast 20 unique sanctuary props and final textures.\
@@ -459,7 +459,7 @@ The delivery of the above goals is estimated at **20 weeks from commencement**. 
 👉 Assigning and tracking reported bugs.\
 👉 Progressing financial plan goals.\
 👉 Conducting market segmentation and analysis.\
-👉 Executing user acquision and retention strategies.
+👉 Executing user acquisition and retention strategies.
 
 🔊 **Sound Designer** : 2 weeks\
 👉 Developing audio direction.\
@@ -506,7 +506,7 @@ The main goals of the Beta milestone are:\
 ## 📦 Beta: Key Deliverables
 
 ### 📦 Auxiliary Game Services
-Various game services will be used for the horizontal slice to allow for character progression and persistence. Specifically authentication, databases, and analytics will be used. See [technical direction](/technical-direction) for more infomation.
+Various game services will be used for the horizontal slice to allow for character progression and persistence. Specifically authentication, databases, and analytics will be used. See [technical direction](/technical-direction) for more information.
 
 ### 📦 Early Access
 The horizontal slice focuses on delivering a full game experience, ie a game experience that includes all major features of the game including the meta game loop. Parts of the experience will have placeholder elements, including functionality and art. The horizontal slice will also extend on the vertical slice by extending the content and session length at the final release quality.
@@ -523,9 +523,9 @@ The **horizontal slice will** have the following features:\
 ✅ Up to 100 concurrent players per team.\
 ✅ Be playable on all primary platforms (Win, Linux, MacOSX, iPhone, Android).\
 ✅ Be playable using all primary control schemes (Touch, Keyboard, Gamepad).\
-✅ Be playable on all targetted low-end devices.\
+✅ Be playable on all targeted low-end devices.\
 ✅ All main gameplay mechanics, including stacked abilities.\
-✅ Comepetitive statistics, including healing and damage.\
+✅ Competitive statistics, including healing and damage.\
 ✅ An open world that loops on itself.\
 ✅ All release character classes implemented.\
 ✅ Have 3 bosses with telegraphed attacks implemented.\
@@ -553,7 +553,7 @@ The delivery of the above goals is estimated at **20 weeks from commencement**. 
 👉 Assigning and tracking reported bugs.\
 👉 Progressing financial plan goals.\
 👉 Defining refund and customer support policies and mechanisms.\
-👉 Executing user acquision and retention strategies.
+👉 Executing user acquisition and retention strategies.
 
 🎨 **Marketing Materials Artist** : 2 weeks\
 👉 Producing icons.\
@@ -608,7 +608,7 @@ The delivery of the above goals is estimated at **12 weeks from commencement**. 
 👉 Tracking milestone delivery progress.\
 👉 Assigning and tracking reported bugs.\
 👉 Progressing financial plan goals.\
-👉 Executing user acquision and retention strategies.
+👉 Executing user acquisition and retention strategies.
 
 👪 **Community Manager** : 6 weeks\
 👉 Moderating games' discord channel.\

@@ -7,7 +7,7 @@ has_children: true
 
 ### Overview
 
-**Void Survivors**\* is a free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against incresingly difficult waves of whimsical fantasy invaders.\
+**Void Survivors**\* is a free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against increasingly difficult waves of whimsical fantasy invaders.\
 \* _Working title_
 
 The game is currently in pre-production and solely being developed by Universe Builders, who are currently seeking funding to be able to complete the game.
@@ -87,12 +87,12 @@ See [Design Direction](design-direction) for more info.
 
 ### 📖 Story
 
-* Climate catastrophy rendered the world to an innert barren void.
+* Climate catastrophe rendered the world to an inert barren void.
 * Survivors band together to grow life in the void and provide sanctuary.
 * Void creatures of myth and legend seek to destroy all life and remove all sanctuaries.
 * The story will be delivered through level design opposed to direct means.
 * The game will allow for emergent storytelling to be created and shared within communities.
-* Pictoral/image based story delivery for accessibility.
+* Pictorial/image based story delivery for accessibility.
 
 See [Design Direction](narrative-direction) for more info.
 
@@ -117,7 +117,7 @@ See [Marketing and Release Plan](marketing-and-release-plan) for more info.
 
 ### 👪 Marketing Strategy
 
-The following user acquision strategies will be deployed:
+The following user acquisition strategies will be deployed:
 * Engage existing Discord gaming communities.
 * Engage players that enjoy Survivors-like genre.
 * Sponsor game streamers to play with their communities.

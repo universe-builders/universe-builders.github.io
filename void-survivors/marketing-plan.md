@@ -32,7 +32,7 @@ Psychographic segmentation is used to define personas which guide development an
 
 The community member is someone who is looking to socialize, interact, and fit in with a community. They want to feel integrated within community and are looking to cooperate and compete within it. They are open to new experiences as long as they are social in nature. They enjoy competitive and challenging situations where they can personally stand out in their community. They enjoy cooperating with a team to overcome challenges and achieve unique rewards.
 
-The community member plays on a low/mid powered PC, laptop, or mobile device. They are highely engaged in the voice chat or text chat of their community, preferring their community chat to an in-game chat, and aren't entirely focused on the game. They are skilled at video games and are familiar with traditional mechanics, input controls, and tropes.
+The community member plays on a low/mid powered PC, laptop, or mobile device. They are highly engaged in the voice chat or text chat of their community, preferring their community chat to an in-game chat, and aren't entirely focused on the game. They are skilled at video games and are familiar with traditional mechanics, input controls, and tropes.
 
 The community member likes achievements and status rewards which can be flaunted within their community, such as high scores and personal achievements.
 
@@ -52,7 +52,7 @@ The community organizer looks for games that are mechanics focused opposed to st
 
 The community organizer discovers games using filtering in Steam or similar app for cooperative, competitive, couch games, and other specific tags. They will consider a large number of games in their discovery and quickly determine appropriate games by looking at the marketing materials.
 
-The community organizer is willing to spend money on rewards that will benifit their entire team and on cosmetics which help themselves stand out from their community.
+The community organizer is willing to spend money on rewards that will benefit their entire team and on cosmetics which help themselves stand out from their community.
 
 ----
 
@@ -94,7 +94,7 @@ To be completed by the Producer in the Alpha milestone. See [Development Plan](d
 
 Behavioral Segmentation will be used in release to be better able to personalize recommendations based on player behavior. 
 
-eg A social player will be recommended to join large casual teams and purchase low skill requirement characters, whereas a competive player will be recommended to join a smaller more hardcore team and purchase high skill requirement characters.
+eg A social player will be recommended to join large casual teams and purchase low skill requirement characters, whereas a competitive player will be recommended to join a smaller more hardcore team and purchase high skill requirement characters.
 
 Player analytics will be gathered starting in the Alpha milestone through to Live and will allow driving behavioral segmentation.
 
@@ -116,11 +116,11 @@ To be completed by the Producer in the Alpha milestone. See [Development Plan](d
 
 ## 🗺️ Marketing Strategy
 
-Void Survivors allows players to join an existing game session by using a simple web browser link. The marketing strategy is focused on user acquisition by engaging with existing synchronous gaming communities to motivate community members to join existing sessions, start and share their own session, and eventually have the community provide a permanant session link. Further, the strategy focuses on user retention through the formation of a Discord server and an email list.
+Void Survivors allows players to join an existing game session by using a simple web browser link. The marketing strategy is focused on user acquisition by engaging with existing synchronous gaming communities to motivate community members to join existing sessions, start and share their own session, and eventually have the community provide a permanent session link. Further, the strategy focuses on user retention through the formation of a Discord server and an email list.
 
-The strategy focuses on syncrhonous game communities, ie Discord and Twitch, as opposed to asychronous forums such as Reddit or Facebook, as the optimal way the game is discovered is by players joining a link to a live session shared on a community they are a part of.
+The strategy focuses on synchronous game communities, ie Discord and Twitch, as opposed to asynchronous forums such as Reddit or Facebook, as the optimal way the game is discovered is by players joining a link to a live session shared on a community they are a part of.
 
-To achieve this, the following user acquision strategies will be deployed:
+To achieve this, the following user acquisition strategies will be deployed:
 * Engage existing Discord gaming communities.
 * Engage players that enjoy Survivors-like genre.
 * Sponsor game streamers to play with their communities.
@@ -143,7 +143,7 @@ Examples of existing Discord gaming communities:
 To achieve this, the following steps will be undertaken:
 1. Identify Discord gaming communities, join, and engage*.
 2. Occasionally post a link to an existing session, looking for online community members to join.
-3. Engage the community owners to post a permanant link to a session, this allows their community to be discovered by other players in game - increasing their community size.
+3. Engage the community owners to post a permanent link to a session, this allows their community to be discovered by other players in game - increasing their community size.
 
 *It's important to engage consistently and for a long period, as some communities have posting restrictions, which disallow new or inactive users from posting.
 
@@ -172,7 +172,7 @@ To achieve this strategy, streamers with small followings (~100 CCU) will be eng
 
 Ideally streamers with larger audiences will see a trend of smaller streamers engaging with Void Survivors, which motivates them to play and share with their stream.
 
-This strategy would benifit from financial investment. If no marketing budget is able to support this effort, then affiliation program's should be mature and accessible to execute this strategy without sponsorship.
+This strategy would benefit from financial investment. If no marketing budget is able to support this effort, then affiliation program's should be mature and accessible to execute this strategy without sponsorship.
 
 This strategy will be executed upon after the Release milestone.
 

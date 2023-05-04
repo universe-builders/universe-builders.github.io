@@ -37,7 +37,7 @@ The main genre of Void Survivors is MMO.
 ![Steam Genre Supply Demand](images/mmo-1.png)\
 [Source: VG Insights](https://vginsights.com/genre-analytics)
 
-MMO is the most undersupplied genre on Steam of all genre's categorized by VGI, which is to say that it has the fewest title releases of any genre.
+MMO is the most undersupplied genre on Steam of all genres categorized by VGI, which is to say that it has the fewest title releases of any genre.
 
 MMO's also have the highest average revenue on Steam (last 365 days):
 1. MMO: $3m
@@ -57,7 +57,7 @@ One of the sub-genres of Void Survivors is Action RPG.
 ![Steam Genre Supply Demand](images/rpg-1.png)
 [Source: VG Insights](https://vginsights.com/genre-analytics)
 
-RPG and Action, two of the pimrary sub-genre's of Void Survivors, are also in the top 3 of average revenue on Steam.
+RPG and Action, two of the primary sub-genres of Void Survivors, are also in the top 3 of average revenue on Steam.
 
 However Action games are the 3rd (of 9) most supplied genre on Steam, making it a highly congested market, and RPG are the 6th most supplied.
 
@@ -68,7 +68,7 @@ However Action games are the 3rd (of 9) most supplied genre on Steam, making it 
 ![Steam Genre Supply Demand](images/genre-supply-demand-dc.png)\
 [Source: VG Insights](https://vginsights.com/genre-analytics)
 
-The roguelite subgenre is slightly undersupplied and the two subgenre's most similar to Bullet-Heaven and Swarm-Defense, Dungeon Crawler and Hack and Slash, are both somewhat undersupplied. Both Bullet-Heaven and Swarm-Defense subgenres are not tracked by VGI.
+The roguelite subgenre is slightly undersupplied and the two subgenres most similar to Bullet-Heaven and Swarm-Defense, Dungeon Crawler and Hack and Slash, are both somewhat undersupplied. Both Bullet-Heaven and Swarm-Defense subgenres are not tracked by VGI.
 
 All four sub-genres sit in the top 30% of average revenue.
 
@@ -76,9 +76,9 @@ All four sub-genres sit in the top 30% of average revenue.
 
 There is a great opportunity for supplying games in the MMO genre, which is the main genre of Void Survivors. It is paired with three sub-genres which are undersupplied (Roguelite, Bullet-Heaven, Swarm-Defense), and one sub-genre that is oversupplied (Action).
 
-There is concern with action games being the third most popular genre on Steam as it may be hard to differentiate in that competitive market, especially when a lot of the game-loop of Void Survivors revolves around action. Action however is the largest market size of all the genre's of Void Survivors meaning the demand is high for the genre.
+There is concern with action games being the third most popular genre on Steam as it may be hard to differentiate in that competitive market, especially when a lot of the game-loop of Void Survivors revolves around action. Action however is the largest market size of all the genres of Void Survivors meaning the demand is high for the genre.
 
-Hack and slash, dungeon crawlers, and roguelikes all have a low average price compared to other genres (~$11.50). This may be an advantage as Void Survivors is a free-to-play game and players of these genre's expect to pay relatively low for those genres, but may be an indicator that players are willing to spend less and convert less into paying players.
+Hack and slash, dungeon crawlers, and roguelikes all have a low average price compared to other genres (~$11.50). This may be an advantage as Void Survivors is a free-to-play game and players of these genres expect to pay relatively low for those genres, but may be an indicator that players are willing to spend less and convert less into paying players.
 
 ----
 
@@ -215,7 +215,7 @@ Survivors-Like games tend to rank extremely highly in percentage of positive rev
 
 Survivors-Like games tend to sell extremely well, all three of the Survivors-Like games listed above are in the top 3% of lifetime gross revenue.
 
-Futher, there are few multiplayer Survivors-Like games and **no massively-multiplayer Survivors-like games**. The maximum number of players in a multiplayer Survivors-Like game is currently 2, in the game 'Bounty of One' which is in early access and follows the positive steam reviews (top 6% currently) and lifetime gross revenue (top 10% currently) trends seen in the aforementioned games.
+Further, there are few multiplayer Survivors-Like games and **no massively-multiplayer Survivors-like games**. The maximum number of players in a multiplayer Survivors-Like game is currently 2, in the game 'Bounty of One' which is in early access and follows the positive steam reviews (top 6% currently) and lifetime gross revenue (top 10% currently) trends seen in the aforementioned games.
 
 ## Final Analysis
 

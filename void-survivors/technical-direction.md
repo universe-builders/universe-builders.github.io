@@ -113,7 +113,7 @@ HTTP REST requests will be used for communication to various API's, such as auth
 ### 🖳 Language
 WebAssembly will be the language that will run on each player's device through the Web Browser. The team will use the C language to write logic which will then be transpiled into WebAssembly via the clang toolchain.
 
-The client engine is seperated into independent modules which include the core runtime engine and the game systems. Each game system is independently built and linked which allows for a quick iteration and runtime hot reloading when developing logic for a single system, opposed to needing build and reload the entire game.
+The client engine is separated into independent modules which include the core runtime engine and the game systems. Each game system is independently built and linked which allows for a quick iteration and runtime hot reloading when developing logic for a single system, opposed to needing build and reload the entire game.
 
 ### ❓ Why not use a pre-existing engine?
 There are many engines that export a builds to the web, such as Unity, UE4, and Godot, however all of those options fail to hit several of the technical goals and accessibility targets that this game desires.
@@ -145,7 +145,7 @@ See the Accessibility Plan for more information on how a custom engine allows us
 ### 🎮 Game Server
 Game servers will handle all non-client side interactions and ensuring the consistency of the simulation for all players. The game client will have a lot of authority regarding what events take place, such as whether a player was inflicted by damage, and the game server will do some light validation of these events. This poses the risk of players cheating, however as a cooperative game this will not have the exploitation rewards compared to a competitive game. The game server will flag any clear invalidations of the game rules which may result in a player being banned.
 
-The game server will be written in the C language and executed as binaries in the Alpine Linux OS inside of a container. Similar to the game client, each game system will be a seperate container and orchestrated seperately allowing for quick iteration speed in development and rolling updates to specific systems in production.
+The game server will be written in the C language and executed as binaries in the Alpine Linux OS inside of a container. Similar to the game client, each game system will be a separate container and orchestrated separately allowing for quick iteration speed in development and rolling updates to specific systems in production.
 
 Game servers will have authority over a single team and will handle migrating new teams as teams merge or seperate. As new teams form game servers will be horizontally scaled to account for the new team.
 
@@ -153,16 +153,16 @@ Game servers will be vertically scalable to account for a team changing in size 
 
 Game servers will be spatially distributed to allow players exploring the void to enter and exit them through moving in the game world.
 
-Once target devices have been identified, during development performance tests will continously be run to ensure that the devices have consistent and high performance. One route to raising performance is to offload computation to the game server. This will be done as a last-resort basis as more computation will cause scalability and cost efficency issues in production.
+Once target devices have been identified, during development performance tests will continuously be run to ensure that the devices have consistent and high performance. One route to raising performance is to offload computation to the game server. This will be done as a last-resort basis as more computation will cause scalability and cost efficiency issues in production.
 
-James Knight has worked on these types of spatially distributed game servers at 3 seperate MMO development companies over his career, and is competent in being able to architect and implement them.
+James Knight has worked on these types of spatially distributed game servers at 3 separate MMO development companies over his career, and is competent in being able to architect and implement them.
 
 ### 📦 Orchestration
-Kubernetes will serve as the orchestrator for all the game servers and in-house developed auxillary services. Kubernetes was chosen as it allows for ease of deployment to any cloud provider (AWS, Google Cloud, Azure, ...) and reduces the need for cloud services during the development period as each developer can run a Kubernetes cluser on their local machine via Docker Desktop.
+Kubernetes will serve as the orchestrator for all the game servers and in-house developed auxiliary services. Kubernetes was chosen as it allows for ease of deployment to any cloud provider (AWS, Google Cloud, Azure, ...) and reduces the need for cloud services during the development period as each developer can run a Kubernetes cluster on their local machine via Docker Desktop.
 
 Kubernetes supports auto-scaling, with strong integration with all major cloud providers, which will be highly leveraged during the live operation of the game to converse expenditure and scale up to support a spontaneous influx in players.
 
-### 🐕‍🦺 Auxillary Services
+### 🐕‍🦺 Auxiliary Services
 The game will require a set of services which are readily provided by existing game service providers (Epic Games, Unity, ...) or cloud providers. These services will ideally be leveraged rather than built in-house, to reduce development costs.
 
 Such services include:
@@ -178,7 +178,7 @@ Such services include:
 * CI/CD pipeline
 
 ### 🖼️ Content Delivery
-The game client will be delivered using the common mechanisms for delivering websites, using a CDN at the edge. This client will contain the most common and required assets (Models, textures, ...). To reduce the size of the initial client download, most assets will be downloaded on demand as required. These will be delivered using a seperate CDN optimized for streaming on-demand binary assets.
+The game client will be delivered using the common mechanisms for delivering websites, using a CDN at the edge. This client will contain the most common and required assets (Models, textures, ...). To reduce the size of the initial client download, most assets will be downloaded on demand as required. These will be delivered using a separate CDN optimized for streaming on-demand binary assets.
 
 ### ☁️ Hosting
-The backend will be distributed amongst atleast one cloud provider, potentially one for the kubernetes deployment and atleast one for the auxillary services. AWS is the likely candidate as their costing structure seems to be most efficent for this project, and they are providing free credits and support to this project through the Australian Games Tech group.
+The backend will be distributed amongst atleast one cloud provider, potentially one for the kubernetes deployment and atleast one for the auxiliary services. AWS is the likely candidate as their costing structure seems to be most efficent for this project, and they are providing free credits and support to this project through the Australian Games Tech group.

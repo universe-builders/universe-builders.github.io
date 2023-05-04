@@ -60,16 +60,16 @@ One barrier that is incredibly frustrating for players, is when two players have
 
 The design of Void Survivors strongly considered how to present a game that feels like a native experience regardless of whether you are playing on a touch interface mobile device, on a laptop with a keypad, or on a desktop with a gamepad.
 
-The design process included excluding mechanics that wouldn't be accessible on certain devices, such as precise targetting mechanics on touch devices, and distilling the UI to be appropriate on large and small screens.
+The design process included excluding mechanics that wouldn't be accessible on certain devices, such as precise targeting mechanics on touch devices, and distilling the UI to be appropriate on large and small screens.
 
 The choice of technologies ensured that we are able to successfully produce a game that can run effectively on a large set of devices and inputs, specifically by choosing Web as the target platform and investing in custom technology to optimize for it.
 
-The devices that Void Survivors will be avilable on are MacOSX, Linux, Windows, iPhone, and Android.
+The devices that Void Survivors will be available on are MacOSX, Linux, Windows, iPhone, and Android.
 
 ----
 
 ## 👍 Low-powered device accessibility plan
-More than 54% of the world's mobile and laptop devices are considered to be low-powered, offering a small CPU, integrated GPU, and low battery life. This is proportionally higher in low-socio economic area's, such as in developing countries and remote communities, where an estimated 84% of devices are considered to be low-powered.
+More than 54% of the world's mobile and laptop devices are considered to be low-powered, offering a small CPU, integrated GPU, and low battery life. This is proportionally higher in low-socio economic areas, such as in developing countries and remote communities, where an estimated 84% of devices are considered to be low-powered.
 
 To support low-powered devices (low CPU, GPU, and battery life) common in low socio-economic environments it is vital to make the game as efficient as possible on those devices.
 
@@ -127,7 +127,7 @@ Games frequently segregate players based on skill levels through explicit means 
 
 The foremost way that Void Survivors allows players of different skill levels and motivations to play together is by offering a range of character classes that have different play styles and skill level requirements. For example the Healer class can be played with low skill level and in a purely team support way, as they are motivated away from combat and towards groups of players. This class is ideal for players that do not want to engage in the stress of combat and for low-skill players.
 
-In contrast the Rogue class is recommended to have high skill level and for players wanting an action oriented combat experience, as it requires environmental awareness, is combat focused, and to play effectively requires strategic risk taking.
+In contrast the Rogue class is recommended to have a high skill level and for players wanting an action oriented combat experience, as it requires environmental awareness, is combat focused, and to play effectively requires strategic risk taking.
 
 Having this wide range of skill level accessibility means that players can choose a class that suits them at a particular point in time, and allows players with little experience to be impactful and valuable to a team.
 

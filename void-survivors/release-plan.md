@@ -63,7 +63,7 @@ This same tactic will apply to aligned companies like Stream Labs, Stream Legend
 
 60 days before the release of the game we are going to hype up our community, talk to our partners and organize promotions with all partners. 
 
-Our goal during this stage is to get wishlists on Steam and to get people engaging with the store page before we go live. It is highly correlated that wishlists results in higher likelyhood on being on the new and trending (as well as providing pre-orders). 
+Our goal during this stage is to get wishlists on Steam and to get people engaging with the store page before we go live. It is highly correlated that wishlists results in higher likelihood on being on the new and trending (as well as providing pre-orders). 
 
 ----
 

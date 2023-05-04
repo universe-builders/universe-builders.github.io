@@ -39,7 +39,7 @@ Void Survivors should support as many people as possible, on as many devices as 
 ### 🔥 Destruction
 Void Survivors has a primary player motivation for destruction, ie explosions, flashy visual effects, objects being smashed apart, and general mayhem.
 
-🎆 All objects should be destructable and breakable, in a performant manner.\
+🎆 All objects should be destructible and breakable, in a performant manner.\
 🎆 Particle effects and other VFX should be highly leveraged.
 
 ### 📍 Low Fidelity
@@ -48,7 +48,7 @@ The simulation of Void Survivors is lower fidelity than many action titles, spec
 The art style should reinforce this this. As detailed in the 'Kingdoms and Castles' postmortem, players expect higher fidelity simulation the higher fidelity the graphics are. Kingdoms and Castles chose a very low-fidelity art style to match their low-fidelity simulation, and received critical and commercial success.
 
 ![Kingdoms and castles](images/KC-Swineherd.webp)
-[Kingdoms and castles postmorem (GDC Vault)](https://www.gdcvault.com/play/1025678/-Kingdoms-and-Castles)
+[Kingdoms and castles postmortem (GDC Vault)](https://www.gdcvault.com/play/1025678/-Kingdoms-and-Castles)
 
 ### 🐲 Fantastical
 Void Survivors is set in an environment that is whimsical and light hearted. It avoids heavy themes, horror elements, and realism. Players should get a sense of wonder and delight in the environment and elements within Void Survivors. The combat will be highly stylized and not use gore, blood, or any other violent themes.
@@ -66,7 +66,7 @@ To reinforce the art pillars, these sections define more specific direction to b
 ### 👉 Voxel based models
 Voxel based models are highly compressible compared to typical triangle based meshes, allowing for a huge amount of content to be transmitted to clients with a small amount of bandwidth.
 
-Voxel models are easily procedurally destructable compared to typical triangle based meshes. This is achieved simply by adding force to the cubes in the voxel mesh allowing for explosions and other effects - compared to a typical triangle based mesh destruction system that requires definition of fragments which has a production and asset size overhead.
+Voxel models are easily procedurally destructible compared to typical triangle based meshes. This is achieved simply by adding force to the cubes in the voxel mesh allowing for explosions and other effects - compared to a typical triangle based mesh destruction system that requires definition of fragments which has a production and asset size overhead.
 
 Voxel based models are low fidelity, reinforcing the low fidelity nature of the simulation.
 

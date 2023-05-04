@@ -22,22 +22,22 @@ This page defines the story, theme, and narrative direction for Void Survivors.
 
 ## Story Summary
 
-* A climate catastrophy rendered the world to an innert barren void.
+* A climate catastrophe rendered the world to an inert barren void.
 * Survivors band together to grow life in the void and provide sanctuary to others.
 * Void creatures of myth and legend seek to destroy all life and all sanctuaries.
 * The story will be delivered through level design opposed to direct means.
 * The game will allow for emergent storytelling to be created and shared within communities.
-* Pictoral/image based story delivery for accessibility.
+* Pictorial/image based story delivery for accessibility.
 
 ----
 
 ## Story
 
-Global climate catastrophy struck the world after years of unbridled exploitation and negligence by the inhabitants. All records of the civilization, all progress and infrastructure, was reduced to ash. The only lingering reminder that the civilization existed are the occasional ashen remains of people stuck in the time when the catastrophy occured.
+Global climate catastrophe struck the world after years of unbridled exploitation and negligence by the inhabitants. All records of the civilization, all progress and infrastructure, was reduced to ash. The only lingering reminder that the civilization existed are the occasional ashen remains of people stuck in the time when the catastrophe occurred.
 
-Few survived the catastrophy and are confronted with an inert barren void replacing the industrius civilization before it. Those that did survive find themselves with an ability to summon life into the desolate void. These survivors bring hope for the world to return to a natural haven filled with the wonders of life.
+Few survived the catastrophe and are confronted with an inert barren void replacing the industrious civilization before it. Those that did survive find themselves with an ability to summon life into the desolate void. These survivors bring hope for the world to return to a natural haven filled with the wonders of life.
 
-Survivors band together to spread life in the void and provide sanctuary to all those that happen upon it. However, these sanctuary builders are not the only inhabitants within this new world. Attracted to life, like a moth to a flame, are void dwelling creatures of myth and legend. These void creatures contain the rage of the catastrophy and have an unrelenting desire to rid the world of all life.
+Survivors band together to spread life in the void and provide sanctuary to all those that happen upon it. However, these sanctuary builders are not the only inhabitants within this new world. Attracted to life, like a moth to a flame, are void dwelling creatures of myth and legend. These void creatures contain the rage of the catastrophe and have an unrelenting desire to rid the world of all life.
 
 Perhaps if enough survivors band together, the void creatures can be subdued and a sanctuary grown which replaces the void with the natural haven the world used to know.
 
@@ -45,7 +45,7 @@ Perhaps if enough survivors band together, the void creatures can be subdued and
 
 ## Why tell this story now?
 
-This is a story which resonates with the feeling of helplessness that people feel in the face of climate change and ecosystem degredation on Earth. 
+This is a story which resonates with the feeling of helplessness that people feel in the face of climate change and ecosystem degradation on Earth. 
 
 It inspires people through the promise that with enough people collaborating and contributing, the world can be saved and be a sanctuary for all. Only through inaction will the perpetuate and remain.
 
@@ -70,7 +70,7 @@ Any story elements that are delivered directly will be delivered pictorially thr
 ![Pompei](images/pompeii-1.avif)\
 ![Pompei](images/pompeii-2.jpg)\
 ![Pompei](images/pompeii-3.webp)\
-[Source: Pompei History Online](https://www.pompeionline.net/en/archaeological-park-of-pompeii/history-of-pompeii)
+[Source: Pompeii History Online](https://www.pompeionline.net/en/archaeological-park-of-pompeii/history-of-pompeii)
 
 
 ### The void in 'Shadow and Bone'

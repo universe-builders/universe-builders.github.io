@@ -1,6 +1,6 @@
 ---
 title: 🎤 Pitch Deck
-parent: Void Survivors
+parent: None
 layout: default
 nav_order: 11
 ---

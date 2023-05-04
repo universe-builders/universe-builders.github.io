@@ -5,11 +5,21 @@ layout: default
 nav_order: 1
 ---
 
+Universe Builders currently has one full time developer, James Knight, and is supported by a network of passionate and skilled developers who contributed to the application documents of Void Survivors.
+
+Those people include:
+* Michael Kerkow, a veteran game design with over 10 years experience in game design and development.
+* Dylan Knight, a marketing expert who has helped successfully market digital products of all sorts.
+
+----
+
 # James Knight
 🏠 Melbourne, Australia.\
 📧 [jk@universe.builders](mailto:jk@universe.builders){:target="_blank"}\
 📞 [0450215144](tel:+61450215144){:target="_blank"}\
 📇 [LinkedIn](https://www.linkedin.com/in/jamesknightgd/){:target="_blank"}
+
+<iframe width="920" height="518" src="https://www.youtube.com/embed/cp6cpmKnE_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bio
 James Knight is a lifelong multiplayer and MMO ~~addict~~ fan, having played almost every MMO and most online multiplayer games, and has dedicated his entire career to working with the most innovative multiplayer game and technology developers in the industry. 

@@ -71,7 +71,7 @@ The devices that Void Survivors will be avilable on are MacOSX, Linux, Windows, 
 ## 👍 Low-powered device accessibility plan
 More than 54% of the world's mobile and laptop devices are considered to be low-powered, offering a small CPU, integrated GPU, and low battery life. This is proportionally higher in low-socio economic area's, such as in developing countries and remote communities, where an estimated 84% of devices are considered to be low-powered.
 
-To support low-powered devices (low CPU, GPU, and battery life) common in low socio-economic environments it is vital to make the game as efficent as possible on those devices.
+To support low-powered devices (low CPU, GPU, and battery life) common in low socio-economic environments it is vital to make the game as efficient as possible on those devices.
 
 This was a strong consideration in the choosing of the game genre and mechanics, eg:
 * the art style is a highly-optimizable voxel representation, ideal for small GPUs
@@ -122,7 +122,7 @@ These approaches allow for a highly tolerant networking environment where users 
 
 ----
 
-## 👍 Skill level and gameplat motivations accessibility plan
+## 👍 Skill level and gameplay motivations accessibility plan
 Games frequently segregate players based on skill levels through explicit means of matchmaking or by implicit means of content difficulty. Further, games commonly force players into situations that may be stressful, regardless of the role they choose, such as combat or player-vs-player environments. Universe Builders strives to make games that have no exclusionary or segregation mechanics to allow a large range of skill levels and player motivations access to our games.
 
 The foremost way that Void Survivors allows players of different skill levels and motivations to play together is by offering a range of character classes that have different play styles and skill level requirements. For example the Healer class can be played with low skill level and in a purely team support way, as they are motivated away from combat and towards groups of players. This class is ideal for players that do not want to engage in the stress of combat and for low-skill players.

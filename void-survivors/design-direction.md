@@ -250,14 +250,6 @@ At the start of each session, a character has only the default abilities and gai
 ### 🙏 Stacked abilities
 When a player uses an ability, such as an area based heal, other players will have the opportunity to stack their ability on top of it. This allows for stronger abilities that are only possible with numerous collaborating team mates. For example, an area based heal that has numerous stacks will have a wider area of effect and healing potency.
 
-These mechanics reinforce
-
-* Spawning life everywhere the player treds and it grows as they stay in one area
-* Leader is larger and more powerful proportional to their team size
-  * Neuroticism for streamers
-* Statues for tracking progression
-* 
-
 ----
 
 ## 🌀 Gameplay Loop 🌀
@@ -453,9 +445,6 @@ Area sanctuary growth, Grow giant carnivorous plant, Grow giant defensive plant.
 ## 🗺️ Level Design
 
 The world is a giant void, a barren dark and misty landscape, filled with the shadowy remains of previously defeated players. There are no definable landmarks or areas that provide uniqueness, instead that comes about during the growth of the sanctuary. The void has little level design and content requirements.
-
-![Void thematic art](images/8b355f808337f941abc447ecdab6cf61.jpg)
-[Source: World Anvil](https://www.worldanvil.com)
 
 The sanctuary will dynamically grow the longer it lasts which will spawn all sorts of obstacles in the form of fauna which the players can use to their advantage when fighting invaders. These obstacles will be procedurally spawned based on a small set of rules.
 

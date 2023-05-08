@@ -5,6 +5,8 @@ layout: default
 nav_order: 36
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1axMQn9g7NfP2Na3QGdVMfKjaB2o8JFf2/view?usp=sharing){:target="_blank"}
+
 This page defines the plan for developing Void Survivors to be accessible to as many people as possible.
 
 ----

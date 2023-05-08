@@ -5,6 +5,8 @@ layout: default
 nav_order: 22
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1j4C0GntzgvCGrO5Fe0WOHhaFmh-z5zDQ/view?usp=share_link){:target="_blank"}
+
 This page defines the story, theme, and narrative direction for Void Survivors.
 
 ----

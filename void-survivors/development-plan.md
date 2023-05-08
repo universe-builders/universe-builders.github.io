@@ -5,6 +5,8 @@ layout: default
 nav_order: 31
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1t8EyEzl9tsK6k6muiSfyJCAwGCdf7JJR/view?usp=share_link){:target="_blank"}
+
 This page defines the plan for developing Void Survivors, including milestones, schedules, and roles.
 
 This document is a WIP and will be iterated upon during the Pre-Production of the game's development.

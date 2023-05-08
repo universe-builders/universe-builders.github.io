@@ -5,6 +5,8 @@ layout: default
 nav_order: 20
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1BBNWpVsm4e3QDdv6AYa73m8CPtalLHuP/view?usp=share_link){:target="_blank"}
+
 This page defines the direction of the design for the game Void Survivors.
 
 This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game's development as ideas are tested and validated in playtests. See [Development Plan](development-plan) for more info.

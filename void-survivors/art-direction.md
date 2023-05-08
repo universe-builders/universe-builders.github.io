@@ -5,6 +5,8 @@ layout: default
 nav_order: 21
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1xmhk_yKOjroGagh_N4ODs6epWY_t-fqJ/view?usp=share_link){:target="_blank"}
+
 This page defines the direction of the art for the game Void Survivors.
 
 This document is a WIP and will be completed in the Pre-Production phase of development. See [Development Plan](development-plan) for more info.

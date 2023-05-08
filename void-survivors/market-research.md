@@ -5,6 +5,8 @@ layout: default
 nav_order: 34
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1gyt9fdwvsCzIW67_DT8pr1GmYXkABUOL/view?usp=share_link){:target="_blank"}
+
 This page contains the market research performed on the genre of Void Survivors to understand the viability of the game in the market.
 
 ----

@@ -5,6 +5,8 @@ layout: default
 nav_order: 32
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1q4LXgWaipcv_7HktZ-MvFGw3RIDVfsjf/view?usp=share_link){:target="_blank"}
+
 This page defines the marketing and release plan for the game Void Survivors.
 
 This document is a WIP and will be iterated upon during the Pre-Production, and Alpha phases of the game's development.

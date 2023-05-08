@@ -5,6 +5,8 @@ layout: default
 nav_order: 35
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1tvzD-tjYyYJ_Q3Zu0EsAP5qSr7didOZ5/view?usp=share_link){:target="_blank"}
+
 This page defines the plan for monetizing Void Survivors.
 
 ----

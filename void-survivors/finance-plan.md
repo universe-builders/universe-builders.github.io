@@ -5,6 +5,8 @@ layout: default
 nav_order: 32
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/18fg-fpSo-stuLFwFuKRKp9xULb1bJ9HY/view?usp=share_link){:target="_blank"}
+
 This page defines the estimated costs for development and production of Void Survivors, and the finance plan to achieve funding.
 
 ----
@@ -165,12 +167,12 @@ Time: 32 weeks\
 Estimated Expense: $48,640 at $40/hr\
 (Note: This expense is reduced compared to market rates because James Knight will be undertaking this role at a reduced rate for the entirety of this project.)
 
-🔨 **Tool Developer**\ 
+🔨 **Tool Developer**\
 Level: Junior/Mid (Web Developer)\
 Time: 12 weeks\
 Estimated Expense: $18,240 at $40/hr
 
-🚀 **Producer**\ 
+🚀 **Producer**\
 Level: Mid\
 Time: 20 weeks\
 Estimated Expense: $38,000 at $50/hr

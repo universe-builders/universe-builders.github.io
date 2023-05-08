@@ -5,6 +5,8 @@ layout: default
 nav_order: 24
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1u9RiAqK1hNUim5VCZJAsQBAZufXUP28w/view?usp=share_link){:target="_blank"}
+
 This page defines the direction of the technology (Engine, Content Pipeline, Multiplayer Servers, ...) used to develop and deploy the game Void Survivors.
 
 This document is a WIP and will be iterated upon during the Pre-Production phase of the game's development.

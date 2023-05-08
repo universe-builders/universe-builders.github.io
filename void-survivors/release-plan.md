@@ -5,6 +5,8 @@ layout: default
 nav_order: 33
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/110JEfkJEpMwJbzaC50xXn5sHZERu8fOR/view?usp=share_link){:target="_blank"}
+
 This page defines the release plan for Void Survivors.
 
 ----

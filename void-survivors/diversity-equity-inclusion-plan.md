@@ -5,6 +5,8 @@ layout: default
 nav_order: 36
 ---
 
+[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/156AEHowGWlRBDWl_UiCaTKhu4RAmj5ZU/view?usp=share_link){:target="_blank"}
+
 This page defines the DE&I plan for the Void Survivors project.
 
 ----

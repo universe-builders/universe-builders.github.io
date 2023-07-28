@@ -32,17 +32,7 @@ This document contains the funding opportunities and finance plan for Void Survi
 
 This project is eligible for grants from various organizations. Including the following:
 * Screen Australia Games Expansion: up to $150K
-* Screen Victoria Digital Games: up to $500K
-* Creative Victoria Creators Fund: $39K
 * Australia Council Arts Projects: $41K
-
-**The Creative Victoria Creators Fund has been applied for**, with aspirations to fund R&D activities which will form the technologies for the game client, and will reduce the cost for the project by ~$30K.
-
-**The Australia Council Arts Project had been applied for**, with aspirations to fund creative exploration in social game design mechanics that pertain to this project, and will reduce the cost for the project by ~$35K.
-
-**The Screen Australia Games Expansion Fund has been applied for**, with aspirations that it could provide $150K in funding, which will allow a far easier application to Screen Victoria and will provide funding up until the Alpha milestone.
-
-**The Screen Victoria Digital Games Fund has been applied for**, with aspirations that it could initially provide funding for the Pre-Production milestone. It will be applied for again to aspirationally fund a further milestone.
 
 ----
 

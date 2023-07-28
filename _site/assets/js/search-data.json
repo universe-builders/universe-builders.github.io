@@ -505,7 +505,7 @@
   },"72": {
     "doc": "🏦 Finance Plan",
     "title": "Grant Funding Opportunities",
-    "content": "This project is eligible for grants from various organizations. Including the following: . | Screen Australia Games Expansion: up to $150K | Screen Victoria Digital Games: up to $500K | Creative Victoria Creators Fund: $39K | Australia Council Arts Projects: $41K | . The Creative Victoria Creators Fund has been applied for, with aspirations to fund R&amp;D activities which will form the technologies for the game client, and will reduce the cost for the project by ~$30K. The Australia Council Arts Project had been applied for, with aspirations to fund creative exploration in social game design mechanics that pertain to this project, and will reduce the cost for the project by ~$35K. The Screen Australia Games Expansion Fund has been applied for, with aspirations that it could provide $150K in funding, which will allow a far easier application to Screen Victoria and will provide funding up until the Alpha milestone. The Screen Victoria Digital Games Fund has been applied for, with aspirations that it could initially provide funding for the Pre-Production milestone. It will be applied for again to aspirationally fund a further milestone. ",
+    "content": "This project is eligible for grants from various organizations. Including the following: . | Screen Australia Games Expansion: up to $150K | Australia Council Arts Projects: $41K | . ",
     "url": "/void-survivors/finance-plan.html#grant-funding-opportunities",
     
     "relUrl": "/void-survivors/finance-plan.html#grant-funding-opportunities"
@@ -596,7 +596,7 @@
   },"85": {
     "doc": "Home",
     "title": "Home",
-    "content": "Universe Builders is a game development studio located in Melbourne Australia focusing on the development of loneliness-busting and community-building hyper accessible massively multi-player games for the Web, Mobile, Windows, Linux, and PC. Universe Builders is currently seeking funding for their first title - Void Survivors. Check out all the documentation for Void Survivors here . ",
+    "content": "Universe Builders is a game development studio located in Sunshine Coast Australia focusing on the development of loneliness-busting and community-building hyper accessible massively multi-player games for the Web, Mobile, Windows, Linux, and PC. Universe Builders is currently seeking funding for their first title - Void Survivors. Check out all the documentation for Void Survivors here . ",
     "url": "/",
     
     "relUrl": "/"
@@ -869,7 +869,7 @@
   },"124": {
     "doc": "👪 Team",
     "title": "James Knight",
-    "content": "🏠 Melbourne, Australia. 📧 jk@universe.builders 📞 0450215144 📇 LinkedIn . ",
+    "content": "🏠 Sunshine Coast, Australia. 📧 jk@universe.builders 📞 0450215144 📇 LinkedIn . ",
     "url": "/void-survivors/team.html#james-knight",
     
     "relUrl": "/void-survivors/team.html#james-knight"

@@ -16,7 +16,7 @@ Those people include:
 ----
 
 # James Knight
-🏠 Melbourne, Australia.\
+🏠 Sunshine Coast, Australia.\
 📧 [jk@universe.builders](mailto:jk@universe.builders){:target="_blank"}\
 📞 [0450215144](tel:+61450215144){:target="_blank"}\
 📇 [LinkedIn](https://www.linkedin.com/in/jamesknightgd/){:target="_blank"}

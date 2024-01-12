@@ -19,8 +19,8 @@ import { mat2, mat2d, mat3, mat4, quat, quat2, vec2, vec3, vec4, glMatrix } from
  */
 export default async function initializeAxisProgram(db, gl) {
 	// Load shaders.
-	const vertexShaderSource = await (await fetch("/eros/source/shaders/axis.vert") ).text();
-	const fragmentShaderSource = await (await fetch("/eros/source/shaders/axis.frag") ).text();
+	const vertexShaderSource = await (await fetch("/sprint0/eros/source/shaders/axis.vert") ).text();
+	const fragmentShaderSource = await (await fetch("/sprint0/eros/source/shaders/axis.frag") ).text();
 
 	// Create program.
 	db.program = webglUtils.createProgramFromSources(gl, [vertexShaderSource, fragmentShaderSource]);

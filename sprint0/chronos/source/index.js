@@ -124,7 +124,7 @@ async function main() {
 	db.previousFrameEndMS = performance.now();
 	
 	db.roomModel = {};
-	await loadMagickaVoxelModel(db.roomModel, "/chronos/models/dungeon.vox");
+	await loadMagickaVoxelModel(db.roomModel, "/sprint0/chronos/models/dungeon.vox");
 
 	console.log(db.roomModel)
 

@@ -19,8 +19,8 @@
 export default async function initializeVoxelProgram(db, gl) {
 	
 	/* LOAD SHADERS */
-	const vertexShaderSource = await (await fetch("../../eros/source/shaders/voxel.vert")).text();
-	const fragmentShaderSource = await (await fetch("../../eros/source/shaders/voxel.frag")).text();
+	const vertexShaderSource = await (await fetch("/sprint0/eros/source/shaders/voxel.vert")).text();
+	const fragmentShaderSource = await (await fetch("/sprint0/eros/source/shaders/voxel.frag")).text();
 
 	/* CREATE PROGRAM */
 	db.program = webglUtils.createProgramFromSources(gl, [vertexShaderSource, fragmentShaderSource]);

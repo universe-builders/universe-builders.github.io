@@ -11,7 +11,6 @@ has_children: true
 
 ### Overview
 
-Test
 
 **Void Survivors**\* is a free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against increasingly difficult waves of whimsical fantasy invaders.\
 \* _Working title_

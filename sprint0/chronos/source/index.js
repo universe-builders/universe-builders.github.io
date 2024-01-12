@@ -106,7 +106,7 @@ async function main() {
 	
 	initializeInput(db.input);
 
-	await wasmLoad(db, "/falacer/build/main.wasm");
+	await wasmLoad(db, "../../falacer/build/main.wasm");
 	db.heapBase = db.module.__heap_base.value;
 	db.memoryDataView = new DataView(db.memory.buffer, 0);
 

@@ -9,6 +9,7 @@ import initializeAxisProgram from "./programs/axis/initialize.js";
  * @property {import("./programs/voxel/initialize.js").VoxelProgram} voxelProgram - the voxel program.
  * @property {AxisProgram} axisProgram - the axis program.
  * @property {mat4} projection - the projection matrix.
+ * 
  */
 
 /**

@@ -5,10 +5,6 @@ nav_order: 5
 has_children: true
 ---
 
-[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1q9IrD9OqvKFj7--irNd7IWUQ29jwT-Wx/view?usp=share_link){:target="_blank"}
-
-----
-
 ### Overview
 
 

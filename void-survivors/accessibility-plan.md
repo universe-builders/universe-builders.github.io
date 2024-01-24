@@ -47,7 +47,7 @@ These extensions also allow our developers to simulate vision impairments to tes
 
 As identified in our development plan, we will receive advice from access consultants and test the games with vision impaired individuals at several stages of the project.
 
-A list of extensions for helping with vision impairments is available by [Color Blind Awareness Org](https://colorblindawareness.org/chrome-extensions/).
+A list of extensions for helping with vision impairments is available by Color Blind Awareness Org: https://colorblindawareness.org/chrome-extensions/.
 
 ----
 

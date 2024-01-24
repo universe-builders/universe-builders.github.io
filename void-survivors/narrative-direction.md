@@ -66,7 +66,7 @@ Any story elements that are delivered directly will be delivered pictorially thr
 ![Pompei](images/pompeii-1.avif)\
 ![Pompei](images/pompeii-2.jpg)\
 ![Pompei](images/pompeii-3.webp)\
-[Source: Pompeii History Online](https://www.pompeionline.net/en/archaeological-park-of-pompeii/history-of-pompeii)
+Source: Pompeii History Online (https://www.pompeionline.net/en/archaeological-park-of-pompeii/history-of-pompeii)
 
 
 ### The void in 'Shadow and Bone'
@@ -74,17 +74,17 @@ Any story elements that are delivered directly will be delivered pictorially thr
 ![Shadow and bone](images/shadow-and-bone-1.webp)\
 ![Shadow and bone](images/shadow-and-bone-2.avif)\
 ![Shadow and bone](images/shadow-and-bone-3.webp)\
-[Source: Shadow and bone (Netflix)](https://www.netflix.com/title/80236319)
+Source: Shadow and bone (Netflix) (https://www.netflix.com/title/80236319)
 
 ### Terra Nil
 
 ![Terra Nil](images/terra-nil-1.webp)\
 ![Terra Nil](images/terra-nil-2.webp)\
 ![Terra Nil](images/terra-nil-3.jpg)\
-[Source: Terra Nil](https://store.steampowered.com/app/1593030/Terra_Nil/)
+Source: Terra Nil (https://store.steampowered.com/app/1593030/Terra_Nil/)
 
 ### Hyper Light Drifter
 
 ![Hyper Light Drifter](images/hyper-light-drifer-1.webp)\
 ![Hyper Light Drifter](images/hyper-light-drifter-2.jpg)\
-[Source: Hyper Light Drifter](https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)
+Source: Hyper Light Drifter (https://store.steampowered.com/app/257850/Hyper_Light_Drifter/)

@@ -54,21 +54,21 @@ Sub Genres: Action RPG, Roguelite, Survivors-Like (Bullet-Heaven, Swarm-Defense)
 Void Survivors is an online game playable with hundreds of other people on your team. It aims to band people together in large teams and is easily sharable and joinable, via a QR core or link and played on a web browser with no installation.
 
 ![World of Warcraft - 40 person Raids](images/wow.jpg)
-[Source: Youtube 'Bodomi'](https://www.youtube.com/watch?v=zKNG4w06ySQ)
+Source: Youtube 'Bodomi' (https://www.youtube.com/watch?v=zKNG4w06ySQ)
 
 Games in this genre that inspire Void Survivors: 
-* [World of Warcraft - 40 person Raids](https://youtu.be/UwVNpHaFhUI?t=2470)
+* World of Warcraft - 40 person Raids (https://youtu.be/UwVNpHaFhUI?t=2470)
 
 ### Action RPG
 Void Survivors is an action game where teams will defend against waves of invaders from destroying their sanctuary🌱. Players use auto-attacks and a variety of abilities to defeat invaders.
 
 ![World of Warcraft - 40 person Raids](images/tiny-rogues.jpg)
-[Source: Steam](https://store.steampowered.com/app/2088570/Tiny_Rogues/)
+Source: Steam (https://store.steampowered.com/app/2088570/Tiny_Rogues/)
 
 Games in this genre that inspire Void Survivors: 
-* [Tiny Rogues](https://www.youtube.com/watch?v=i2e20khN7PQ)
-* [Soulstone Survivors](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
-* [Real of the Mad God](https://www.youtube.com/watch?v=WqyVr1zP2X8)
+* Tiny Rogues (https://www.youtube.com/watch?v=i2e20khN7PQ)
+* Soulstone Survivors (https://www.youtube.com/watch?v=DzzP5qbYrrQ)
+* Real of the Mad God (https://www.youtube.com/watch?v=WqyVr1zP2X8)
 
 ### Roguelite
 Void Survivors has many random elements which make it a rogue-like in nature. Specifically:
@@ -77,11 +77,11 @@ Void Survivors has many random elements which make it a rogue-like in nature. Sp
 * The type of invaders👹 that are spawned are randomly chosen and are designed to be complementary to each other, causing a large variation of combinations. Each wave provides different and more challenging invaders.
 
 ![World of Warcraft - 40 person Raids](images/skelly-selest.jpg)
-[Source: Nintendo Life](https://www.nintendolife.com/news/2019/05/skelly_selest_brings_fast-paced_arena_battling_to_switch_this_month)
+Source: Nintendo Life (https://www.nintendolife.com/news/2019/05/skelly_selest_brings_fast-paced_arena_battling_to_switch_this_month)
 
 Games in this genre that inspire Void Survivors: 
-* [Skelly Selest](https://www.youtube.com/watch?v=82Xa3WS1cK8)
-* [Enter the gungeon](https://www.youtube.com/watch?v=ryQpA86ZC8U)
+* Skelly Selest (https://www.youtube.com/watch?v=82Xa3WS1cK8)
+* Enter the gungeon (https://www.youtube.com/watch?v=ryQpA86ZC8U)
 
 ## Survivors-Like
 Void Survivors takes a lot of gameplay inspiration from the 2022 indie megahit 'Vampire Survivors' and the dozens of Survivors-Like games that have been released since, such as Soulstone Survivors and Brotato.
@@ -89,32 +89,32 @@ Void Survivors takes a lot of gameplay inspiration from the 2022 indie megahit '
 Survivors-Like combines two sub-genres, Bullet-Heaven and Swarm-Defense.
 
 ![Vampire Survivors](images/vampiresurvivors7.webp)
-[Source: Rock Paper Shotgun](https://www.rockpapershotgun.com/vampire-survivors-early-access-review)
+Source: Rock Paper Shotgun (https://www.rockpapershotgun.com/vampire-survivors-early-access-review)
 
 Games in this genre that inspire Void Survivors: 
-* [Vampire Survivors](https://www.youtube.com/watch?v=6HXNxWbRgsg)
-* [Soulstone Survivors](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
-* [Brotato](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
-* [Scarlet Tower](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
+* Vampire Survivors (https://www.youtube.com/watch?v=6HXNxWbRgsg)
+* Soulstone Survivors (https://www.youtube.com/watch?v=DzzP5qbYrrQ)
+* Brotato (https://www.youtube.com/watch?v=DzzP5qbYrrQ)
+* Scarlet Tower (https://www.youtube.com/watch?v=DzzP5qbYrrQ)
 
 ## Bullet-Heaven
 Void Survivors uses the main mechanics from the relatively new genre of 'Bullet-Heaven'. Bullet-Hell games are an old genre dating back to arcade titles where the player has to dodge patterns of incoming projectiles. Bullet-Heaven reverses this and the player is the source of a huge amount of projectiles which seek to destroy enemies. Players strive to make efficient patterns of attacks that defeat incoming invaders with all sorts of properties, such as large numbers, high health, and small collision regions. Bullet-Heaven games typically use Swarm-Defense mechanics.
 
 ![Realm of the mad god](images/rotmg.jpg)
-[Source: Youtube 'Kalle Gaming'](https://www.youtube.com/watch?v=sdstRmn3Y50)
+Source: Youtube 'Kalle Gaming' (https://www.youtube.com/watch?v=sdstRmn3Y50)
 
 Games in this genre that inspire Void Survivors: 
-* [Realm of the Mad God](https://www.youtube.com/watch?v=WqyVr1zP2X8)
+* Realm of the Mad God (https://www.youtube.com/watch?v=WqyVr1zP2X8)
 
 ## Swarm-Defense
 Void Survivors has players defend their sanctuary from waves of hundreds of invaders. Invaders spawn together in large swarms of simplistic intelligence, similar to what you'd expect of a zombie horde, with a variety of harder more dangerous individualistic invaders which has players deploy tactics to defeat those.
 
 ![Age of Darkness](images/age-of-darkness.jpg)
-[Source: PC Games N](https://www.pcgamesn.com/age-of-darkness-final-stand/early-access-preview)
+Source: PC Games N (https://www.pcgamesn.com/age-of-darkness-final-stand/early-access-preview)
 
 Games in this genre that inspire Void Survivors: 
-* [Age of Darkness](https://www.youtube.com/watch?v=19vbwbLArUE)
-* [They are Billions](https://www.youtube.com/watch?v=QX1rPWPN4DI)
+* Age of Darkness (https://www.youtube.com/watch?v=19vbwbLArUE)
+* They are Billions (https://www.youtube.com/watch?v=QX1rPWPN4DI)
 
 ----
 
@@ -182,9 +182,9 @@ The combat will cause over the top destruction (explosions, mayhem) to the envir
 The game will be fast paced, ramping up quickly until a point of overwhelming the player. It will be full of surprises and intense moments, eg when massive waves of enemies or specifically threatening enemies spawn "There's a dragon!!! Watch out everyone!!". Players should walk away from a 15 minute session feeling thrilled.
 
 ![Player Motivations](images/player-motivations-1.png)
-[Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
+Source: Quantic Foundry (https://quanticfoundry.com/#motivation-model)
 
-The choices for these primary motivations were informed by player psychology research conducted by [Quantic Foundry](https://quanticfoundry.com/), which provides a framework to relate player motivations. Specifically Cooperation🤝, Competition🏆, and Destruction🔥 motivations are all highly correlated - meaning a player motivated with one is highly likely to be motivated by the others.
+The choices for these primary motivations were informed by player psychology research conducted by Quantic Foundry (https://quanticfoundry.com/), which provides a framework to relate player motivations. Specifically Cooperation🤝, Competition🏆, and Destruction🔥 motivations are all highly correlated - meaning a player motivated with one is highly likely to be motivated by the others.
 
 ### 💪 Secondary: Power
 In a 15 minute session players will rapidly progress in their class by obtaining abilities. In the metagame players can upgrade and empower their class by expending earned currency.
@@ -199,7 +199,7 @@ Players will be able to discover a variety of unique and different environments,
 Players will be able to customize their characters using meta game progression and through in-app purchases as part of the monetization strategy. See [Monetization Plan](monetization-plan) for more info.
 
 ![Player Motivations](images/player-motivations-2.png)
-[Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
+Source: Quantic Foundry (https://quanticfoundry.com/#motivation-model)
 
 ### 🙅‍♂️ Motivations not focused on
 
@@ -211,7 +211,7 @@ The game will **not** focus on the following player motivations:
 * **Fantasy/Story**: The game will not focus on allowing roleplaying of characters, nor will it invest highly in level design with rich dynamic storytelling, or in portraying a deep story through use of characters. The game a strong atmospheric theme and the stories generated in the game should be emergent and created, shared, and told by communities as opposed to being told to players through the game.
 
 ![Player Motivations](images/player-motivations-3.png)
-[Source: Quantic Foundry](https://quanticfoundry.com/#motivation-model)
+Source: Quantic Foundry (https://quanticfoundry.com/#motivation-model)
 
 ----
 

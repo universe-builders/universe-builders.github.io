@@ -239,13 +239,13 @@ Swarm Defense, Bullet Heaven, MMO, Multiplayer, Cooperative, Touch screen suppor
 ### 👉 Gameplay Inspirations
 
 ### Bullet Heaven
-* [Vampire Survivors](https://www.youtube.com/watch?v=6HXNxWbRgsg)
-* [Soulstone Survivors](https://www.youtube.com/watch?v=DzzP5qbYrrQ)
-* [Real of the Mad God](https://www.youtube.com/watch?v=WqyVr1zP2X8)
+* Vampire Survivors (https://www.youtube.com/watch?v=6HXNxWbRgsg)
+* Soulstone Survivors (https://www.youtube.com/watch?v=DzzP5qbYrrQ)
+* Real of the Mad God (https://www.youtube.com/watch?v=WqyVr1zP2X8)
 
 ### Swarm Defense
-* [Age of Darkness](https://www.youtube.com/watch?v=19vbwbLArUE)
-* [They are Billions](https://www.youtube.com/watch?v=QX1rPWPN4DI)
+* Age of Darkness (https://www.youtube.com/watch?v=19vbwbLArUE)
+* They are Billions (https://www.youtube.com/watch?v=QX1rPWPN4DI)
 
 ### MMO
-* [World of Warcraft - Raids](https://youtu.be/UwVNpHaFhUI?t=2470)
+* World of Warcraft - Raids (https://youtu.be/UwVNpHaFhUI?t=2470)

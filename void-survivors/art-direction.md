@@ -44,8 +44,7 @@ The simulation of Void Survivors is lower fidelity than many action titles, spec
 The art style should reinforce this this. As detailed in the 'Kingdoms and Castles' postmortem, players expect higher fidelity simulation the higher fidelity the graphics are. Kingdoms and Castles chose a very low-fidelity art style to match their low-fidelity simulation, and received critical and commercial success.
 
 ![Kingdoms and castles](images/KC-Swineherd.webp)
-[Kingdoms and castles postmortem (GDC Vault)](https://www.gdcvault.com/play/1025678/-Kingdoms-and-Castles)
-
+Kingdoms and castles postmortem (GDC Vault): https://www.gdcvault.com/play/1025678/-Kingdoms-and-Castles
 ### 🐲 Fantastical
 Void Survivors is set in an environment that is whimsical and light hearted. It avoids heavy themes, horror elements, and realism. Players should get a sense of wonder and delight in the environment and elements within Void Survivors. The combat will be highly stylized and not use gore, blood, or any other violent themes.
 
@@ -69,13 +68,13 @@ Voxel based models are low fidelity, reinforcing the low fidelity nature of the 
 The following reference images demonstrate voxel based meshes in games.
 
 ![1](images/voxel-1.jpg)\
-[Source: Stone Hearth](https://store.steampowered.com/app/253250/Stonehearth/)
+Source: Stone Hearth (https://store.steampowered.com/app/253250/Stonehearth/)
 ![1](images/voxel-2.png)\
-[Source: Stone Hearth](https://store.steampowered.com/app/253250/Stonehearth/)
+Source: Stone Hearth (https://store.steampowered.com/app/253250/Stonehearth/)
 ![1](images/voxel-3.jpg)\
-[Source: Minecraft](https://www.minecraft.net/en-us)
+Source: Minecraft (https://www.minecraft.net/en-us)
 ![1](images/voxel-4.webp)\
-[Source: Minecraft](https://www.minecraft.net/en-us)
+Source: Minecraft (https://www.minecraft.net/en-us)
 
 ### 👉 Isometric View
 Having an isometric view allows for higher device accessibility and control scheme, as well as performance optimizations.
@@ -89,11 +88,11 @@ Having a fixed isometric view, opposed to a perspective camera, allows for optim
 The following reference images demonstrate the isometric viewpoint.
 
 ![1](images/iso-1.jpg)\
-[Source: Team Porcupine](https://github.com/TeamPorcupine/ProjectPorcupine/issues/1081)
+Source: Team Porcupine (https://github.com/TeamPorcupine/ProjectPorcupine/issues/1081)
 ![1](images/iso-2.webp)\
-[Source: Wakfu](https://mmorpg.gg/best-isometric-mmos/)
+Source: Wakfu (https://mmorpg.gg/best-isometric-mmos/)
 ![1](images/iso-3.png)\
-[Source: Unity](https://docs.unity3d.com/Manual/Quickstart2DPerspective.html)
+Source: Unity (https://docs.unity3d.com/Manual/Quickstart2DPerspective.html)
 
 ### 👉 Flat World
 Having a flat world, with no terrain altitude, allows for simpler controls and world generation.
@@ -105,11 +104,11 @@ A flat world makes Void Survivors far more accessible from a control scheme stan
 The following reference images demonstrate flat worlds.
 
 ![1](images/flag-1.jpg)\
-[Source: Kingdoms and castles](https://www.gdcvault.com/play/1025678/-Kingdoms-and-Castles)
+Source: Kingdoms and castles (https://www.gdcvault.com/play/1025678/-Kingdoms-and-Castles)
 ![1](images/flat-2.png)\
-[Source: Age of Empires](https://www.gdcvault.com/play/1025678/-Kingdoms-and-Castles)
+Source: Age of Empires (https://www.gdcvault.com/play/1025678/-Kingdoms-and-Castles)
 ![1](images/flat-3.jpg)\
-[Source: The Fertile Crescent](https://docs.unity3d.com/Manual/Quickstart2DPerspective.html)
+Source: The Fertile Crescent (https://docs.unity3d.com/Manual/Quickstart2DPerspective.html)
 
 ### 👉 Desaturated colors and highlighted elements
 There will be a large number of players and invaders on screen at once and it's important to remove cluttering from the screen.
@@ -121,17 +120,17 @@ There are damaging elements in Void Survivors that should be clear to the player
 The following reference images demonstrate desaturated colors of elements except for a few key elements that should draw the players attention.
 
 ![1](art-reference/3gxZJvcnv9CiS8Q8f8Nt5d.jpg)\
-[Source: Deaths Door](https://store.steampowered.com/app/894020/Deaths_Door/)
+Source: Deaths Door (https://store.steampowered.com/app/894020/Deaths_Door/)
 ![1](art-reference/Screenshot%202023-03-12%20132848.png)\
-[Source: Deaths Door](https://store.steampowered.com/app/894020/Deaths_Door/)
+Source: Deaths Door (https://store.steampowered.com/app/894020/Deaths_Door/)
 ![1](art-reference/ss_5fc49d3c5fa34b0d0e6b6a5621f9062bec7ac4d7.1920x1080.jpg)\
-[Source: Tunic](https://steamcommunity.com/app/553420)
+Source: Tunic (https://steamcommunity.com/app/553420)
 ![1](art-reference/hades_06jpg.webp)\
-[Source: Hades](https://store.steampowered.com/app/1145360/Hades/)
+Source: Hades (https://store.steampowered.com/app/1145360/Hades/)
 ![1](art-reference/ss_0893ef2bd93d4e9e2138006424d088523a5daecd.1920x1080.jpg)\
-[Source: Enter the gungeon](https://store.steampowered.com/app/311690/Enter_the_Gungeon/)
+Source: Enter the gungeon (https://store.steampowered.com/app/311690/Enter_the_Gungeon/)
 ![1](art-reference/20201020172914_1.webp)\
-[Source: Hades](https://store.steampowered.com/app/1145360/Hades/)
+Source: Hades (https://store.steampowered.com/app/1145360/Hades/)
 
 ### 👉 Flat Colors with gradients
 To minimize on the assets required to play Void Survivors, textural elements should be used sparingly. Instead,flat colors and gradients, which can be encoded in a very small amount of mathematical code, should be used. 
@@ -143,29 +142,29 @@ Flat colors make it easier to customize for visual impairments, and preferences 
 The following reference images demonstrate games that use flat colors with gradients and sparingly use textual elements.
 
 ![1](art-reference/ss_83e57d823ecb8559cd3c70cef500b33d4b841787.1920x1080.jpg)\
-[Source: Deaths Door](https://store.steampowered.com/app/894020/Deaths_Door/)
+Source: Deaths Door (https://store.steampowered.com/app/894020/Deaths_Door/)
 ![1](art-reference/ss_b4ab5328b2ab7b7d09451fee1b273f36bfc9a788.1920x1080.jpg)\
-[Source: Cube World](https://store.steampowered.com/app/1128000/Cube_World/)
+Source: Cube World (https://store.steampowered.com/app/1128000/Cube_World/)
 ![1](art-reference/cube-world.webp)\
-[Source: Cube World](https://store.steampowered.com/app/1128000/Cube_World/)
+Source: Cube World (https://store.steampowered.com/app/1128000/Cube_World/)
 ![1](art-reference/ss_edad47b83a2bffd907deee00b2ac548449614fa2.1920x1080.jpg)\
-[Source: Stone Hearth](https://store.steampowered.com/app/253250/Stonehearth/)
+Source: Stone Hearth (https://store.steampowered.com/app/253250/Stonehearth/)
 ![1](art-reference/Tunic-Games-Culture.webp)\
-[Source: Tunic](https://steamcommunity.com/app/553420)
+Source: Tunic (https://steamcommunity.com/app/553420)
 ![1](art-reference/3JwcQaj7LZ8dUvnEGqauYk.jpg)\
-[Source: Tunic](https://steamcommunity.com/app/553420)
+Source: Tunic (https://steamcommunity.com/app/553420)
 ![1](art-reference/calder-moore-isoswamp-small.jpg)\
-[Source: Calder Moore - Artstation](https://www.artstation.com/caldermoore/prints?print_type=art_poster)
+Source: Calder Moore - Artstation (https://www.artstation.com/caldermoore/prints?print_type=art_poster)
 ![1](art-reference/Screenshot%202023-02-26%20161758.png)\
-[Source: Minecraft Dungeons](https://store.steampowered.com/app/1672970/Minecraft_Dungeons/)
+Source: Minecraft Dungeons (https://store.steampowered.com/app/1672970/Minecraft_Dungeons/)
 ![1](art-reference/Screenshot%202023-02-26%20161838.png)\
-[Source: Minecraft Dungeons](https://store.steampowered.com/app/1672970/Minecraft_Dungeons/)
+Source: Minecraft Dungeons (https://store.steampowered.com/app/1672970/Minecraft_Dungeons/)
 ![1](art-reference/20190909215607_1.jpg)\
-[Source: Unrailed](https://store.steampowered.com/app/1016920/Unrailed/)
+Source: Unrailed (https://store.steampowered.com/app/1016920/Unrailed/)
 ![1](art-reference/Screenshot%202023-03-12%20170932.png)\
-[Source: Calder Moore - Artstation](https://www.artstation.com/caldermoore/prints?print_type=art_poster)
+Source: Calder Moore - Artstation (https://www.artstation.com/caldermoore/prints?print_type=art_poster)
 ![1](art-reference/stonehearth_blacksmith_render_by_pandemictyler_d8sdebl-fullview.jpg)\
-[Source: Stone Hearth](https://store.steampowered.com/app/253250/Stonehearth/)
+Source: Stone Hearth (https://store.steampowered.com/app/253250/Stonehearth/)
 
 ### 👉 Soft lighting and shadows
 Void Survivors is set in a fantasy environment that is whimsical and light hearted. To reinforce this, soft lighting and shadows should be used as opposed to realistic simulation of lighting and shadows.
@@ -173,15 +172,15 @@ Void Survivors is set in a fantasy environment that is whimsical and light heart
 The following reference images demonstrate soft lighting and shadows.
 
 ![1](art-reference/Deaths-Door-screen-5.jpg)\
-[Source: Deaths Door](https://store.steampowered.com/app/894020/Deaths_Door/)
+Source: Deaths Door (https://store.steampowered.com/app/894020/Deaths_Door/)
 ![1](art-reference/deaths-door3.webp)\
-[Source: Deaths Door](https://store.steampowered.com/app/894020/Deaths_Door/)
+Source: Deaths Door  (https://store.steampowered.com/app/894020/Deaths_Door/)
 ![1](art-reference/imrs.jpg)\
-[Source: Hades](https://store.steampowered.com/app/1145360/Hades/)
+Source: Hades (https://store.steampowered.com/app/1145360/Hades/)
 ![1](art-reference/maxresdefault.jpg)\
-[Source: Tunic](https://steamcommunity.com/app/553420)
+Source: Tunic (https://steamcommunity.com/app/553420)
 ![1](art-reference/082221.webp)
-[Source: Tunic](https://steamcommunity.com/app/553420)
+Source: Tunic (https://steamcommunity.com/app/553420)
 
 ### 👉 Stylized Textures
 Void Survivors is set in a fantasy environment that is whimsical and light hearted. To reinforce this, stylized and handpainted textures should be used opposed to realistic textures.
@@ -189,11 +188,11 @@ Void Survivors is set in a fantasy environment that is whimsical and light heart
 The following reference images demonstrate stylized handpainted textures and elements.
 
 ![1](art-reference/andrii-tuzenko-7%20-%20Copy.jpg)\
-[Source: Andrii Tuzenko - Artstation](https://www.artstation.com/andrii_tuzenko)
+Source: Andrii Tuzenko - Artstation (https://www.artstation.com/andrii_tuzenko)
 ![1](art-reference/castle_town__casual__isometric__low_poly__by_aaagameartstudio_de28gsa-pre.jpg)\
-[Source: Andrii Tuzenko - Artstation](https://www.artstation.com/andrii_tuzenko)
+Source: Andrii Tuzenko - Artstation (https://www.artstation.com/andrii_tuzenko)
 ![1](art-reference/sephiroth-art-golem-1600.jpg)
-[Source: Sephiroth Art - Artstation](https://www.artstation.com/sephirothart)
+Source: Sephiroth Art - Artstation (https://www.artstation.com/sephirothart)
 
 ### 👉 Character limbs aren't attached
 Having characters limbs (hands, feet) not be attached to their torso allows for a far simpler key-frame animation system which is computationally less expensive, easier to produce assets for, and requires less bandwidth to transmit animated assets.
@@ -201,7 +200,7 @@ Having characters limbs (hands, feet) not be attached to their torso allows for 
 The following reference images demonstrate models without their limbs attached.
 
 ![1](art-reference/swamp1-1425665136.avif)\
-[Source: Stone Hearth](https://store.steampowered.com/app/253250/Stonehearth/)
+Source: Stone Hearth (https://store.steampowered.com/app/253250/Stonehearth/)
 
 ----
 

@@ -31,7 +31,7 @@ The main genre of Void Survivors is MMO.
 
 ![Steam Genre Supply Demand](images/genre-supply-demand.png)\
 ![Steam Genre Supply Demand](images/mmo-1.png)\
-[Source: VG Insights](https://vginsights.com/genre-analytics)
+Source: VG Insights (https://vginsights.com/genre-analytics)
 
 MMO is the most undersupplied genre on Steam of all genres categorized by VGI, which is to say that it has the fewest title releases of any genre.
 
@@ -51,7 +51,7 @@ One of the sub-genres of Void Survivors is Action RPG.
 
 ![Steam Genre Supply Demand](images/genre-supply-demand-rpg.png)
 ![Steam Genre Supply Demand](images/rpg-1.png)
-[Source: VG Insights](https://vginsights.com/genre-analytics)
+Source: VG Insights (https://vginsights.com/genre-analytics)
 
 RPG and Action, two of the primary sub-genres of Void Survivors, are also in the top 3 of average revenue on Steam.
 
@@ -62,7 +62,7 @@ However Action games are the 3rd (of 9) most supplied genre on Steam, making it 
 ![Steam Genre Supply Demand](images/genre-supply-demand-roguelite.png)
 ![Steam Genre Supply Demand](images/genre-supply-demand-hnslash.png)
 ![Steam Genre Supply Demand](images/genre-supply-demand-dc.png)\
-[Source: VG Insights](https://vginsights.com/genre-analytics)
+Source: VG Insights (https://vginsights.com/genre-analytics)
 
 The roguelite subgenre is slightly undersupplied and the two subgenres most similar to Bullet-Heaven and Swarm-Defense, Dungeon Crawler and Hack and Slash, are both somewhat undersupplied. Both Bullet-Heaven and Swarm-Defense subgenres are not tracked by VGI.
 
@@ -87,12 +87,12 @@ The following games are releases in the Survivors-Like genre.
 ### Vampire Survivors
 
 ![Vampire Survivors](images/vs-0.jpg)\
-[Source: Forbes](https://www.forbes.com/sites/paultassi/2022/11/14/goty-sleeper-pick-vampire-survivors-is-the-best-deal-in-gaming-this-year-at-5/)
+Source: Forbes (https://www.forbes.com/sites/paultassi/2022/11/14/goty-sleeper-pick-vampire-survivors-is-the-best-deal-in-gaming-this-year-at-5/)
 
 ![Vampire Survivors Stats](images/vs-1.png)
 ![Vampire Survivors Stats](images/vs-2.png)
 ![Vampire Survivors Stats](images/vs-3.png)\
-[Source: VG Insights](https://vginsights.com/game/1794680)
+Source: VG Insights (https://vginsights.com/game/1794680)
 
 Vampire Survivors has been a massive success critically, winning the BAFTA for best game of the year and the DICE award for best action game of the year, and commercially, having made ~$16m USD during since October 2022 in game sales.
 
@@ -102,14 +102,14 @@ Since it's release there have been over 30 titles released on Steam in the Survi
 
 ![Vampire Survivors Stats](images/vs-4.png)\
 ![Vampire Survivors Stats](images/vs-5.png)\
-[Source: VG Insights](https://vginsights.com/game/1794680)
+Source: VG Insights (https://vginsights.com/game/1794680)
 
 Vampire Survivors has had a steady stream of sales since it's release. It has had major bumps in CCU with DLC releases, and continues to attract a large audience every day with it's current active daily peak about 90% of that of it's launch active daily peak.
 
 ## 20 minutes till dawn
 
 ![20 minutes till dawn](images/20m-t-d-0.jpg)\
-[Source: Steam](https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/)
+Source: Steam (https://store.steampowered.com/app/1966900/20_Minutes_Till_Dawn/)
 
 20 minutes till dawn is a Survivors-Like game released ~5 months after Vampire Survivors.
 
@@ -129,7 +129,7 @@ gitGraph
 ![20 minutes till dawn Stats](images/20m-t-d-1.png)\
 ![20 minutes till dawn Stats](images/20m-t-d-2.png)\
 ![20 minutes till dawn Stats](images/20m-t-d-3.png)\
-[Source: VG Insights](https://vginsights.com/game/1966900)
+Source: VG Insights (https://vginsights.com/game/1966900)
 
 20 minutes till dawn has had great critical success, in the top 1% of Steam games for positive reviews, and commercial success, ~$1.7m USD in games sold and in top 3% for gross revenue. 
 
@@ -142,7 +142,7 @@ It still has a consistent player base with ~450 daily players, in the top 500 of
 Brotato is a Survivors-Like game released ~8 months after Vampire Survivors.
 
 ![Brotato](images/bt-0.jpg)\
-[Source: Voxel Smash](https://voxelsmash.com/brotato-release-date/)
+Source: Voxel Smash (https://voxelsmash.com/brotato-release-date/)
 
 ```mermaid
 %%{init: {'theme':'forest', 'gitGraph': {'showBranches': false}, 'themeVariables': {
@@ -161,7 +161,7 @@ gitGraph
 ![Brotato Stats](images/bt-1.png)
 ![Brotato Stats](images/bt-2.png)
 ![Brotato Stats](images/bt-3.png)\
-[Source: VG Insights](https://vginsights.com/game/1942280)
+Source: VG Insights (https://vginsights.com/game/1942280)
 
 Brotato has had great critical success, in the top 0.1% of Steam games for positive reviews, and commercial success, ~$3.8m USD in games sold and in top 2% for lifetime gross revenue. 
 
@@ -174,7 +174,7 @@ It still has a consistent player base with ~10,000 daily players, in the top 100
 Soulstone Survivors is a Survivors-Like game released ~11 months after Vampire Survivors.
 
 ![Soulstone Survivors](images/ss-0.jpg)\
-[Source: Steam](https://store.steampowered.com/app/2066020/Soulstone_Survivors/)
+Source: Steam (https://store.steampowered.com/app/2066020/Soulstone_Survivors/)
 
 ```mermaid
 %%{init: {'theme':'forest', 'gitGraph': {'showBranches': false}, 'themeVariables': {
@@ -193,7 +193,7 @@ gitGraph
 ![Soulstone Survivors Stats](images/ss-1.png)
 ![Soulstone Survivors Stats](images/ss-2.png)
 ![Soulstone Survivors Stats](images/ss-3.png)\
-[Source: VG Insights](https://vginsights.com/game/2066020)
+Source: VG Insights (https://vginsights.com/game/2066020)
 
 Soulstone Survivors has had great critical success, in the top 1% of Steam games for positive reviews, and commercial success, ~$2.5m USD in games sold and in top 2% for lifetime gross revenue. 
 

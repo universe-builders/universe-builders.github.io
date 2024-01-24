@@ -27,7 +27,8 @@ Universe Builders is currently being set up and has one full time developer, Jam
 📞 [0450215144](tel:+61450215144)\
 📇 LinkedIn (https://www.linkedin.com/in/jamesknightgd/)
 
-<iframe width="920" height="518" src="https://www.youtube.com/embed/cp6cpmKnE_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Video Introduction
+https://www.youtube.com/embed/cp6cpmKnE_Q
 
 ## Bio
 James Knight is a lifelong multiplayer and MMO ~~addict~~ fan, having played almost every MMO and most online multiplayer games, and has dedicated his entire career to working with the most innovative multiplayer game and technology developers in the industry. 

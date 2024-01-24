@@ -5,8 +5,6 @@ layout: default
 nav_order: 14
 ---
 
-[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1aI0sI7endUCiz2RWnYh9Ur6b3jPURkoK/view?usp=share_link){:target="_blank"}
-
 This page contains the prototype and play instructions for the Void Survivors Pre-Production prototype.
 
 ----

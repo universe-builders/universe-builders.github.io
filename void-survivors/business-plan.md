@@ -7,8 +7,6 @@ nav_order: 30
 
 This page defines the direction of the design for the game Void Survivors.
 
-This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game's development.
-
 ----
 
 ## 🎁 Value Propositions 🎁

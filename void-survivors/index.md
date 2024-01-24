@@ -12,10 +12,11 @@ has_children: true
 ### Overview
 
 
-**Void Survivors**\* is a free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against increasingly difficult waves of whimsical fantasy invaders.\
-\* _Working title_
+**Void Survivors**\* is a web-based free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against increasingly difficult waves of nightmare invaders.
 
-The game is currently in pre-production and solely being developed by Universe Builders, who are currently seeking funding to be able to complete the game.
+**Void Survivors** reimagines the mega-popular single-player ‘survivors’ genre into a massively-multiplayer format with cooperative mechanics and with deep Twitch integrations for streamers to play with their live audience. 
+
+The game is currently in pre-production and solely being developed by Universe Builders, who are currently seeking funding to be able to complete a multiplayer prototype.
 
 ----
 
@@ -23,14 +24,12 @@ The game is currently in pre-production and solely being developed by Universe B
 Play a fast paced swarm-defense bullet-heaven game in a group with **hundreds of other people**!\
 Invite your friends and invite your community to play with you using one simple QR code or link!
 
-**How it is familiar**:
+## 👉 How it is familiar
 * Familiar popular genres (swarm-defense, bullet-heaven).
 * Familiar art style (voxel-based).
 
-**How it differs**:
-* Massively multiplayer. (no existing title in these genres)
-* Easily invite anyone at anytime, with a QR code or link.
-* Play immediately with no installation within a web browser, on almost any device.
+## 👈 How it differs:
+Void survivors' gameplay will be familiar to a lot of gamers as it is similar to many other popular titles (Vampire Survivors) with one major twist, it's a highly cooperative and massively-multiplayer! It is uniquely positioned in that no existing title in the Survivors-Like genre is massively multiplayer.
 
 See [Design Direction](design-direction) for more info.
 
@@ -52,10 +51,11 @@ See [Art Direction](art-direction) for more info.
 ----
 
 ### 🛠️ Mechanics
-* Movement in 2D.
-* Auto-target combat.
-* Telegraphed attacks.
-* Roles (Tank, Healer, DPS, Crowd Control, ...).
+🗡️ Auto Attacks\
+🔥 Character classes with unique compositional skills\
+🙏 Combining abilities\
+⚠️ Telegraphed abilities and attacks\
+💪 Rapid Progression and ability unlocks
 
 See [Design Direction](design-direction) for more info.
 
@@ -107,8 +107,11 @@ See [Design Direction](narrative-direction) for more info.
 
 The following persona's are the focus for marketing efforts.
 
-🤝 **Persona: Community Member**\
-The community member is someone who is looking to socialize, interact, and fit in with a community.
+🤳 **Persona: Streamer**\
+The streamer is a Twitch streamer who is playing social multiplayer games, who is engaging with their audience through their feedback, their reaction to events in the stream, and ideally have experimented with playing games with their audience.
+
+🤝 **Persona: Social Gamer**\
+The social gamer is someone who is looking to socialize, interact, and fit in with a community. They want to feel integrated within community and are looking to cooperate and compete within it.
 
 👉 **Persona: Community Organizer**\
 The community organizer is someone who is always looking for games they can play with their friends, family, or community.
@@ -153,7 +156,7 @@ See [Market Research](market-research) for more info.
 ----
 
 ### 🧮 Technology
-👾 In-house built game engine.\
+👾 In-house built game engine for the web.\
 🌐 Web (WebRTC, WebGPU, WebGL).\
 ☁️ Cloud providers (AWS, GCloud).\
 🗩 C, WebAssembly, Typescript.

@@ -5,11 +5,7 @@ layout: default
 nav_order: 20
 ---
 
-[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1BBNWpVsm4e3QDdv6AYa73m8CPtalLHuP/view?usp=share_link){:target="_blank"}
-
 This page defines the direction of the design for the game Void Survivors.
-
-This document is a WIP and will be iterated upon during during the Pre-Production, Alpha, and Beta phases of the game's development as ideas are tested and validated in playtests. See [Development Plan](development-plan) for more info.
 
 ----
 
@@ -26,27 +22,33 @@ This document is a WIP and will be iterated upon during during the Pre-Productio
 
 ## Gameplay
 
-**Void Survivors**\* is a free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against incresingly difficult waves of whimsical fantasy invaders.
+**Void Survivors**\* is a web-based free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against increasingly difficult waves of nightmare invaders.
+
+**Void Survivors** reimagines the mega-popular single-player ‘survivors’ genre into a massively-multiplayer format with cooperative mechanics and with deep Twitch integrations for streamers to play with their live audience. 
+
 \*_Working title_
 
-----
+## 🪝 Hooks
+* Play a fast paced swarm-defense bullet-heaven game in a group with **hundreds of other people**!
+* Play live with streamers!
+* Cooperate to survive as long as you can! Ensure you have plenty of each class and combine abilities for huge benefits!
+* Invite your friends and your discord communities to play with you using one simple QR code or link!
 
-## 🪝 Hook
-Play a fast paced swarm-defense bullet-heaven game in a group with **hundreds of other people**!\
-Invite your friends and invite your community to play with you using one simple QR code or link!
-
-**How it is familiar**:
+## 👉 How it is familiar
 * Familiar popular genres (swarm-defense, bullet-heaven).
 * Familiar art style (voxel-based).
 
-**How it differs**:
-* Massively multiplayer. (no existing title in these genres)
-* Easily invite anyone at anytime, with a QR code or link.
+## 👈 How it differs:
+Void survivors' gameplay will be familiar to a lot of gamers as it is similar to many other popular titles (Vampire Survivors) with one major twist, it's a highly cooperative and massively-multiplayer! It is uniquely positioned in that no existing title in the Survivors-Like genre is massively multiplayer.
+
+* Massively multiplayer.
+  * No competitor is massively-multiplayer, which is a frequently requested feature in reviews.
+* Class-based gameplay with complimentary abilities (tanks can block incoming projectiles, healers can restore health).
+* Highly cooperative mechanics, like combineing abilities with other players for devastating effects!
+  * Competitors do not have collaboration or cooperation mechanics.
 * Play immediately with no installation within a web browser, on almost any device.
-
-Void survivors' gameplay will be familiar to a lot of gamers as it is similar to many other popular titles (Vampire Survivors) with one twist, it's massively-multiplayer! It is uniquely positioned in that no existing title in the Survivors-Like genre is massively multiplayer.
-
-----
+* Easily invite anyone at anytime, with a QR code or link.
+  * Competitors currently require purchasing through steam or console marketplaces.
 
 ## 📛 Genres
 Main Genre: MMO.
@@ -178,7 +180,7 @@ Players are highly motivated to join as a community, to seek each other out, and
 Teams will have statistics📊 of individual performance (damage, healing, ...) displayed at all times which will motivate competitive players to top the team leaderboard. This allows shareable moments within communities.
 
 ### 🔥 Destruction
-The combat will cause over the top destruction (explosions, mayhem) to the environment and entities within, in a fireworks-display-esque comical manner. It should be suprising, enjoyable, and candy for your eyes.
+The combat will cause over the top destruction (explosions, mayhem) to the environment and entities within, in a fireworks-display-esque comical manner. It should be surprising, enjoyable, and candy for your eyes.
 
 ### 😮 Excitement
 The game will be fast paced, ramping up quickly until a point of overwhelming the player. It will be full of surprises and intense moments, eg when massive waves of enemies or specifically threatening enemies spawn "There's a dragon!!! Watch out everyone!!". Players should walk away from a 15 minute session feeling thrilled.
@@ -221,7 +223,7 @@ The game will **not** focus on the following player motivations:
 These are fantasies that attract the player to Void Survivors and continues to motivate them to play.
 
 * I want to play with large groups of players (100+).
-* I want to feel impactful role within a group.
+* I want to feel impactful role within a group. (Class roles)
 * I want to play with my friends.
 * I want to play with my communities (gaming, social, work, ...).
 * I want to play with popular streamers.
@@ -238,20 +240,25 @@ Players can move around the world in the horizontal plane, ie unable to jump or 
 Characters will attack the nearest threat automatically, players need not aim attacks or choose targets. This is a characteristic mechanic of the bullet-heaven genre.
 
 ### 🔥 Character classes have unique abilities
-Each character class has unique abilities that can be used to directly help team mates. For example:\
+Each character class has unique abilities that can be used to directly help team mates. This creates a strong sense of collaboration and cooperation. Teams should aim for a diversity of classes.
+
+For example:\
 🛡️ Paladin: Block and reflect attacks.\
 🦎 Tamer: Can tame invaders into friendly pets.\
 🌷 Druid: Can grow defensive fauna.
+
+### 🙏 Combined abilities
+When a player uses an ability, such as an area based damaging effect, other players will have the opportunity to combine their ability on top of it. This allows for stronger abilities that are only possible with numerous collaborating team mates. These combinations will happen intuitively by the game and promote collaboration and cooperation.
+
+Examples:
+* A player could launch a tornado ability, another player could shoot a fireball into the tornado to create a fire-tornado which deals massive amounts of damage.
+* A healer could create an area-based healing zone, a paladin can reinforce the healing circle with a shield which prevent's projectiles from coming inside, archers can place barricades on the outside of the circle which prevent large invaders from entering. 
 
 ### ⚠️ Telegraphed abilities and attacks
 All abilities and attacks, from friends or enemies, will be telegraphed to allow the players to react to it. Players are able to get out of the way of enemy attacks and ensure they take advantage of any team mates abilities (eg a heal).
 
 ### 💪 Rapid Progression and ability unlocks
 At the start of each session, a character has only the default abilities and gains new abilities rapidly over a 15 minute session. Each minute or so, chosen from a set of three random abilities. Players of each class will be given the same ability choices, and will see the abilities other players choose, so they can tactically to choose the same abilities or have a mixture of abilities on the team.
-
-### 🙏 Stacked abilities
-When a player uses an ability, such as an area based heal, other players will have the opportunity to stack their ability on top of it. This allows for stronger abilities that are only possible with numerous collaborating team mates. For example, an area based heal that has numerous stacks will have a wider area of effect and healing potency.
-
 ----
 
 ## 🌀 Gameplay Loop 🌀

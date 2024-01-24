@@ -5,11 +5,7 @@ layout: default
 nav_order: 21
 ---
 
-[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1xmhk_yKOjroGagh_N4ODs6epWY_t-fqJ/view?usp=share_link){:target="_blank"}
-
 This page defines the direction of the art for the game Void Survivors.
-
-This document is a WIP and will be completed in the Pre-Production phase of development. See [Development Plan](development-plan) for more info.
 
 ----
 
@@ -24,6 +20,8 @@ This document is a WIP and will be completed in the Pre-Production phase of deve
 
 ----
 
+## Direction
+The art direction should be familiar to the target audience, which play games such as Minecraft, Roblox, and Fortnite. These games tend to have vibrant, low-fidelity, and/or voxel art styles.
 ## 🪘 Art Pillars 🪘
 
 These pillars help drive decisions and direction in all aspects of the art for Void Survivors.

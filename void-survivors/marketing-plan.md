@@ -5,11 +5,7 @@ layout: default
 nav_order: 32
 ---
 
-[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1q4LXgWaipcv_7HktZ-MvFGw3RIDVfsjf/view?usp=share_link){:target="_blank"}
-
 This page defines the marketing and release plan for the game Void Survivors.
-
-This document is a WIP and will be iterated upon during the Pre-Production, and Alpha phases of the game's development.
 
 ----
 
@@ -30,17 +26,15 @@ Psychographic segmentation is used to define personas which guide development an
 
 ----
 
-### 🤝 Persona: Community Member
+### 🤳 Persona: Streamer
 
-The community member is someone who is looking to socialize, interact, and fit in with a community. They want to feel integrated within community and are looking to cooperate and compete within it. They are open to new experiences as long as they are social in nature. They enjoy competitive and challenging situations where they can personally stand out in their community. They enjoy cooperating with a team to overcome challenges and achieve unique rewards.
+The streamer is a Twitch streamer who is playing social multiplayer games, who is engaging with their audience through their feedback, their reaction to events in the stream, and ideally have experimented with playing games with their audience.
 
-The community member plays on a low/mid powered PC, laptop, or mobile device. They are highly engaged in the voice chat or text chat of their community, preferring their community chat to an in-game chat, and aren't entirely focused on the game. They are skilled at video games and are familiar with traditional mechanics, input controls, and tropes.
+Lot's of streamers have run events where they play with their streamers, a YouTube search of 'streamer plays with audience' reveals lot's of results = e.g. xQcOW playing Jackbox Party with their viewers.
 
-The community member likes achievements and status rewards which can be flaunted within their community, such as high scores and personal achievements.
+Streamers will integrate Void Survivors as an experience to increase engagement with their audience in down-times, such as switching between games or starting the stream.
 
-The community member discovers games using the community they are a part of. They tend to play games based on the trends in their community so they can feel integrated. 
-
-The community member is willing to spend money on rewards that will make them stand out from their community, through unique class or cosmetics, or that provide them recognition and status within their community.
+Streamers are always looking for new ways to engage with their audience, to create new rewards and interaction dynamics within their community.
 
 ----
 
@@ -55,6 +49,22 @@ The community organizer looks for games that are mechanics focused opposed to st
 The community organizer discovers games using filtering in Steam or similar app for cooperative, competitive, couch games, and other specific tags. They will consider a large number of games in their discovery and quickly determine appropriate games by looking at the marketing materials.
 
 The community organizer is willing to spend money on rewards that will benefit their entire team and on cosmetics which help themselves stand out from their community.
+
+----
+
+### 🤝 Persona: Social Gamer
+
+The social gamer is someone who is looking to socialize, interact, and fit in with a community. They want to feel integrated within community and are looking to cooperate and compete within it. They are open to new experiences as long as they are social in nature. They enjoy competitive and challenging situations where they can personally stand out in their community. They enjoy cooperating with a team to overcome challenges and achieve unique rewards.
+
+The social gamer plays on a low/mid powered PC, laptop, or mobile device. They are highly engaged in the voice chat or text chat of their community, preferring their community chat to an in-game chat, and aren't entirely focused on the game. They are skilled at video games and are familiar with traditional mechanics, input controls, and tropes.
+
+The social gamer plays games like Roblox, Minecraft, and Fortnite.
+
+The social gamer likes achievements and status rewards which can be flaunted within their community, such as high scores and personal achievements.
+
+The social gamer discovers games using the community they are a part of. They tend to play games based on the trends in their community so they can feel integrated. 
+
+The social gamer is willing to spend money on rewards that will make them stand out from their community, through unique class or cosmetics, or that provide them recognition and status within their community.
 
 ----
 
@@ -118,7 +128,7 @@ To be completed by the Producer in the Alpha milestone. See [Development Plan](d
 
 ## 🗺️ Marketing Strategy
 
-Void Survivors allows players to join an existing game session by using a simple web browser link. The marketing strategy is focused on user acquisition by engaging with existing synchronous gaming communities to motivate community members to join existing sessions, start and share their own session, and eventually have the community provide a permanent session link. Further, the strategy focuses on user retention through the formation of a Discord server and an email list.
+Void Survivors allows players to join an existing game session by using a simple web browser link. The marketing strategy is focused on user acquisition by engaging with existing synchronous gaming communities to motivate social gamers to join existing sessions, start and share their own session, and eventually have the community provide a permanent session link. Further, the strategy focuses on user retention through the formation of a Discord server and an email list.
 
 The strategy focuses on synchronous game communities, ie Discord and Twitch, as opposed to asynchronous forums such as Reddit or Facebook, as the optimal way the game is discovered is by players joining a link to a live session shared on a community they are a part of.
 
@@ -144,7 +154,7 @@ Examples of existing Discord gaming communities:
 
 To achieve this, the following steps will be undertaken:
 1. Identify Discord gaming communities, join, and engage*.
-2. Occasionally post a link to an existing session, looking for online community members to join.
+2. Occasionally post a link to an existing session, looking for online social gamers to join.
 3. Engage the community owners to post a permanent link to a session, this allows their community to be discovered by other players in game - increasing their community size.
 
 *It's important to engage consistently and for a long period, as some communities have posting restrictions, which disallow new or inactive users from posting.
@@ -155,7 +165,7 @@ This strategy is modern, as over the last few years many online communities have
 
 This strategy focuses on the main user target, that of a person in a gaming community looking to play and interact with others in the community.
 
-The final step of this strategy is for communities to post a permalink for Void Survivors in their community, this allows players in their community to join at any time and be placed with others in that community. The main advantage for the community is that it can be organically discovered by players within the game, increasing the community user base. Further incentives are affiliation rewards of purchases by community members, and in-game boosts for community members.
+The final step of this strategy is for communities to post a permalink for Void Survivors in their community, this allows players in their community to join at any time and be placed with others in that community. The main advantage for the community is that it can be organically discovered by players within the game, increasing the community user base. Further incentives are affiliation rewards of purchases by social gamers, and in-game boosts for social gamers.
 
 This strategy requires no financial investment and a continual small time investment by having accounts active and engaged in a number of gaming communities.
 

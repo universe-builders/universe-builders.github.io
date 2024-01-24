@@ -5,9 +5,7 @@ layout: default
 nav_order: 1
 ---
 
-[📥 DOWNLOAD OFFLINE PDF VERSION 📥](https://drive.google.com/file/d/1kxMrkwpABFhmSl9SxWAAtsqs_ngWLzGc/view?usp=share_link){:target="_blank"}
-
-Universe Builders currently has one full time developer, James Knight, and is supported by a network of passionate and skilled developers who contributed to the application documents of Void Survivors.
+Universe Builders is currently being set up and has one full time developer, James Knight, and is supported by a network of passionate and skilled developers who provide mentoring and contributions to the application documents of Void Survivors.
 
 Those people include:
 * Michael Kerkow, a veteran game design with over 10 years experience in game design and development.

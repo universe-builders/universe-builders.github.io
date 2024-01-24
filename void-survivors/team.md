@@ -5,11 +5,19 @@ layout: default
 nav_order: 1
 ---
 
-Universe Builders is currently being set up and has one full time developer, James Knight, and is supported by a network of passionate and skilled developers who provide mentoring and contributions to the application documents of Void Survivors.
+Universe Builders is currently being set up and has one full time developer, James Knight, and is supported by the following developers who provide mentoring and consultancy.
 
-Those people include:
-* Michael Kerkow, a veteran game design with over 10 years experience in game design and development.
-* Dylan Knight, a marketing expert who has helped successfully market digital products of all sorts.
+* Michael Kerkow, a veteran game designer with over 10 years experience in game design and development including:
+    * Senior XR Developer : Snobal
+    * Software Developer : Lightweave
+    * Simulation Consultant : Solosi
+    * 📇 [LinkedIn](https://www.linkedin.com/in/mike-kerkow-64712b22/){:target="_blank"}
+
+
+* Dylan Knight, a marketing expert who has helped successfully market digital products of all sorts including:
+    * Digital Marketing Specialist : Margin Media
+    * Marketing Specialist : BAMBRICK
+     * 📇 [LinkedIn](https://www.linkedin.com/in/dylan-knight-28849b11b/){:target="_blank"}
 
 ----
 

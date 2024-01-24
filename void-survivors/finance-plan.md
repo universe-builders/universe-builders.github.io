@@ -5,10 +5,6 @@ layout: default
 nav_order: 32
 ---
 
-This page defines the estimated costs for development and production of Void Survivors, and the finance plan to achieve funding.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -30,7 +26,7 @@ This document contains the funding opportunities and finance plan for Void Survi
 
 This project is eligible for grants from various organizations. Including the following:
 * Screen Queensland
-* Screen Australia Games Expansion
+* Screen Australia
 * Australia Council Arts Projects
 
 ----
@@ -41,7 +37,7 @@ Void Survivors is an attractive game for publishers due it's relatively low deve
 
 There are dozens of appropriate publishers for Void Survivors. The best fit is web platform publishers, as they are reportedly underserviced. Publishers such as Armor Games and Kongregate frequently publish games that are distributed by their platform, usually with an exclusivity period.
 
-It would be ideal to approach a publisher once the Alpha milestone has been achieved, which results in a vertical slice deliverable, as this would make the pitch more tangible.
+It would be ideal to approach a publisher once the Multiplayer Prototype milestone has been achieved, which results in a vertical slice deliverable, as this would make the pitch more tangible.
 
 ----
 
@@ -55,7 +51,7 @@ Further, the core technology allows the company to produce future titles similar
 
 Universe Builders could receive VC funding for the purposes of completing Void Survivors, however it is the least attractive funding option due to the cost of acquiring the capital.
 
-It would be ideal to approach VC funding once the Pre-Production milestone has been achieved, when the core technology has been tested and is proven.
+It would be ideal to approach VC funding once the Multiplayer Prototype milestone has been achieved, when the core technology has been tested and is proven.
 
 ----
 
@@ -68,10 +64,10 @@ This is not an ideal option due to the cost of preparing for and running the cro
 
 ## Finance Plan
 
-To fund the development and production of Void Survivors, financing will be seeked out in the following order:
-1. **Grant Funding** for exploration and R&D activities which will reduce the cost of Pre-Production.
-2. **Grant Funding** for Pre-Production and Alpha milestones, and ideally Beta and Release.
-3. **Publisher Funding**, ideally once Alpha has been completed and only if Grant Funding does not cover all milestones.
+To fund the development and production of Void Survivors, financing will be sought in the following order:
+1. **Grant Funding** for exploration and R&D activities which will reduce the cost of Pre-Production specifically for any custom technology being built.
+2. **Grant Funding** for Pre-Production, and ideally to Early Access.
+3. **Publisher Funding**, ideally once Closed Alpha has been completed and only if Grant Funding does not cover all milestones.
 4. **VC Funding**/**Crowd Funding**, ideally once Pre-Production has been completed and only in the case that the above funding sources are unable to fund Void Survivors to completion.
 
 ----
@@ -81,11 +77,9 @@ To fund the development and production of Void Survivors, financing will be seek
 The following are contingencies in the case that the optimistic funding is not reached.
 
 ### Early Access
-The Beta milestone will result in a horizontal slice which is monetizable and will support a large number of players. This is a great candidate for early access through Steam and other appropriate platforms, which can result in funding for the game and enable the delivery the Release milestone.
+The Closed Alpha milestone will result in a horizontal slice which is monetizable and will support a large number of players. This is a great candidate for early access through Steam and other appropriate platforms, which can result in funding for the game and enable the delivery the Release milestone.
 
 ### Reduced Scope
 A large cost center for the game is the Game Developer and Artist roles. By reducing the scope of the content in the game by ~50% the cost of development would decrease by ~35%.
 
-This content could instead be developed in early access or live service, instead of in the Alpha and Beta milestones, based on funding received from monetizing the game.
-
-----
+This content could instead be developed in early access or live service based on funding received from monetizing the game.

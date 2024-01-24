@@ -5,10 +5,6 @@ layout: default
 nav_order: 22
 ---
 
-This page defines the story, theme, and narrative direction for Void Survivors.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

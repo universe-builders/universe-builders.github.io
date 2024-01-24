@@ -5,10 +5,6 @@ layout: default
 nav_order: 31
 ---
 
-This page defines the plan for developing Void Survivors, including milestones, schedules, and roles.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents
@@ -43,6 +39,13 @@ gitGraph
 
 ## Current state of the project
 Void Survivors has completed the **Ideation & Direction** milestone and the **Single Player Basic Prototype** milestone and is currently seeking funding to allow for creation of a **Multiplayer Prototype**.
+
+----
+
+## Project Advancement Strategy
+At the completion of the **Multiplayer Prototype** milestone, the next goal will be to seek funding for the completion of the project, or the next milestone of **Closed Alpha**.
+
+Ideally product market fit will have been validated in **Multiplayer Prototype** milestone without many major changes or requiring a pivot. If that is not the case, then the **Closed Alpha** milestone will be re-estimated with a new delivery schedule to account for those changes.
 
 ----
 
@@ -205,7 +208,7 @@ Estimated Development Time: 1 month.
 **Design Challenges**\
 The main design challenge is to translate the tropes, game loop, and main mechanics of the ‘survivors’ genre into a compelling massively-multiplayer experience that works well in a streamer and live audience setting.
 
-Challenges:
+Main Challenges:
 * How to scale the difficulty to support groups as small as 5 players and as large as 100 players and still achieve a ~5 minute session length?
 * How to make players feel impactful in large groups? 
 * How to allow players to be recognized and stand out from the pack?
@@ -220,7 +223,7 @@ The design should not deviate too far from the tropes of the genre, as the gamep
 **Development Challenges**\
 The main development challenge is to provide a highly accessible gameplay experience whilst being able to continue watching and engaging with the streamer.
 
-Challenges:
+Main Challenges:
 * Support for mobile and desktop devices.
 * Support for low powered devices.
 * Support for small screens (splitting screen between streamer and game).

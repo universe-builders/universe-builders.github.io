@@ -5,10 +5,6 @@ layout: default
 nav_order: 20
 ---
 
-This page defines the direction of the design for the game Void Survivors.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

@@ -5,10 +5,6 @@ layout: default
 nav_order: 33
 ---
 
-This page defines the release plan for Void Survivors.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

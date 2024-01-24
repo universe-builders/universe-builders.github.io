@@ -5,10 +5,6 @@ layout: default
 nav_order: 30
 ---
 
-This page defines the direction of the design for the game Void Survivors.
-
-----
-
 ## 🎁 Value Propositions 🎁
 
 ### 🎁 What value do we deliver to the customer?

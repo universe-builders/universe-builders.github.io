@@ -5,10 +5,6 @@ layout: default
 nav_order: 21
 ---
 
-This page defines the direction of the art for the game Void Survivors.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

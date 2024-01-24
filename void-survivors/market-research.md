@@ -5,10 +5,6 @@ layout: default
 nav_order: 34
 ---
 
-This page contains the market research performed on the genre of Void Survivors to understand the viability of the game in the market.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

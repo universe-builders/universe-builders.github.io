@@ -5,10 +5,6 @@ layout: default
 nav_order: 32
 ---
 
-This page defines the marketing and release plan for the game Void Survivors.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

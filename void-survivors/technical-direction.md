@@ -5,9 +5,6 @@ layout: default
 nav_order: 24
 ---
 
-This page defines the direction of the technology (Engine, Content Pipeline, Multiplayer Servers, ...) used to develop and deploy the game Void Survivors.
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

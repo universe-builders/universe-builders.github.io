@@ -5,10 +5,6 @@ layout: default
 nav_order: 14
 ---
 
-This page contains the prototype and play instructions for the Void Survivors Pre-Production prototype.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

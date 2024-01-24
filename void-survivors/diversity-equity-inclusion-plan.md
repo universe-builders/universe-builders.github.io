@@ -5,10 +5,6 @@ layout: default
 nav_order: 36
 ---
 
-This page defines the DE&I plan for the Void Survivors project.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

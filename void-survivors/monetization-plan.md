@@ -5,10 +5,6 @@ layout: default
 nav_order: 35
 ---
 
-This page defines the plan for monetizing Void Survivors.
-
-----
-
 <details open markdown="block">
   <summary>
     Table of contents

@@ -28,7 +28,7 @@ Universe Builders is currently being set up and has one full time developer, Jam
 📇 LinkedIn (https://www.linkedin.com/in/jamesknightgd/)
 
 ## Video Introduction
-https://www.youtube.com/embed/cp6cpmKnE_Q
+[https://www.youtube.com/watch?v=cp6cpmKnE_Q](https://www.youtube.com/watch?v=cp6cpmKnE_Q)
 
 ## Bio
 James Knight is a lifelong multiplayer and MMO ~~addict~~ fan, having played almost every MMO and most online multiplayer games, and has dedicated his entire career to working with the most innovative multiplayer game and technology developers in the industry. 

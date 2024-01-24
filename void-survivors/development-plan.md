@@ -67,6 +67,14 @@ Ideally product market fit will have been validated in **Multiplayer Prototype**
 🎯 To produce a multiplayer gameplay prototype, a game experience at the quality level of the final product for a small segment of the game, demonstrating the core gameplay and gameplay loop.\
 🎯 To prove product market fit with target market.
 
+**Metrics for success**:\
+⭐ At-least 5 streamers have playtested the prototype with their live audience of over 100 total players.\
+⭐ At-least 3 existing discord gaming groups have playtested the game with at least 5 people per playtest.\
+⭐ All streamers provided feedback that they would play with their audience again.\
+⭐ A majority of streamers provided feedback that they would play with their audience on a frequent basis.\
+⭐ A majority of playtesters provided feedback that they would play again with that group.\
+⭐ A majority of playtesters provided feedback that they would play again with a different group (if they know of one).
+
 **Features delivered in this milestone**:\
 ✅ 3 unique classes.\
 ✅ Support for 25 players concurrent per team.\

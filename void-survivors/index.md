@@ -5,8 +5,7 @@ nav_order: 5
 has_children: true
 ---
 
-### Overview
-
+## Quick Reference
 
 **Void Survivors**\* is a web-based free-to-play cooperative swarm-defense massively-multiplayer game, where hundreds of players group together to survive for as long as possible against increasingly difficult waves of nightmare invaders.
 

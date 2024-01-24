@@ -73,3 +73,18 @@ He is the founder and currently sole developer at Universe Builders. He has over
 
 **For a full list of experiences and portfolio please see [LinkedIn](https://www.linkedin.com/in/jamesknightgd/){:target="_blank"} for more information.**
 
+----
+
+## Impact of achieving grant funding
+
+I’ve worked in AAA for 7 years and games education for 3 years and I’d love the opportunity to form a studio which combats the loneliness epidemic by creating games for players to have meaningful and positive experiences with their gaming communities.
+
+Investing in Void Survivors means you provide me the time to express and upgrade my specialized MMO and web development skills to develop a prototype which could prove a new market have a large commercial impact.
+
+Provided grant funding, I will dedicate 100% of my professional working hours towards it.
+
+Further, as a passionate educator I’d love to provide opportunities for internships and junior positions under the guidance of senior staff who are passionate about educating and investing in the next generation of developers.
+
+During production, I would love to achieve the support for at least two internship or junior positions.
+
+----
